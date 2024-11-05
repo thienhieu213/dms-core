@@ -1,0 +1,114 @@
+<h1><a name="_Toc181627979"><span lang="EN-US" id="5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang="EN-US">PHỤ LỤC</span></a></h1>
+
+<h2 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:
+1.0cm"><a name="_Toc144716117"></a><a name="_Toc181627980"><span lang="EN-US" id="5.1">5.1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span lang="EN-US">Bảng mã lỗi và hướng dẫn khắc phục</span></a><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></h2>
+
+<h3 style="margin-left:27.0pt;text-indent:-27.0pt"><a name="_Toc144716118"></a><a name="_Toc181627981"><span lang="EN-US" id="5.1.1">5.1.1.</span><span lang="EN-US">Lỗi WE001</span></a></h3>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
+text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Mô tả:
+Khi thực hiện thao thác như Thêm/ Xóa/ Sửa/…, hệ thống sẽ hiển thị thông báo
+cho biết lưu thành công hay thất bại. Nếu lưu thất bại sẽ hiển thị thêm mô tả
+lỗi.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
+text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Cách</span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%'> khắc phục:</span></p>
+
+<p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
+style='font-size:12.0pt;line-height:150%'>        +  Kiểm tra nội dung thông
+báo lỗi (dòng thông báo chữ đỏ), kiểm tra xem thao tác đang thực hiện có phải
+là một thao tác được phép/ hợp lệ hay không?</span></p>
+
+<p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
+style='font-size:12.0pt;line-height:150%'>        +  Nếu là một thao tác được
+phép/ hợp lệ: Thực hiện hiệu chỉnh cho phù hợp theo nội dung thông báo lỗi.</span></p>
+
+<p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
+style='font-size:12.0pt;line-height:150%'>        + </span><span lang=EN-US
+style='font-size:12.0pt;line-height:150%'>Thử thực hiện lại thao tác</span></p>
+
+<h3 style="margin-left:27.0pt;text-indent:-27.0pt"><a name="_Toc181627982"></a><a name="_Toc144716119"><span lang="EN-US" id="5.1.2">5.1.2.</span><span lang="EN-US">Lỗi ME00</span></a><span lang="EN-US">2</span></h3>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
+text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Mô tả:
+Sau khi người dùng nhập liệu rồi nhấn thao tác xử lý, hệ thống sẽ kiểm tra nội
+dung điền vào nếu không hợp lệ/lỗi thì sẽ hiển thị thông báo lỗi.</span></p>
+
+<p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
+text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Cách
+khắc phục:</span></p>
+
+<p class=MsoToc4 style='margin-left:0cm;text-align:justify;text-indent:22.5pt;
+line-height:150%'><span lang=EN-US style='line-height:150%'>+ Kiểm tra nội dung
+thông báo lỗi (dòng thông báo chữ đỏ), kiểm tra xem nội dung điền vào có vi
+phạm quy định về cách nhập dữ liệu không.</span></p>
+
+<p class=MsoToc4 style='margin-left:0cm;text-align:justify;text-indent:22.5pt;
+line-height:150%'><span lang=EN-US style='line-height:150%'>+ Thực hiện hiệu
+chỉnh cho phù hợp theo nội dung thông báo lỗi.</span></p>
+
+<p class=MsoToc4 style='margin-left:0cm;text-align:justify;text-indent:22.5pt;
+line-height:150%'><span lang=EN-US style='line-height:150%'>+ Thử lại thao tác.</span></p>
+
+<h2 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:
+28.1pt;text-indent:-28.1pt"><a name="_Toc144716120"></a><a name="_Toc181627983"><span lang="EN-US" id="5.2">5.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang="EN-US">Bảng mã lỗi và hướng dẫn khắc phục</span></a></h2>
+
+<p class=MsoNormalIndent><b><span lang=EN-US>Câu hỏi 1:</span></b><span
+lang=EN-US> Sử dụng DMS trên thiết bị nào là tốt nhất?</span></p>
+
+<p class=MsoNormalIndent><span lang=EN-US>DMS hỗ trợ tốt nhất cho người dùng
+khi sử dụng trên các thiết bị đời mới. Khi sử dụng các thiết bị đời đã quá cũ
+có thể gặp một vài hạn chế hoặc lỗi không mong muốn.</span></p>
+
+<p class=MsoNormalIndent><b><span lang=EN-US>Câu hỏi 2:</span></b><span
+lang=EN-US> Nâng cấp phiên bản mới nhất của DMS bằng cách nào?</span></p>
+
+<p class=MsoNormalIndent><span lang=EN-US>+ Khi khởi động chương trình, hiển
+thị câu thông báo: “Chương trình có phiên bản mới, bạn có muốn cập nhật hay
+không?”. Chọn nút “Chấp nhận” khi đó chương trình sẽ tự động tải phiên bản mới
+nhất về.</span></p>
+
+<p class=MsoNormalIndent><b><span lang=EN-US>Câu hỏi 3:</span></b><span
+lang=EN-US> Tài khoản không thể đăng nhập được trên iPad?</span></p>
+
+<p class=MsoNormalIndent><span lang=EN-US>+ Kiểm tra có kết nối mạng Wifi/mạng
+di động hay không?</span></p>
+
+<p class=MsoNormalIndent><span lang=EN-US>+ Thử chuyển đổi qua lại giữa mạng Wifi
+và mạng di động 3G/4G/5G, …</span></p>
+
+<p class=MsoNormalIndent><span lang=EN-US>Trường hợp vấn đề chưa được khắc phục
+thì cần liên hệ tới đầu mối để được hỗ trợ.</span></p>
+
+<p class=MsoNormalIndent><b><span lang=EN-US>Câu hỏi 4:</span></b><span
+lang=EN-US> Phải xử lý như thế nào khi thỉnh thoảng ứng dụng bị treo, không thể
+tương tác được ứng dụng DMS?</span></p>
+
+<p class=MsoNormalIndent><span lang=EN-US>+ Hãy tắt bớt ứng dụng không cần
+thiết để tiết kiệm RAM và CPU của thiết bị.</span></p>
+
+<p class=MsoNormalIndent><span lang=EN-US>+ Thoát các ứng dụng khác khi mở bằng
+cách nhấn phím “Quay lại” thay vì nhấn phím “Home”.</span></p>
+
+<p class=MsoNormal><span lang=EN-US>+ </span><span lang=EN-US style='font-size:
+12.0pt;line-height:150%'>Trường hợp máy bị treo hoàn toàn cần khởi động lại máy
+và bật lại ứng dụng DMS</span><a name="_Đăng_nhập"></a></p>
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+</div>
+
+</body>
+
+</html>
