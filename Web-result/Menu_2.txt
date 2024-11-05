@@ -1,0 +1,60 @@
+<h1><a name="_Toc181608220"><span lang="EN-US" id="2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang="EN-US">TỔNG QUAN VỀ SẢN PHẨM</span></a></h1>
+
+<p class=MsoNormal style='text-align:justify;text-indent:18.0pt;text-autospace:
+none'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>DMS do Tập
+đoàn Công nghiệp – Viễn thông Quân đội (Viettel Group) cung cấp, là giải pháp
+quản lý hệ thống phân phối bán hàng trực tuyến cho các doanh nghiệp. Giúp doanh
+nghiệp quản lý các hoạt động phân phối hàng hóa ra thị trường, đến các kênh
+phân phối và điểm bán.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:18.0pt;text-autospace:
+none'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Thông qua hệ
+thống DMS, nhà phân phối cung cấp thông tin khách hàng, sản phẩm, khuyến mãi,
+thực hiện xuất nhập kho cho từng nhân viên bán hàng cung cấp hàng hóa đến các
+nhà bán lẻ như siêu thị, cửa hàng tiện lợi, đại lý, tạp hóa…để đến tay người
+tiêu dùng dưới sự quản lý của giám sát bán hàng. Toàn bộ diễn biến trên kênh
+phân phối (các đơn hàng, hình ảnh và vấn đề phát sinh của khách hàng) luôn được
+cập nhật theo thời gian thực. Mô hình phân phối này sẽ giúp hoạt động bán hàng
+nhanh chóng, chính xác, hiệu quả và dễ quản lý hơn.</span></p>
+
+<h2><a name="_Toc181608221"><span lang="EN-US" id="2.1">2.1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang="EN-US">Đầu mối hỗ trợ, hướng dẫn sử dụng</span></a></h2>
+
+<p class=MsoNormalIndent><span lang=EN-US>Trong quá trình thực hiện, các vấn đề
+về thao tác liên quan đến sản phẩm/ứng dụng, người dùng liên hệ đến đầu mối
+sau:</span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:22.5pt;margin-bottom:.0001pt;text-indent:-22.5pt'><span lang=EN-US
+style='font-size:12.0pt;line-height:150%'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Trung
+tâm Giải pháp Miền Nam – Tổng công ty Giải pháp Viettel</span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:22.5pt;margin-bottom:.0001pt;text-indent:-22.5pt'><span lang=EN-US
+style='font-size:12.0pt;line-height:150%'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Điện
+thoại: 18008000-nhánh 6</span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:22.5pt;margin-bottom:.0001pt;text-indent:-22.5pt'><span lang=EN-US
+style='font-size:12.0pt;line-height:150%'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Email:
+<a href="mailto:cskh@viettel.com.vn">cskh@viettel.com.vn</a></span></p>
+
+<h2><a name="_Toc181608222"><span lang="EN-US" id="2.2">2.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang="EN-US">Các nội dung khác</span></a></h2>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:22.5pt;margin-bottom:.0001pt;text-indent:-22.5pt'><span lang=EN-US>-<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Các
+trường * là bắt buộc nhập</span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:22.5pt;margin-bottom:.0001pt;text-indent:-22.5pt'><span lang=EN-US>-<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Kiểu
+ngày tháng: dd/mm/yyyy</span></p>
+
