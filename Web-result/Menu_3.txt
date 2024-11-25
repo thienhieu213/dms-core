@@ -1,7 +1,7 @@
-<h1><a name="_Toc181608223"><span lang="EN-US" id="3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h1><a name="_Toc183097644"><span lang="EN-US" id="3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">GIỚI THIỆU CÁC CHỨC NĂNG</span></a><span lang="EN-US"> </span></h1>
 
-<h2><a name="_Toc181608224"><span lang="EN-US" id="3.1">3.1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a name="_Toc183097645"><span lang="EN-US" id="3.1">3.1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Các chức năng trong Mô-đun Common</span></a></h2>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=624
@@ -77,8 +77,8 @@
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:18.65pt'>
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
-  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Xem thông tin/ Đổi
-  mật khẩu/ Xem và tải tài liệu Hướng dẫn sử dụng</span></p>
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Xem thông tin/
+  Đổi mật khẩu/ Xem và tải tài liệu Hướng dẫn sử dụng</span></p>
   </td>
   <td width=161 style='width:121.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -90,7 +90,7 @@
  </tr>
 </table>
 
-<h2><a name="_Toc181608225"><span lang="EN-US" id="3.2">3.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a name="_Toc183097646"><span lang="EN-US" id="3.2">3.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Các chức năng trong Mô-đun Hệ thống</span></a></h2>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=624
@@ -231,7 +231,7 @@
  </tr>
 </table>
 
-<h2><a name="_Toc181608226"><span lang="EN-US" id="3.3">3.3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a name="_Toc183097647"><span lang="EN-US" id="3.3">3.3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Các chức năng trong Mô-đun Danh mục</span></a></h2>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=624
@@ -400,7 +400,7 @@
  </tr>
 </table>
 
-<h2><a name="_Toc181608227"><span lang="EN-US" id="3.4">3.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a name="_Toc183097648"><span lang="EN-US" id="3.4">3.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Các chức năng trong Mô-đun Chương trình</span></a></h2>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=624
@@ -473,16 +473,19 @@
   padding:0cm 5.4pt 0cm 5.4pt;height:18.65pt'>
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
   auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Chương trình
-  khuyến mãi tự động</span></p>
+  khuyến mãi</span></p>
   </td>
   <td width=257 style='width:192.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:18.65pt'>
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
   auto'><span lang=EN-US style='font-size:12.0pt;color:black'>1. Chương trình
-  khuyến mãi</span></p>
+  khuyến mãi tự động</span></p>
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
-  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>2. Thiết lập nhóm
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>2. Chương trình
+  khuyến mãi thủ công</span></p>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>3. Thiết lập nhóm
   khuyến mãi </span></p>
   </td>
   <td width=161 style='width:120.95pt;border-top:none;border-left:none;
@@ -524,7 +527,7 @@
  </tr>
 </table>
 
-<h2><a name="_Toc181608228"><span lang="EN-US" id="3.5">3.5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a name="_Toc183097649"><span lang="EN-US" id="3.5">3.5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Các chức năng trong Mô-đun Giám sát</span></a></h2>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=624
@@ -612,9 +615,70 @@
   dùng được phân quyền</span></p>
   </td>
  </tr>
+ <tr style='height:20.1pt'>
+  <td width=45 style='width:33.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
+  line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
+  12.0pt;color:black'>3</span></p>
+  </td>
+  <td width=159 style='width:119.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt'>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Quản lý công việc</span></p>
+  </td>
+  <td width=258 style='width:193.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt'>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>1. Cần thực hiện</span></p>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>2. Giao việc</span></p>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>3. Vấn đề</span></p>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>4. Ghi chú</span></p>
+  </td>
+  <td width=162 style='width:121.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt'>
+  <p class=MsoNormal style='margin-top:0cm;text-align:justify;line-height:normal;
+  page-break-after:auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Người
+  dùng được phân quyền</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.1pt'>
+  <td width=45 style='width:33.5pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
+  line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
+  12.0pt;color:black'>4</span></p>
+  </td>
+  <td width=159 style='width:119.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt'>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Quản lý thông báo</span></p>
+  </td>
+  <td width=258 style='width:193.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt'>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Tìm kiếm/ Thêm
+  mới / Chỉnh sửa/ Hủy thông báo</span></p>
+  </td>
+  <td width=162 style='width:121.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt'>
+  <p class=MsoNormal style='margin-top:0cm;text-align:justify;line-height:normal;
+  page-break-after:auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Người
+  dùng được phân quyền</span></p>
+  </td>
+ </tr>
 </table>
 
-<h2><a name="_Toc181608229"><span lang="EN-US" id="3.6">3.6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a name="_Toc183097650"><span lang="EN-US" id="3.6">3.6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Các chức năng trong Mô-đun Quản trị</span></a><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></h2>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=624
@@ -825,7 +889,7 @@
  </tr>
 </table>
 
-<h2><a name="_Toc181608230"><span lang="EN-US" id="3.7">3.7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a name="_Toc183097651"><span lang="EN-US" id="3.7">3.7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Các chức năng trong Mô-đun Bán hàng</span></a><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></h2>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=624
@@ -881,6 +945,9 @@
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
   auto'><span lang=EN-US style='font-size:12.0pt;color:black'>3. Duyệt đơn bán
   hàng </span></p>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>4. Danh sách đơn
+  hàng vansale</span></p>
   </td>
   <td width=162 style='width:121.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -988,7 +1055,7 @@
  </tr>
 </table>
 
-<h2><a name="_Toc181608231"><span lang="EN-US" id="3.8">3.8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a name="_Toc183097652"><span lang="EN-US" id="3.8">3.8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Các chức năng trong Mô-đun Mua hàng</span></a><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></h2>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=624
@@ -1066,8 +1133,8 @@
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt'>
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
-  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>1. Tạo đơn đặt mua
-  hàng</span></p>
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>1. Tạo đơn đặt
+  mua hàng</span></p>
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
   auto'><span lang=EN-US style='font-size:12.0pt;color:black'>2. Chỉnh sửa đơn
   đặt mua hàng</span></p>
@@ -1176,7 +1243,7 @@
  </tr>
 </table>
 
-<h2><a name="_Toc181608232"><span lang="EN-US" id="3.9">3.9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a name="_Toc183097653"><span lang="EN-US" id="3.9">3.9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Các chức năng trong Mô-đun Dashboard</span></a></h2>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=624
@@ -1267,7 +1334,7 @@
  </tr>
 </table>
 
-<h2><a name="_Toc181608233"><span lang="EN-US" id="3.10">3.10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;
+<h2><a name="_Toc183097654"><span lang="EN-US" id="3.10">3.10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;
 </span></span><span lang="EN-US">Các chức năng trong Mô-đun Kho</span></a><span lang="EN-US">&nbsp;&nbsp;&nbsp; </span></h2>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=624
@@ -1393,8 +1460,8 @@
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt'>
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
-  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Quản lý phiếu giao
-  dịch kho</span></p>
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Quản lý phiếu
+  giao dịch kho</span></p>
   </td>
   <td width=258 style='width:193.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1534,7 +1601,7 @@
  </tr>
 </table>
 
-<h2><a name="_Toc181608234"><span lang="EN-US" id="3.11">3.11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;
+<h2><a name="_Toc183097655"><span lang="EN-US" id="3.11">3.11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;
 </span></span><span lang="EN-US">Các chức năng trong Mô-đun Báo cáo</span></a><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></h2>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=624
@@ -1593,6 +1660,14 @@
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
   auto'><span lang=EN-US style='font-size:12.0pt;color:black'>4. Chi tiết trả
   thưởng trên đơn hàng</span></p>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>5. </span><span
+  class=ant-page-header-heading-title><span lang=EN-US style='font-size:12.0pt;
+  color:black'>Báo cáo giao hàng theo nhân viên giao hàng</span></span></p>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span class=ant-page-header-heading-title><span lang=EN-US
+  style='font-size:12.0pt;color:black'>6. Báo cáo thống kê đơn hàng được giao
+  trong ngày</span></span></p>
   </td>
   <td width=162 style='width:121.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1716,6 +1791,10 @@
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
   auto'><span lang=EN-US style='font-size:12.0pt;color:black'>9. Báo cáo tình
   hình sử dụng DMS</span></p>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>10. </span><span
+  class=ant-page-header-heading-title><span lang=EN-US style='font-size:12.0pt;
+  color:black'>Báo cáo danh sách vấn đề</span></span></p>
   </td>
   <td width=162 style='width:121.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1784,6 +1863,43 @@
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
   auto'><span lang=EN-US style='font-size:12.0pt;color:black'>2. Chi tiết công
   nợ khách hàng</span></p>
+  </td>
+  <td width=162 style='width:121.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt'>
+  <p class=MsoNormal style='margin-top:0cm;text-align:justify;line-height:normal;
+  page-break-after:auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Người
+  dùng được phân quyền</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.1pt'>
+  <td width=45 style='width:33.5pt;border:solid windowtext 1.0pt;border-top:
+  none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
+  line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
+  12.0pt;color:black'>7</span></p>
+  </td>
+  <td width=159 style='width:119.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt'>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Mua hàng</span></p>
+  </td>
+  <td width=258 style='width:193.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt'>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>1. </span><span
+  class=ant-page-header-heading-title><span lang=EN-US style='font-size:12.0pt;
+  color:black'>Báo cáo danh sách đơn mua hàng</span></span></p>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>2. </span><span
+  class=ant-page-header-heading-title><span lang=EN-US style='font-size:12.0pt;
+  color:black'>Báo cáo chi tiết đơn mua hàng</span></span></p>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span class=ant-page-header-heading-title><span lang=EN-US
+  style='font-size:12.0pt;color:black'>3. Báo cáo chi tiết đơn chờ xuất và nhập
+  hàng</span></span></p>
   </td>
   <td width=162 style='width:121.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
