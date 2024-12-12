@@ -1,10 +1,10 @@
-<h1><a name="_Toc183090542"><span lang="EN-US" id="5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h1><a name="_Toc184662386"><span lang="EN-US" id="5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">PHỤ LỤC</span></a></h1>
 
 <h2 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:
-1.0cm"><a name="_Toc144716117"></a><a name="_Toc183090543"><span lang="EN-US" id="5.1">5.1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span lang="EN-US">Bảng mã lỗi và hướng dẫn khắc phục</span></a><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></h2>
+1.0cm"><a name="_Toc144716117"></a><a name="_Toc184662387"><span lang="EN-US" id="5.1">5.1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span lang="EN-US">Bảng mã lỗi và hướng dẫn khắc phục</span></a><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></h2>
 
-<h3><a name="_Toc144716118"></a><a name="_Toc183090544"><span lang="EN-US" id="5.1.1">5.1.1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span><span lang="EN-US">Lỗi WE001</span></a></h3>
+<h3><a name="_Toc144716118"></a><a name="_Toc184662388"><span lang="EN-US" id="5.1.1">5.1.1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span><span lang="EN-US">Lỗi WE001</span></a></h3>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -33,7 +33,7 @@ phép/ hợp lệ: Thực hiện hiệu chỉnh cho phù hợp theo nội dung t
 style='font-size:12.0pt;line-height:150%'>        + </span><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>Thử thực hiện lại thao tác</span></p>
 
-<h3><a name="_Toc183090545"></a><a name="_Toc144716119"><span lang="EN-US" id="5.1.2">5.1.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span><span lang="EN-US">Lỗi ME00</span></a><span lang="EN-US">2</span></h3>
+<h3><a name="_Toc184662389"></a><a name="_Toc144716119"><span lang="EN-US" id="5.1.2">5.1.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span><span lang="EN-US">Lỗi ME00</span></a><span lang="EN-US">2</span></h3>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -61,7 +61,7 @@ chỉnh cho phù hợp theo nội dung thông báo lỗi.</span></p>
 line-height:150%'><span lang=EN-US style='line-height:150%'>+ Thử lại thao tác.</span></p>
 
 <h2 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:3.0pt;margin-left:
-28.1pt;text-indent:-28.1pt"><a name="_Toc144716120"></a><a name="_Toc183090546"><span lang="EN-US" id="5.2">5.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+28.1pt;text-indent:-28.1pt"><a name="_Toc144716120"></a><a name="_Toc184662390"><span lang="EN-US" id="5.2">5.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Bảng mã lỗi và hướng dẫn khắc phục</span></a></h2>
 
 <p class=MsoNormalIndent><b><span lang=EN-US>Câu hỏi 1:</span></b><span
