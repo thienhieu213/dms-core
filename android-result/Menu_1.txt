@@ -1,7 +1,7 @@
-<h1><a name="_Toc452446887"></a><a name="_Toc144715848"></a><a name="_Toc184661961"><span lang="EN-US" id="1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h1><a name="_Toc452446887"></a><a name="_Toc144715848"></a><a name="_Toc187399802"><span lang="EN-US" id="1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">GIỚI THIỆU</span></a></h1>
 
-<h2><a name="_Toc184661962"><span lang="EN-US" id="1.1">1.1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a name="_Toc187399803"><span lang="EN-US" id="1.1">1.1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Mục đích và ý nghĩa</span></a></h2>
 
 <p class=MsoNormal style='text-align:justify'><span lang=EN-US
@@ -9,14 +9,14 @@ style='font-size:12.0pt;line-height:150%'>Tài liệu này được xây dựng 
 dẫn người dùng hiểu và sử dụng được các chức năng của hệ thống Viettel DMS SaaS
 ở phân hệ Mobile</span></p>
 
-<h2><a name="_Toc184661963"><span lang="EN-US" id="1.2">1.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a name="_Toc187399804"><span lang="EN-US" id="1.2">1.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Phạm vi áp dụng</span></a></h2>
 
 <p class=MsoNormal style='margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;
 margin-left:0cm;margin-bottom:.0001pt;text-indent:0cm'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%;
-letter-spacing:-.2pt'>Tài liệu này áp dụng cho 28 chức năng phân rã thuộc 10
+letter-spacing:-.2pt'>Tài liệu này áp dụng cho 33 chức năng phân rã thuộc 10
 Module/ chức năng phân hệ Mobile</span></p>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=624
@@ -48,7 +48,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
   12.0pt;color:black'>1</span></p>
   </td>
-  <td width=178 rowspan=3 style='width:133.5pt;border-top:none;border-left:
+  <td width=178 rowspan=4 style='width:133.5pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
   background:white;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
@@ -96,6 +96,21 @@ Module/ chức năng phân hệ Mobile</span></p>
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
   12.0pt;color:black'>4</span></p>
   </td>
+  <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Thiết bị đăng
+  nhập</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.75pt'>
+  <td width=68 style='width:51.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
+  line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
+  12.0pt;color:black'>5</span></p>
+  </td>
   <td width=178 nowrap rowspan=5 style='width:133.5pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   background:white;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
@@ -114,7 +129,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>5</span></p>
+  12.0pt;color:black'>6</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -129,7 +144,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>6</span></p>
+  12.0pt;color:black'>7</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -144,7 +159,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>7</span></p>
+  12.0pt;color:black'>8</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -159,7 +174,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>8</span></p>
+  12.0pt;color:black'>9</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -174,7 +189,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>9</span></p>
+  12.0pt;color:black'>10</span></p>
   </td>
   <td width=178 nowrap rowspan=2 style='width:133.5pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -195,7 +210,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>10</span></p>
+  12.0pt;color:black'>11</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -211,7 +226,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>11</span></p>
+  12.0pt;color:black'>12</span></p>
   </td>
   <td width=178 rowspan=2 style='width:133.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -232,7 +247,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>12</span></p>
+  12.0pt;color:black'>13</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -247,7 +262,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>13</span></p>
+  12.0pt;color:black'>14</span></p>
   </td>
   <td width=178 rowspan=3 style='width:133.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -269,7 +284,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>14</span></p>
+  12.0pt;color:black'>15</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -284,7 +299,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>15</span></p>
+  12.0pt;color:black'>16</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -299,9 +314,9 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>16</span></p>
+  12.0pt;color:black'>17</span></p>
   </td>
-  <td width=178 rowspan=3 style='width:133.5pt;border-top:none;border-left:
+  <td width=178 rowspan=7 style='width:133.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
@@ -320,7 +335,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>17</span></p>
+  12.0pt;color:black'>18</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -336,7 +351,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>18</span></p>
+  12.0pt;color:black'>19</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -352,7 +367,69 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>19</span></p>
+  12.0pt;color:black'>20</span></p>
+  </td>
+  <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:-1.1pt;margin-bottom:.0001pt;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Báo cáo đơn hàng</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.75pt'>
+  <td width=68 style='width:51.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
+  line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
+  12.0pt;color:black'>21</span></p>
+  </td>
+  <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:-1.1pt;margin-bottom:.0001pt;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Báo cáo doanh số
+  sản lượng sản phẩm</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.75pt'>
+  <td width=68 style='width:51.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
+  line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
+  12.0pt;color:black'>22</span></p>
+  </td>
+  <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:-1.1pt;margin-bottom:.0001pt;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Báo cáo KPIs</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.75pt'>
+  <td width=68 style='width:51.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
+  line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
+  12.0pt;color:black'>23</span></p>
+  </td>
+  <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:-1.1pt;margin-bottom:.0001pt;line-height:normal;page-break-after:
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Báo cáo tiến độ
+  tích lũy, trưng bày</span></p>
+  </td>
+ </tr>
+ <tr style='height:15.75pt'>
+  <td width=68 style='width:51.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
+  line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
+  12.0pt;color:black'>24</span></p>
   </td>
   <td width=178 nowrap rowspan=4 style='width:133.5pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -373,7 +450,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>20</span></p>
+  12.0pt;color:black'>25</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -387,7 +464,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>21</span></p>
+  12.0pt;color:black'>26</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -401,7 +478,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:15.75pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>22</span></p>
+  12.0pt;color:black'>27</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -415,7 +492,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:20.05pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>23</span></p>
+  12.0pt;color:black'>28</span></p>
   </td>
   <td width=178 nowrap style='width:133.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -435,7 +512,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:20.05pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>24</span></p>
+  12.0pt;color:black'>29</span></p>
   </td>
   <td width=178 nowrap rowspan=3 style='width:133.5pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -456,7 +533,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:20.05pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>25</span></p>
+  12.0pt;color:black'>30</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -471,7 +548,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:20.05pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>26</span></p>
+  12.0pt;color:black'>31</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -486,7 +563,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:20.05pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>27</span></p>
+  12.0pt;color:black'>32</span></p>
   </td>
   <td width=178 nowrap rowspan=2 style='width:133.5pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -506,7 +583,7 @@ Module/ chức năng phân hệ Mobile</span></p>
   none;padding:0cm 5.4pt 0cm 5.4pt;height:20.05pt'>
   <p class=MsoNormal align=center style='margin-top:0cm;text-align:center;
   line-height:normal;page-break-after:auto'><span lang=EN-US style='font-size:
-  12.0pt;color:black'>28</span></p>
+  12.0pt;color:black'>33</span></p>
   </td>
   <td width=378 nowrap style='width:10.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -555,7 +632,7 @@ line-height:150%'><span lang=VI style='font-size:12.0pt;line-height:150%;
 letter-spacing:-.1pt'>Có các chức năng cơ bản: Đăng nhập, đăng xuất, thay đổi mật
 khẩu, xử lý các quy trình nghiệp vụ.</span></p>
 
-<h2><a name="_Toc184661964"><span lang="EN-US" id="1.3">1.3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a name="_Toc187399805"><span lang="EN-US" id="1.3">1.3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Các thuật ngữ và từ viết tắt</span></a></h2>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="101%"
@@ -821,7 +898,7 @@ khẩu, xử lý các quy trình nghiệp vụ.</span></p>
  </tr>
 </table>
 
-<h2><a name="_Toc184661965"><span lang="EN-US" id="1.4">1.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a name="_Toc187399806"><span lang="EN-US" id="1.4">1.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Cấu trúc tài liệu</span></a></h2>
 
 <p class=MsoNormalIndent><span lang=EN-US>Tài liệu này gồm 5 phần, được bố trí
