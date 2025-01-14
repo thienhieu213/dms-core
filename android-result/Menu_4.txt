@@ -77,7 +77,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=163 height=334
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image003"></span></p>
+:src="androidImages.image003"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -88,7 +88,7 @@ chọn Chức vụ và Đơn vị (nếu có) -&gt; Nhấn nút Áp dụng</span
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=330 height=334
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image004"></span></p>
+:src="androidImages.image004"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -100,7 +100,7 @@ Nhấn nút Áp dụng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=330 height=320
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image005"></span></p>
+:src="androidImages.image005"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -118,7 +118,7 @@ Thiết lập</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=163 height=333
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image006"></span></p>
+:src="androidImages.image006"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -129,7 +129,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=318
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image007"></span></p>
+:src="androidImages.image007"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -141,14 +141,14 @@ dùng đăng ký trên hệ thống</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=347 height=334
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image008"></span></p>
+:src="androidImages.image008"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=289 height=181
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image009"></span></p>
+:src="androidImages.image009"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -158,7 +158,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=182 height=301
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image010"></span></p>
+:src="androidImages.image010"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -186,7 +186,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=182 height=322
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image011"></span></p>
+:src="androidImages.image011"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc179961573"></a><a name="_Toc180015258"></a><a name="_Toc187399827"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.1.1.4">4.1.1.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -379,7 +379,7 @@ khuyến mãi.  Nhấn nút Tìm hiểu ngay để xem chi tiết chương trì
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=360 height=334
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image012"></span></p>
+:src="androidImages.image012"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -390,7 +390,7 @@ hàng trong tuyến. Nhấn nút Ghé thăm để thực hiện ghé thăm khác
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=360 height=279
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image013"></span></p>
+:src="androidImages.image013"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -403,7 +403,7 @@ khởi tạo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=353 height=321
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image014"></span></p>
+:src="androidImages.image014"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -422,7 +422,7 @@ nút Lọc, để xem tình hình bán hàng theo điều kiện lọc</span></p
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=354 height=265
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image015"></span></p>
+:src="androidImages.image015"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -433,7 +433,7 @@ xem giá trị chính xác</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=153 height=308
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image016"></span></p>
+:src="androidImages.image016"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -444,7 +444,7 @@ nhập ứng dụng với chức vụ khác</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=325 height=333
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image017"></span></p>
+:src="androidImages.image017"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc144469379"></a><a name="_Toc180015264"></a><a name="_Toc187399833"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.1.2.4">4.1.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -620,7 +620,7 @@ Tên nhân viên, Mã nhân viên, Số điện thoại, Email)</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=323 height=250
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image018"></span></p>
+:src="androidImages.image018"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -631,7 +631,7 @@ diện để xem chi tiết ảnh đại diện</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=320 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image019"></span></p>
+:src="androidImages.image019"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -643,7 +643,7 @@ thay đổi ảnh đại diện</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=461 height=310
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image020"></span></p>
+:src="androidImages.image020"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -657,7 +657,7 @@ bằng sinh trắc học để bật tính năng đăng nhập bằng sinh trắ
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=327 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image021"></span></p>
+:src="androidImages.image021"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -669,7 +669,7 @@ mới, Nhập lại mật khẩu mới -&gt; Nhấn Đổi mật khẩu để đ
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=332 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image022"></span></p>
+:src="androidImages.image022"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -681,7 +681,7 @@ nhấn Ngôn ngữ để thực hiện chuyển đổi ngôn ngữ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=161 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image023"></span></p>
+:src="androidImages.image023"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -693,7 +693,7 @@ sử dụng</span><span lang=VI style='font-size:12.0pt;line-height:150%'> </spa
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=319 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image024"></span></p>
+:src="androidImages.image024"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -704,7 +704,7 @@ tâm trợ giúp khi cần hỗ trợ, hoặc khi có nhu cầu gửi góp ý v�
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=467 height=229
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image025"></span></p>
+:src="androidImages.image025"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -718,7 +718,7 @@ khoản hiện tại</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=325 height=312
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image026"></span></p>
+:src="androidImages.image026"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc144829671"></a><a name="_Toc180015270"></a><a name="_Toc187399839"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.1.3.4">4.1.3.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -844,7 +844,7 @@ thông tin Tên đăng nhập và Mật khẩu -&gt; Nhấn nút Đăng nhập -
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=468 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image027"></span></p>
+:src="androidImages.image027"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -856,7 +856,7 @@ thị thông tin thiết bị chưa được duyệt</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=316 height=323
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image028"></span></p>
+:src="androidImages.image028"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -868,7 +868,7 @@ thông tin thiết bị đã bị khóa</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=316 height=323
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image029"></span></p>
+:src="androidImages.image029"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -880,7 +880,7 @@ tin trùng thiết bị đăng nhập</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=316 height=297
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image030"></span></p>
+:src="androidImages.image030"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -892,7 +892,7 @@ bị đã được đăng ký</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=316 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image031"></span></p>
+:src="androidImages.image031"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187399845"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.1.4.4">4.1.4.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -1001,7 +1001,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=324 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image024"></span></p>
+:src="androidImages.image024"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1012,7 +1012,7 @@ sách sản phẩm để thay đổi dạng hiển thị danh sách sản phẩm
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=324 height=312
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image032"></span></p>
+:src="androidImages.image032"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1023,7 +1023,7 @@ hình ảnh trên danh sách sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=324 height=328
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image033"></span></p>
+:src="androidImages.image033"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1038,7 +1038,7 @@ phẩm theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=324 height=299
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image034"></span></p>
+:src="androidImages.image034"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1049,7 +1049,7 @@ xếp để thực hiện sắp xếp danh sách sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=167 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image035"></span></p>
+:src="androidImages.image035"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1073,7 +1073,7 @@ chi tiết chương trình khuyến mãi</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=470 height=238
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image036"></span></p>
+:src="androidImages.image036"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015277"></a><a name="_Toc187399852"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.2.1.4">4.2.1.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -1163,7 +1163,7 @@ nhấn icon mãi ở tab Trang chủ)</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=310
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image037"></span></p>
+:src="androidImages.image037"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1178,7 +1178,7 @@ Nhấn nút Tìm kiếm)</span><span lang=EN-US style='font-size:12.0pt;line-hei
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=330 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image038"></span></p>
+:src="androidImages.image038"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1190,7 +1190,7 @@ khuyến mãi</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=330 height=323
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image039"></span></p>
+:src="androidImages.image039"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015283"></a><a name="_Toc187399858"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.2.2.4">4.2.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -1369,7 +1369,7 @@ danh sách hình ảnh theo khung thời gian đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=333 height=324
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image040"></span></p>
+:src="androidImages.image040"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1393,7 +1393,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=330 height=333
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image041"></span></p>
+:src="androidImages.image041"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1404,7 +1404,7 @@ Xem tất cả, để xem danh sách album theo nhân viên/ hoặc theo khách 
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=461 height=274
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image042"></span></p>
+:src="androidImages.image042"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1419,7 +1419,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách albu
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=329 height=329
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image043"></span></p>
+:src="androidImages.image043"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1430,7 +1430,7 @@ viên bất kỳ, để xem danh sách hình ảnh khách hàng theo nhân viên
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=330 height=310
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image044"></span></p>
+:src="androidImages.image044"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1441,7 +1441,7 @@ khách hàng bất kỳ, để xem danh sách hình ảnh khách hàng</span></p
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=329 height=314
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image045"></span></p>
+:src="androidImages.image045"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1470,7 +1470,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=468 height=293
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image046"></span></p>
+:src="androidImages.image046"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1481,7 +1481,7 @@ chụp</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=329 height=335
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image047"></span></p>
+:src="androidImages.image047"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015289"></a><a name="_Toc187399864"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.2.3.4">4.2.3.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -1578,7 +1578,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=345 height=353
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image048"></span></p>
+:src="androidImages.image048"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1593,7 +1593,7 @@ Nhấn nút Tìm kiếm)</span><span lang=EN-US style='font-size:12.0pt;line-hei
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=353 height=323
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image049"></span></p>
+:src="androidImages.image049"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1604,7 +1604,7 @@ chi tiết chương trình</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=343 height=323
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image050"></span></p>
+:src="androidImages.image050"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1622,7 +1622,7 @@ lũy/ Trưng bày/ Trả thưởng của kỳ đã chọn</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=468 height=287
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image051"></span></p>
+:src="androidImages.image051"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc181627109"></a><a name="_Toc187399870"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.2.4.4">4.2.4.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -1787,7 +1787,7 @@ danh sách hình ảnh theo khung thời gian đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=324 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image052"></span></p>
+:src="androidImages.image052"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1798,7 +1798,7 @@ Xem tất cả, để xem danh sách album theo nhân viên/ hoặc theo khách 
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=320
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image053"></span></p>
+:src="androidImages.image053"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1813,7 +1813,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách albu
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=333 height=356
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image054"></span></p>
+:src="androidImages.image054"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1824,7 +1824,7 @@ nhân viên bất kỳ, để xem danh sách hình ảnh khách hàng theo nhân
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=325 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image055"></span></p>
+:src="androidImages.image055"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1835,7 +1835,7 @@ album khách hàng bất kỳ, để xem danh sách hình ảnh khách hàng the
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=319 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image056"></span></p>
+:src="androidImages.image056"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1864,7 +1864,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=468 height=323
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image057"></span></p>
+:src="androidImages.image057"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1875,7 +1875,7 @@ chụp</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=308 height=305
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image058"></span></p>
+:src="androidImages.image058"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187399876"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.2.5.4">4.2.5.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -2026,7 +2026,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=373 height=292
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image059"></span></p>
+:src="androidImages.image059"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2041,7 +2041,7 @@ hàng mới theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=360 height=324
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image060"></span></p>
+:src="androidImages.image060"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2052,7 +2052,7 @@ khách hàng mới</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=334 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image061"></span></p>
+:src="androidImages.image061"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2063,7 +2063,7 @@ vào icon vị trí để xem vị trí địa chỉ của khách hàng</span></
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=314
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image062"></span></p>
+:src="androidImages.image062"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2074,11 +2074,11 @@ cho các trường bắt buộc -&gt; Nhấn nút Lưu để tạo mới khách 
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=468 height=310
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image063"></span></p>
+:src="androidImages.image063"></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=336 height=334
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image064"></span></p>
+:src="androidImages.image064"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -2087,7 +2087,7 @@ hoặc Rút gọn để hiển thị thêm/ hoặc ẩn bớt thông tin</span><
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=332 height=334
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image065"></span></p>
+:src="androidImages.image065"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2099,7 +2099,7 @@ Duyệt (hoặc trên màn hình Chi tiết khách hàng mới -&gt; Nhấn nút
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=294
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image066"></span></p>
+:src="androidImages.image066"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2111,7 +2111,7 @@ Nhấn Hủy) -&gt; Nhấn nút Hủy, để thực hiện Hủy duyệt khách 
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image067"></span></p>
+:src="androidImages.image067"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2124,7 +2124,7 @@ hàng mới</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=309
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image068"></span></p>
+:src="androidImages.image068"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2136,7 +2136,7 @@ chỉnh sửa và nhấn nút Lưu, để lưu thông tin thay đổi của khá
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=235
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image069"></span></p>
+:src="androidImages.image069"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><span lang=EN-US style='font-size:
 12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -2371,7 +2371,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=332 height=334
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image070"></span></p>
+:src="androidImages.image070"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2386,7 +2386,7 @@ hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=335 height=311
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image071"></span></p>
+:src="androidImages.image071"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2397,7 +2397,7 @@ kiện sắp xếp để thực hiện sắp xếp danh sách khách hàng</span
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=170 height=333
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image072"></span></p>
+:src="androidImages.image072"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2428,7 +2428,7 @@ của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=243
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image073"></span></p>
+:src="androidImages.image073"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2467,7 +2467,7 @@ người chụp</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=464 height=215
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image074"></span></p>
+:src="androidImages.image074"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2478,7 +2478,7 @@ chỉ của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=460 height=310
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image075"></span></p>
+:src="androidImages.image075"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2489,7 +2489,7 @@ của địa chỉ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=167 height=333
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image076"></span></p>
+:src="androidImages.image076"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2500,7 +2500,7 @@ và nhấn nút Lưu, để lưu vị trí của địa chỉ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=310
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image077"></span></p>
+:src="androidImages.image077"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US>&nbsp;</span></p>
 
@@ -2514,7 +2514,7 @@ chỉnh sửa và nhấn nút Lưu, để lưu thông tin thay đổi của khá
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=238
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image078"></span></p>
+:src="androidImages.image078"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015302"></a><a name="_Toc187399889"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.3.2.4">4.3.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -2625,7 +2625,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=328 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image079"></span></p>
+:src="androidImages.image079"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2640,7 +2640,7 @@ viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=331 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image080"></span></p>
+:src="androidImages.image080"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2650,7 +2650,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=330 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image081"></span></p>
+:src="androidImages.image081"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2661,7 +2661,7 @@ Chi tiết đi tuyến -&gt; Nhấn icon Lộ trình) để xem Lộ trình củ
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=473 height=315
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image082"></span></p>
+:src="androidImages.image082"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2672,7 +2672,7 @@ trình dự kiến/ lộ trình thực tế) và Ngày để xem lộ trình c�
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=163 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image083"></span></p>
+:src="androidImages.image083"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2683,7 +2683,7 @@ hiển thị thông tin chi tiết ghé thăm của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=167 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image084"></span></p>
+:src="androidImages.image084"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -2801,7 +2801,7 @@ kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=326 height=251
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image085"></span></p>
+:src="androidImages.image085"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -2812,7 +2812,7 @@ Lộ trình để xem Lộ trình của nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=325 height=281
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image086"></span></p>
+:src="androidImages.image086"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2823,7 +2823,7 @@ tế) và Ngày, để xem lộ trình của nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=163 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image087"></span></p>
+:src="androidImages.image087"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2834,7 +2834,7 @@ hiển thị thông tin chi tiết ghé thăm của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=164 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image088"></span></p>
+:src="androidImages.image088"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -2859,9 +2859,9 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 nhấn vào marker khách hàng, marker sẽ được phóng to và hiển thị phần thông tin
 chi tiết ghé thăm của khách hàng. Người dùng có thể nhấn icon <img border=0
 width=15 height=10
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image089"> hoặc
+:src="androidImages.image089"> hoặc
 icon <img border=0 width=15 height=10
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image090"> để mở
+:src="androidImages.image090"> để mở
 rộng hoặc thu hẹp phần thông tin chi tiết tương ứng</span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
@@ -3040,7 +3040,7 @@ tab Ghé thăm)</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=339 height=266
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image091"></span></p>
+:src="androidImages.image091"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -3052,7 +3052,7 @@ danh sách khách hàng ghé thăm theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=155 height=260
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image092"></span></p>
+:src="androidImages.image092"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3064,7 +3064,7 @@ khách hàng ghé thăm theo trạng thái</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=235
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image093"></span></p>
+:src="androidImages.image093"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3081,7 +3081,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=316
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image094"></span></p>
+:src="androidImages.image094"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3097,7 +3097,7 @@ thăm sẽ được thực hiện theo quy trình đã được cấu hình như
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=127
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image095"></span></p>
+:src="androidImages.image095"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3109,7 +3109,7 @@ Tiếp để sang bước tiếp theo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=326 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image096"></span></p>
+:src="androidImages.image096"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3127,7 +3127,7 @@ Ghi chú -&gt; Nhấn Lưu để lưu thông tin kiểm tồn</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=462 height=311
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image097"></span></p>
+:src="androidImages.image097"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>        + Kiểm tồn lịch sử theo
@@ -3164,7 +3164,7 @@ tồn cho sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=464 height=311
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image098"></span></p>
+:src="androidImages.image098"></span></p>
 
 <p class=MsoNormal style='margin-left:31.5pt;text-indent:0cm'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%;font-family:Wingdings'>§<span
@@ -3175,7 +3175,7 @@ nhấn nút Xong -&gt; Nhấn nút Lưu để lưu thông tin kiểm tồn của
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=464 height=315
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image099"></span></p>
+:src="androidImages.image099"></span></p>
 
 <p class=MsoNormal style='margin-left:31.5pt;text-indent:0cm'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%;font-family:Wingdings'>§<span
@@ -3185,7 +3185,7 @@ nhấn nút Tiếp để chuyển sang bước tiếp theo</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=165 height=333
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image100"></span></p>
+:src="androidImages.image100"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3196,7 +3196,7 @@ ghi chú</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=324 height=324
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image101"></span></p>
+:src="androidImages.image101"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3207,7 +3207,7 @@ tạo: Tạo đơn presale / hoặc Tạo đơn vansale, để thực hiện t�
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=324 height=323
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image102"></span></p>
+:src="androidImages.image102"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><b><u><span lang=EN-US>Luồng tạo đơn
 Presale</span></u></b></p>
@@ -3225,7 +3225,7 @@ line-height:150%'>, để xem danh sách sản phẩm theo điều kiện tìm k
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=317
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image103"></span></p>
+:src="androidImages.image103"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3236,7 +3236,7 @@ Nhập số lượng sản phẩm để thêm sản phẩm vào giỏ hàng</spa
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=322 height=324
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image104"></span></p>
+:src="androidImages.image104"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><b><span lang=EN-US style='font-size:
 12.0pt;line-height:150%'>Hoặc</span></b><span lang=EN-US style='font-size:12.0pt;
@@ -3246,7 +3246,7 @@ style='font-size:12.0pt;line-height:150%'> nhấn vào sản phẩm -&gt; Chọn
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=462 height=314
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image105"></span></p>
+:src="androidImages.image105"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><b><span lang=EN-US style='font-size:
 12.0pt;line-height:150%'>Hoặc: </span></b><span lang=EN-US style='font-size:
@@ -3255,7 +3255,7 @@ Nhấn tab Tất cả, chọn kho và nhập số lượng để thêm sản ph�
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=162 height=307
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image106"></span></p>
+:src="androidImages.image106"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3269,14 +3269,14 @@ hàng) -&gt; Nhập thông tin giao hàng -&gt; Nhấn nút Đặt hàng, để 
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=468 height=311
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image107"></span></p>
+:src="androidImages.image107"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=284 height=323
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image050"></span></p>
+:src="androidImages.image050"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3301,7 +3301,7 @@ hệ thống sẽ kết thúc luồng ghé thăm và trở về màn hình Ghé 
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=327 height=297
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image108"></span></p>
+:src="androidImages.image108"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -3332,11 +3332,11 @@ thưởng cho đơn hàng) -&gt; Nhập thông tin cho các trường bắt bu�
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=468 height=304
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image109"></span></p>
+:src="androidImages.image109"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=351 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image110"></span></p>
+:src="androidImages.image110"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3351,7 +3351,7 @@ lang=EN-US>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=324 height=328
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image111"></span></p>
+:src="androidImages.image111"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -3365,7 +3365,7 @@ style='font-size:12.0pt;line-height:150%'> để xem danh sách nhóm khuyến m
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=327 height=276
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image112"></span></p>
+:src="androidImages.image112"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3377,7 +3377,7 @@ line-height:150%'> để sao chép đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=467 height=293
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image113"></span></p>
+:src="androidImages.image113"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><u><span lang=EN-US>Lưu ý</span></u><span
 lang=EN-US>: Chỉ thực hiện sao chép đối với đơn hàng presale</span></p>
@@ -3392,7 +3392,7 @@ mãi</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=470 height=309
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image114"></span></p>
+:src="androidImages.image114"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3405,11 +3405,11 @@ Tiếp để sang bước tiếp theo</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=468 height=239
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image115"></span></p>
+:src="androidImages.image115"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=469 height=314
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image116"></span></p>
+:src="androidImages.image116"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><u><span lang=EN-US>Lưu ý</span></u><span
 lang=EN-US>:</span></p>
@@ -3426,7 +3426,7 @@ Chụp ảnh ở phần “Hình ảnh trưng bày hôm nay”</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=158 height=320
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image117"></span></p>
+:src="androidImages.image117"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3441,7 +3441,7 @@ Nhấn nút Tìm kiếm)</span><span lang=EN-US style='font-size:12.0pt;line-hei
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
 border=0 width=353 height=325
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image118"></span></p>
+:src="androidImages.image118"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -3455,7 +3455,7 @@ vấn đề</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=469 height=310
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image119"></span></p>
+:src="androidImages.image119"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3466,7 +3466,7 @@ cần chỉnh sửa và nhấn nút Lưu, để cập nhật thông tin thay đ�
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=468 height=314
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image120"></span></p>
+:src="androidImages.image120"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3477,7 +3477,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=468 height=312
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image121"></span></p>
+:src="androidImages.image121"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -3497,7 +3497,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách vấ
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=352 height=315
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image122"></span></p>
+:src="androidImages.image122"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3510,11 +3510,11 @@ luồng ghé thăm đóng cửa và trở về màn hình Ghé thăm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=466 height=308
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image123"></span></p>
+:src="androidImages.image123"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=333 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image124"></span></p>
+:src="androidImages.image124"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3526,7 +3526,7 @@ Lưu, để lưu thông tin vị trí địa chỉ của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=332 height=328
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image125"></span></p>
+:src="androidImages.image125"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3537,7 +3537,7 @@ Tại màn hình Ghé thăm, nhấn nút Thao tác khác của 1 khách hàng, c
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=463 height=307
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image126"></span></p>
+:src="androidImages.image126"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3549,7 +3549,7 @@ khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=331 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image127"></span></p>
+:src="androidImages.image127"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 31.5pt;text-indent:-36.0pt"><span lang="EN-US" id="4.5.1.4">4.5.1.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;
@@ -3863,7 +3863,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=323 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image128"></span></p>
+:src="androidImages.image128"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3878,7 +3878,7 @@ viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=329 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image129"></span></p>
+:src="androidImages.image129"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3889,7 +3889,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=162 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image130"></span></p>
+:src="androidImages.image130"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3900,7 +3900,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=329 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image131"></span></p>
+:src="androidImages.image131"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3915,7 +3915,7 @@ Nhấn nút Tìm kiếm)</span><span lang=EN-US style='font-size:12.0pt;line-hei
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=338 height=313
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image132"></span></p>
+:src="androidImages.image132"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3927,7 +3927,7 @@ kiện sắp xếp để thực hiện sắp xếp danh sách đơn hàng</span>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=172 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image133"></span></p>
+:src="androidImages.image133"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3938,7 +3938,7 @@ tiết đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=331 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image134"></span></p>
+:src="androidImages.image134"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -3951,7 +3951,7 @@ tích lũy) -&gt; Nhấn nút Lưu, để lưu thông tin chỉnh sửa đơn h�
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=466 height=290
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image135"></span></p>
+:src="androidImages.image135"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3962,7 +3962,7 @@ hình chi tiết đơn hàng -&gt; Nhấn nút Sao chép), để thực hiện s
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=458 height=310
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image136"></span></p>
+:src="androidImages.image136"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3974,7 +3974,7 @@ trả đơn vansale</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=463 height=315
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image137"></span></p>
+:src="androidImages.image137"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc144469409"></a><a name="_Toc180015328"></a><a name="_Toc187399915"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.5.2.4">4.5.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4085,7 +4085,7 @@ kho -&gt; Nhấn nút Chốt kho ở popup, để thực hiện chốt kho vansa
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=469 height=212
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image138"></span></p>
+:src="androidImages.image138"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015334"></a><a name="_Toc187399921"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.5.3.4">4.5.3.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4176,7 +4176,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=331 height=289
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image139"></span></p>
+:src="androidImages.image139"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4192,7 +4192,7 @@ Nhấn nút Lọc)</span><span lang=EN-US style='font-size:12.0pt;line-height:15
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=333 height=225
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image140"></span></p>
+:src="androidImages.image140"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4222,7 +4222,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=470 height=226
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image141"></span></p>
+:src="androidImages.image141"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015341"></a><a name="_Toc187399928"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.1.4">4.6.1.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4327,7 +4327,7 @@ khách hàng chưa phát sinh doanh số</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=320 height=272
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image142"></span></p>
+:src="androidImages.image142"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4338,7 +4338,7 @@ báo cáo theo điều kiện tìm kiếm/ lọc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=162 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image143"></span></p>
+:src="androidImages.image143"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4350,7 +4350,7 @@ vòng 30 ngày kể từ ngày hiện tại</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=337 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image144"></span></p>
+:src="androidImages.image144"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4367,7 +4367,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=466 height=285
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image145"></span></p>
+:src="androidImages.image145"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015347"></a><a name="_Toc187399934"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.2.4">4.6.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4469,7 +4469,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=326 height=313
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image146"></span></p>
+:src="androidImages.image146"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4483,7 +4483,7 @@ nút Áp dụng), để xem danh sách báo cáo theo điều kiện tìm kiếm
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=467 height=285
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image145"></span></p>
+:src="androidImages.image145"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4501,7 +4501,7 @@ cáo của cấp con cho đến cấp thấp nhất theo cấu hình tại màn 
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=463 height=216
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image147"></span></p>
+:src="androidImages.image147"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4515,7 +4515,7 @@ dụng), để xem danh sách báo cáo theo điều kiện tìm kiếm/ lọc</
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=464 height=314
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image148"></span></p>
+:src="androidImages.image148"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4532,7 +4532,7 @@ con (biến thể)</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=464 height=217
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image149"></span></p>
+:src="androidImages.image149"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015353"></a><a name="_Toc187399940"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.3.4">4.6.3.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4622,7 +4622,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=323 height=323
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image150"></span></p>
+:src="androidImages.image150"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4638,7 +4638,7 @@ Nhấn nút Lọc)</span><span lang=EN-US style='font-size:12.0pt;line-height:15
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=297 height=323
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image151"></span></p>
+:src="androidImages.image151"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4661,7 +4661,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=467 height=239
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image152"></span></p>
+:src="androidImages.image152"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc181627179"></a><a name="_Toc187399946"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.4.4">4.6.4.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4752,7 +4752,7 @@ sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=318 height=323
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image153"></span></p>
+:src="androidImages.image153"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4769,7 +4769,7 @@ line-height:150%'>, để xem danh sách báo cáo doanh số, sản lượng s�
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=321 height=323
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image154"></span></p>
+:src="androidImages.image154"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4793,7 +4793,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=464 height=238
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image036"></span></p>
+:src="androidImages.image036"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc181627185"></a><a name="_Toc187399952"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.5.4">4.6.5.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4896,7 +4896,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=317 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image155"></span></p>
+:src="androidImages.image155"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -4914,7 +4914,7 @@ xem danh sách báo cáo KPIs theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=318 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image156"></span></p>
+:src="androidImages.image156"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -4927,7 +4927,7 @@ letter-spacing:-.2pt'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&n
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=329 height=284
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image157"></span></p>
+:src="androidImages.image157"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4938,7 +4938,7 @@ chí KPIs theo nhân viên đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=311 height=311
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image158"></span></p>
+:src="androidImages.image158"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc184900804"></a><a name="_Toc187399958"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.6.4">4.6.6.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -5071,7 +5071,7 @@ bày</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=317 height=323
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image159"></span></p>
+:src="androidImages.image159"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -5091,7 +5091,7 @@ xem danh sách chương trình theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=317 height=314
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image160"></span></p>
+:src="androidImages.image160"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5102,7 +5102,7 @@ tiết, để xem chi tiết chương trình</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=317 height=314
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image161"></span></p>
+:src="androidImages.image161"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5113,7 +5113,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=313
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image162"></span></p>
+:src="androidImages.image162"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5131,7 +5131,7 @@ theo nhân viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=316 height=305
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image163"></span></p>
+:src="androidImages.image163"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5143,11 +5143,11 @@ cáo tiến độ tích lũy, trưng bày theo khách hàng tương ứng với 
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=316 height=321
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image164"></span></p>
+:src="androidImages.image164"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=317 height=310
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image165"></span></p>
+:src="androidImages.image165"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5165,7 +5165,7 @@ theo khách hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=317 height=322
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image166"></span></p>
+:src="androidImages.image166"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5177,11 +5177,11 @@ tab: Tích lũy/ hoặc tab Trưng bày -&gt; Nhấn vào nhân viên bất kỳ
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=317 height=298
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image167"></span></p>
+:src="androidImages.image167"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=316 height=330
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image168"></span></p>
+:src="androidImages.image168"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187399964"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.7.4">4.6.7.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -5312,7 +5312,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=326 height=329
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image169"></span></p>
+:src="androidImages.image169"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5323,7 +5323,7 @@ ghé thăm, để xem danh sách ghi chú theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=326 height=297
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image170"></span></p>
+:src="androidImages.image170"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5340,7 +5340,7 @@ viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=326 height=329
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image171"></span></p>
+:src="androidImages.image171"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5351,7 +5351,7 @@ ghi chú của khách hàng theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=326 height=262
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image172"></span></p>
+:src="androidImages.image172"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5368,7 +5368,7 @@ của khách hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=326 height=317
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image173"></span></p>
+:src="androidImages.image173"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5379,7 +5379,7 @@ vào ghi chú, để xem chi tiết ghi chú</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=463 height=245
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image174"></span></p>
+:src="androidImages.image174"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015360"></a><a name="_Toc187399971"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.7.1.4">4.7.1.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -5551,7 +5551,7 @@ việc cần thực hiện theo từng trạng thái</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=316
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image175"></span></p>
+:src="androidImages.image175"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -5571,7 +5571,7 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách cần thực hi
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=328 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image176"></span></p>
+:src="androidImages.image176"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5582,7 +5582,7 @@ cho các trường bắt buộc -&gt; Nhấn nút Lưu, để tạo mới công 
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=322
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image177"></span></p>
+:src="androidImages.image177"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5594,7 +5594,7 @@ việc thực hiện</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=468 height=238
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image178"></span></p>
+:src="androidImages.image178"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5606,7 +5606,7 @@ thực hiện</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=239
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image179"></span></p>
+:src="androidImages.image179"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5618,7 +5618,7 @@ chi tiết -&gt; Nhấn nút Cập nhật tiến độ) -&gt; Nhập tiến đ�
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=242
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image180"></span></p>
+:src="androidImages.image180"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5630,7 +5630,7 @@ thành thực hiện công việc</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=468 height=239
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image181"></span></p>
+:src="androidImages.image181"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5641,7 +5641,7 @@ việc cần thực hiện</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=323 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image182"></span></p>
+:src="androidImages.image182"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187399977"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.7.2.4">4.7.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -5789,7 +5789,7 @@ việc, để xem danh sách công việc theo từng trạng thái</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=493 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image024"></span></p>
+:src="androidImages.image024"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -5809,7 +5809,7 @@ việc theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=324 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image183"></span></p>
+:src="androidImages.image183"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5820,7 +5820,7 @@ tin cho các trường bắt buộc -&gt; Nhấn nút Lưu, để tạo công vi
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=275
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image184"></span></p>
+:src="androidImages.image184"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5832,7 +5832,7 @@ hiện hủy công việc</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=468 height=321
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image185"></span></p>
+:src="androidImages.image185"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5844,7 +5844,7 @@ Lưu -&gt; Nhấn nút Lưu ở popup, để duyệt công việc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=242
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image186"></span></p>
+:src="androidImages.image186"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5855,7 +5855,7 @@ công việc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=245
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image187"></span></p>
+:src="androidImages.image187"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187399983"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.7.3.4">4.7.3.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -6035,7 +6035,7 @@ icon Quản lý vấn đề, để xem danh sách vấn đề theo nhân viên</
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=469 height=317
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image188"></span></p>
+:src="androidImages.image188"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6052,7 +6052,7 @@ viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=322 height=324
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image189"></span></p>
+:src="androidImages.image189"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6063,7 +6063,7 @@ của nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=323 height=324
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image190"></span></p>
+:src="androidImages.image190"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6080,7 +6080,7 @@ kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=317 height=324
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image191"></span></p>
+:src="androidImages.image191"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6091,7 +6091,7 @@ tin cho các trường bắt buộc -&gt; Nhấn nút Lưu, để tạo vấn đ
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=313
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image192"></span></p>
+:src="androidImages.image192"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6102,7 +6102,7 @@ thực hiện hủy vấn đề</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=469 height=314
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image193"></span></p>
+:src="androidImages.image193"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6113,7 +6113,7 @@ chỉnh sửa -&gt; Nhấn nút Lưu, để cập nhật thông tin vấn đề<
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=316
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image194"></span></p>
+:src="androidImages.image194"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6123,7 +6123,7 @@ Tại màn hình Quản lý vấn đề, nhấn vào 1 vấn đề bất kỳ đ
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=317 height=228
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image195"></span></p>
+:src="androidImages.image195"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187399989"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.7.4.4">4.7.4.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -6257,7 +6257,7 @@ tạo, để xem danh sách thông báo đã khởi tạo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=328 height=338
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image196"></span></p>
+:src="androidImages.image196"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -6277,7 +6277,7 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách thông báo the
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=328 height=329
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image197"></span></p>
+:src="androidImages.image197"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6288,7 +6288,7 @@ thông tin cho các trường bắt buộc -&gt; Nhấn nút Lưu, để tạo m
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=445 height=312
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image198"></span></p>
+:src="androidImages.image198"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6299,7 +6299,7 @@ thông báo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=322 height=332
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image199"></span></p>
+:src="androidImages.image199"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6311,7 +6311,7 @@ chi tiết -&gt; Nhấn nút Chỉnh sửa) -&gt; Nhập/ chọn thông tin cầ
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=468 height=241
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image200"></span></p>
+:src="androidImages.image200"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6323,7 +6323,7 @@ báo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=240
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image201"></span></p>
+:src="androidImages.image201"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6334,7 +6334,7 @@ thông báo hệ thống</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=325 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image202"></span></p>
+:src="androidImages.image202"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -6354,7 +6354,7 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách thông báo the
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=326 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image203"></span></p>
+:src="androidImages.image203"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6365,7 +6365,7 @@ tiết thông báo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=324 height=331
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image204"></span></p>
+:src="androidImages.image204"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><span lang=EN-US style='font-size:
 12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -6492,7 +6492,7 @@ trình khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=307 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image205"></span></p>
+:src="androidImages.image205"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6505,7 +6505,7 @@ trình khảo sát theo khách hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=310 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image206"></span></p>
+:src="androidImages.image206"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6517,7 +6517,7 @@ theo khách hàng theo điều kiện đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=318 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image207"></span></p>
+:src="androidImages.image207"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6529,7 +6529,7 @@ sát để xem chi tiết Chương trình khảo sát theo khách hang</span></p
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=462 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image208"></span></p>
+:src="androidImages.image208"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6541,7 +6541,7 @@ thống kê khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=310 height=318
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image209"></span></p>
+:src="androidImages.image209"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6553,7 +6553,7 @@ danh sách khách hàng tham gia khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=312 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image210"></span></p>
+:src="androidImages.image210"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6566,7 +6566,7 @@ theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=319 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image211"></span></p>
+:src="androidImages.image211"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6578,7 +6578,7 @@ kiện sắp xếp, để sắp xếp danh sách khách hàng tham gia khảo s�
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=311 height=320
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image212"></span></p>
+:src="androidImages.image212"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6589,7 +6589,7 @@ kết quả khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=320 height=320
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image213"></span></p>
+:src="androidImages.image213"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -6603,7 +6603,7 @@ kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=314 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image214"></span></p>
+:src="androidImages.image214"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6615,7 +6615,7 @@ theo nhân viên theo điều kiện đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=311 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image156"></span></p>
+:src="androidImages.image156"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6627,7 +6627,7 @@ sát để xem chi tiết Chương trình khảo sát theo nhân viên</span></p
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=471 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image208"></span></p>
+:src="androidImages.image208"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6639,7 +6639,7 @@ thống kê khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=310 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image215"></span></p>
+:src="androidImages.image215"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6651,7 +6651,7 @@ danh sách nhân viên tham gia khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=312 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image216"></span></p>
+:src="androidImages.image216"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6664,7 +6664,7 @@ lọc -&gt; Nhấn nút Tìm kiếm), để xem danh sách nhân viên tjam gia 
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=316 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image156"></span></p>
+:src="androidImages.image156"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6676,7 +6676,7 @@ kiện sắp xếp, để sắp xếp danh sách nhân viên tham gia khảo sá
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=313 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image217"></span></p>
+:src="androidImages.image217"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><span lang=EN-US style='font-size:
 12.0pt;line-height:150%'>-      Bước 3.4.3: Tại màn hình Khảo sát nhân
@@ -6684,7 +6684,7 @@ viên-&gt; Nhấn Xem kết quả, để xem chi tiết kết quả khảo sát<
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=314 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image218"></span></p>
+:src="androidImages.image218"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><span lang="EN-US" style="font-size:12.0pt;
@@ -6829,7 +6829,7 @@ line-height:150%'> -&gt; Thực hiện khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=308 height=303
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image219"></span></p>
+:src="androidImages.image219"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6843,7 +6843,7 @@ kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=312 height=312
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image220"></span></p>
+:src="androidImages.image220"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6854,7 +6854,7 @@ kiện sắp xếp, để sắp xếp danh sách chương trình khảo sát the
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=328 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image221"></span></p>
+:src="androidImages.image221"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -6868,7 +6868,7 @@ xem chi tiết chương trình</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=322 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image208"></span></p>
+:src="androidImages.image208"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -6887,7 +6887,7 @@ nút Hoàn thành -&gt; Nhấn nút Hoàn thành ở popup, để hoàn thành k
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=468 height=236
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image222"></span></p>
+:src="androidImages.image222"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -6903,7 +6903,7 @@ icon Xem kết quả, để xem chi tiết kết quả khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=317 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image223"></span></p>
+:src="androidImages.image223"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -6915,7 +6915,7 @@ nút Hoàn thành ở popup, để lưu kết quả chỉnh sửa </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=478 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image208"></span></p>
+:src="androidImages.image208"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc184655166"></a><a name="_Toc187400009"><span lang="EN-US" id="4.9.2.4">4.9.2.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span lang="VI" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -7062,7 +7062,7 @@ khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=182 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image224"></span></p>
+:src="androidImages.image224"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7076,7 +7076,7 @@ kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=317 height=318
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image225"></span></p>
+:src="androidImages.image225"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7087,7 +7087,7 @@ kiện sắp xếp, để sắp xếp danh sách chương trình khảo sát the
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=323 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image226"></span></p>
+:src="androidImages.image226"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -7101,7 +7101,7 @@ xem chi tiết chương trình</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=468 height=276
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image227"></span></p>
+:src="androidImages.image227"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -7120,7 +7120,7 @@ nút Hoàn thành -&gt; Nhấn nút Hoàn thành ở popup, để hoàn thành k
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
 border=0 width=468 height=236
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image228"></span></p>
+:src="androidImages.image228"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -7136,7 +7136,7 @@ icon Xem kết quả, để xem chi tiết kết quả khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=318 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image208"></span></p>
+:src="androidImages.image208"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -7148,7 +7148,7 @@ nút Hoàn thành ở popup, để lưu kết quả chỉnh sửa </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=478 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image208"></span></p>
+:src="androidImages.image208"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><span lang="VI" style="font-size:12.0pt;line-height:
@@ -7259,7 +7259,7 @@ hình Danh mục -&gt; </span><span lang=EN-US style='font-size:12.0pt;line-heig
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=314 height=274
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image229"></span></p>
+:src="androidImages.image229"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7272,7 +7272,7 @@ theo khách hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=315 height=281
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image230"></span></p>
+:src="androidImages.image230"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7284,7 +7284,7 @@ danh sách công nợ theo khách hàng theo điều kiện đã chọn</span></
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=310 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image231"></span></p>
+:src="androidImages.image231"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7296,7 +7296,7 @@ chi tiết công nợ khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=310 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image232"></span></p>
+:src="androidImages.image232"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7309,7 +7309,7 @@ kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=311 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image208"></span></p>
+:src="androidImages.image208"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7320,7 +7320,7 @@ Chọn điều kiện sắp xếp, để sắp xếp danh sách chứng từ the
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=315 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image233"></span></p>
+:src="androidImages.image233"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7331,7 +7331,7 @@ chi tiết chứng từ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=311 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image234"></span></p>
+:src="androidImages.image234"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7344,7 +7344,7 @@ từ theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=317 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image235"></span></p>
+:src="androidImages.image235"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7356,7 +7356,7 @@ theo -&gt; Chọn điều kiện sắp xếp, để sắp xếp danh sách chứ
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=312 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image208"></span></p>
+:src="androidImages.image208"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7369,7 +7369,7 @@ sách chứng từ -&gt; Tab theo chứng từ</span><span lang=EN-US style='fon
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-GB><img border=0 width=310 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image236"></span></p>
+:src="androidImages.image236"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc184655179"></a><a name="_Toc187400022"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.10.1.4">4.10.1.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -7489,7 +7489,7 @@ hình Danh mục -&gt; </span><span lang=EN-US style='font-size:12.0pt;line-heig
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=307 height=305
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image237"></span></p>
+:src="androidImages.image237"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7502,7 +7502,7 @@ theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=320 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image238"></span></p>
+:src="androidImages.image238"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7515,7 +7515,7 @@ kiện sắp xếp, để sắp xếp danh sách phiếu thu theo điều kiện
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=316 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image239"></span></p>
+:src="androidImages.image239"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7527,7 +7527,7 @@ chứng từ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=316 height=320
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image240"></span></p>
+:src="androidImages.image240"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7540,7 +7540,7 @@ Nhấn nút Tìm kiếm), để xem danh sách chứng từ theo điều kiện 
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=319 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image241"></span></p>
+:src="androidImages.image241"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7552,7 +7552,7 @@ nút Thanh toán -&gt; Nhấn nút Xác nhận, để thêm mới phiếu thu</s
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=239
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image242"></span></p>
+:src="androidImages.image242"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7565,7 +7565,7 @@ theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=320 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image243"></span></p>
+:src="androidImages.image243"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7578,7 +7578,7 @@ kiện sắp xếp, để sắp xếp danh sách phiếu chi theo điều kiện
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=317 height=320
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image244"></span></p>
+:src="androidImages.image244"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7590,7 +7590,7 @@ chứng từ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=314 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image245"></span></p>
+:src="androidImages.image245"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7603,7 +7603,7 @@ Tìm kiếm), để xem danh sách chứng từ theo điều kiện tìm kiếm<
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=314 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image246"></span></p>
+:src="androidImages.image246"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7615,7 +7615,7 @@ nút Thanh toán -&gt; Nhấn nút Xác nhận, để thêm mới phiếu chi</s
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=468 height=239
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image247"></span></p>
+:src="androidImages.image247"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7628,7 +7628,7 @@ thu/ phiếu chi đã từ chối theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=313 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image248"></span></p>
+:src="androidImages.image248"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7642,7 +7642,7 @@ kiện đã chọn</span></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US><img border=0 width=330 height=319
-:src="HDSD_GPMN_VIETTEL_DMS_SAAS_2024_ANDROID_v1.6_GOC.fld/image249"></span></p>
+:src="androidImages.image249"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc184655185"></a><a name="_Toc187400028"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.10.2.4">4.10.2.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>

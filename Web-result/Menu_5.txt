@@ -1,10 +1,10 @@
-<h1><a name="_Toc184631153"><span lang="EN-US" id="5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h1><a name="_Toc187243426"><span lang="EN-US" id="5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">PHỤ LỤC</span></a></h1>
 
-<h2><a name="_Toc184631154"><span lang="EN-US" id="5.1">5.1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a name="_Toc187243427"><span lang="EN-US" id="5.1">5.1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Bảng mã lỗi và hướng dẫn khắc phục</span></a><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></h2>
 
-<h3><a name="_Toc184631155"><span lang="EN-US" id="5.1.1">5.1.1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h3><a name="_Toc187243428"><span lang="EN-US" id="5.1.1">5.1.1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Lỗi WE001</span></a></h3>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
@@ -34,7 +34,7 @@ phép/ hợp lệ: Thực hiện hiệu chỉnh cho phù hợp theo nội dung t
 style='font-size:12.0pt;line-height:150%'>        + </span><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>Thử thực hiện lại thao tác</span></p>
 
-<h3><a name="_Toc184631156"><span lang="EN-US" id="5.1.2">5.1.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h3><a name="_Toc187243429"><span lang="EN-US" id="5.1.2">5.1.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Lỗi WE002</span></a></h3>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
@@ -83,7 +83,7 @@ báo lỗi: “<i>Không có dữ liệu để xuất file</i>”.</span></p>
 line-height:150%'><span lang=EN-US style='line-height:150%'>+ Người dùng cần
 kiểm tra lại các điều kiện tìm kiếm để file khi xuất có dữ liệu</span></p>
 
-<h2><a name="_Toc184631157"><span lang="EN-US" id="5.2">5.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+<h2><a name="_Toc187243430"><span lang="EN-US" id="5.2">5.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Bảng mã lỗi và hướng dẫn khắc phục</span></a></h2>
 
 <p class=MsoNormalIndent><b><span lang=EN-US>Câu hỏi 1:</span></b><span
