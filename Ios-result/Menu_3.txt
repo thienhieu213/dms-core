@@ -911,8 +911,8 @@
   padding:0cm 5.4pt 0cm 5.4pt;height:122.55pt'>
   <p class=MsoNormal style='margin-top:0cm;text-align:justify;line-height:normal;
   page-break-after:auto'><span lang=EN-US style='font-size:12.0pt;color:black'>1.
-  Xem báo cáo ngành hàng theo Danh mục (Theo nhân viên/ Theo khách hàng/ Chi tiết
-  sản phẩm đã mua của khách hàng)</span></p>
+  Xem báo cáo ngành hàng theo Danh mục (Theo nhân viên/ Theo khách hàng/ Chi
+  tiết sản phẩm đã mua của khách hàng)</span></p>
   <p class=MsoNormal style='margin-top:0cm;text-align:justify;line-height:normal;
   page-break-after:auto'><span lang=EN-US style='font-size:12.0pt;color:black'>2.
   Xem báo cáo ngành hàng theo Đơn vị (Theo ngành hàng/ Theo sản phẩm/ Danh sách
@@ -1221,8 +1221,8 @@
   padding:0cm 5.4pt 0cm 5.4pt;height:104.2pt'>
   <p class=MsoNormal style='margin-top:0cm;text-align:justify;line-height:normal;
   page-break-after:auto'><span lang=EN-US style='font-size:12.0pt;color:black'>1.
-  </span><span lang=EN-US style='font-size:12.0pt'>Xem danh sách vấn đề theo nhân
-  viên</span></p>
+  </span><span lang=EN-US style='font-size:12.0pt'>Xem danh sách vấn đề theo
+  nhân viên</span></p>
   <p class=MsoNormal style='margin-top:0cm;text-align:justify;line-height:normal;
   page-break-after:auto'><span lang=EN-US style='font-size:12.0pt'>2. Tìm kiếm
   vấn đề theo nhân viên</span></p>

@@ -77,8 +77,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 2: Nhập Mã định danh công ty -&gt; Nhấn nút Đăng nhập</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=163 height=334
-:src="iosImages.image003"></span></p>
+lang=EN-US><img border=0 width=163 height=334 :src="iosImages.image003"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -88,8 +87,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 chọn Chức vụ và Đơn vị (nếu có) -&gt; Nhấn nút Áp dụng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=334
-:src="iosImages.image004"></span></p>
+lang=EN-US><img border=0 width=330 height=334 :src="iosImages.image004"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -100,8 +98,7 @@ thao tác quét vân tay hoặc quét FaceID -&gt; Chọn Chức vụ và Đơn 
 Áp dụng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=320
-:src="iosImages.image005"></span></p>
+lang=EN-US><img border=0 width=330 height=321 :src="iosImages.image005"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -118,8 +115,7 @@ có muốn thiết lập sinh trắc học làm phương thức đăng nhập m�
 lập</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=163 height=333
-:src="iosImages.image006"></span></p>
+lang=EN-US><img border=0 width=163 height=333 :src="iosImages.image006"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -129,8 +125,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 -&gt; Bật tính năng Đăng nhập sinh trắc học</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=318
-:src="iosImages.image007"></span></p>
+lang=EN-US><img border=0 width=468 height=318 :src="iosImages.image007"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -141,15 +136,13 @@ Tiếp. Khi đó hệ thống sẽ gửi mã xác nhận gồm 6 ký tự số �
 dùng đăng ký trên hệ thống</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=347 height=334
-:src="iosImages.image008"></span></p>
+lang=EN-US><img border=0 width=347 height=334 :src="iosImages.image008"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=289 height=181
-:src="iosImages.image009"></span></p>
+lang=EN-US><img border=0 width=290 height=181 :src="iosImages.image009"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -158,8 +151,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Điền Mã và nhấn nút Tiếp</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=182 height=301
-:src="iosImages.image010"></span></p>
+lang=EN-US><img border=0 width=182 height=301 :src="iosImages.image010"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -186,8 +178,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Điền thông tin mật khẩu mới -&gt; Nhấn nút Hoàn thành</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=182 height=322
-:src="iosImages.image011"></span></p>
+lang=EN-US><img border=0 width=182 height=322 :src="iosImages.image011"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc179961573"></a><a name="_Toc187401567"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.1.1.4">4.1.1.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -379,8 +370,7 @@ trình khuyến mãi, trượt banner sang trái/ phải để xem danh sách ch
 khuyến mãi.  Nhấn nút Tìm hiểu ngay để xem chi tiết chương trình khuyến mãi</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=360 height=334
-:src="iosImages.image012"></span></p>
+lang=EN-US><img border=0 width=360 height=333 :src="iosImages.image012"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -390,8 +380,7 @@ Tại phần Khách hàng trong tuyến, nhấn link Xem tất cả, để xem d
 hàng trong tuyến. Nhấn nút Ghé thăm để thực hiện ghé thăm khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=360 height=279
-:src="iosImages.image013"></span></p>
+lang=EN-US><img border=0 width=360 height=279 :src="iosImages.image013"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -403,8 +392,7 @@ line-height:150%'> Nhấn link Xem tất cả, để xem danh sách khách hàng
 khởi tạo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=353 height=321
-:src="iosImages.image014"></span></p>
+lang=EN-US><img border=0 width=353 height=321 :src="iosImages.image014"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -422,8 +410,7 @@ line-height:150%'>hấn icon Lọc -&gt; Nhập/ chọn điều kiện cần l�
 Lọc, để xem tình hình bán hàng theo điều kiện lọc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=354 height=252
-:src="iosImages.image015"></span></p>
+lang=EN-US><img border=0 width=354 height=252 :src="iosImages.image015"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -433,8 +420,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 giá trị chính xác</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=153 height=308
-:src="iosImages.image016"></span></p>
+lang=EN-US><img border=0 width=153 height=308 :src="iosImages.image016"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -444,8 +430,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 nhập ứng dụng với chức vụ khác</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=325 height=333
-:src="iosImages.image017"></span></p>
+lang=EN-US><img border=0 width=325 height=333 :src="iosImages.image017"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc144469379"></a><a name="_Toc187401573"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.1.2.4">4.1.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -620,8 +605,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Tên nhân viên, Mã nhân viên, Số điện thoại, Email)</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=323 height=250
-:src="iosImages.image018"></span></p>
+lang=EN-US><img border=0 width=323 height=250 :src="iosImages.image018"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -631,8 +615,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 diện để xem chi tiết ảnh đại diện</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=320 height=332
-:src="iosImages.image019"></span></p>
+lang=EN-US><img border=0 width=320 height=331 :src="iosImages.image019"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -643,7 +626,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 thay đổi ảnh đại diện</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=461 height=310
+lang=EN-US><img border=0 width=460 height=310 id="Picture 37"
 :src="iosImages.image020"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
@@ -657,8 +640,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 bằng sinh trắc học để bật tính năng đăng nhập bằng sinh trắc học trên ứng dụng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=327 height=332
-:src="iosImages.image021"></span></p>
+lang=EN-US><img border=0 width=327 height=331 :src="iosImages.image021"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -669,8 +651,7 @@ style='font-size:12.0pt;line-height:150%'> Nhập thông tin Mật khẩu cũ, M
 mới, Nhập lại mật khẩu mới -&gt; Nhấn Đổi mật khẩu để đổi mật khẩu</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=332 height=331
-:src="iosImages.image022"></span></p>
+lang=EN-US><img border=0 width=332 height=331 :src="iosImages.image022"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -681,8 +662,7 @@ style='font-size:12.0pt;line-height:150%'>6: Tại màn hình Thông tin của t
 nhấn Ngôn ngữ để thực hiện chuyển đổi ngôn ngữ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=161 height=332
-:src="iosImages.image023"></span></p>
+lang=EN-US><img border=0 width=161 height=331 :src="iosImages.image023"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -690,10 +670,10 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 </span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Bước
 7: Tại màn hình Thông tin của tôi, nhấn </span><span lang=VI style='font-size:
 12.0pt;line-height:150%'>Thông tin ứng dụng để xem thông tin của ứng dụng đang
-sử dụng</span><span lang=VI style='font-size:12.0pt;line-height:150%'> </span></p>
+sử dụng</span><span lang=EN-US style='font-size:12.0pt;line-height:150%'> </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=319 height=331
+lang=EN-US><img border=0 width=319 height=331 id="Picture 36"
 :src="iosImages.image024"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
@@ -704,8 +684,7 @@ Tại màn hình Thông tin của tôi, nhấn Trung tâm trợ giúp để liê
 tâm trợ giúp khi cần hỗ trợ, hoặc khi có nhu cầu gửi góp ý về ứng dụng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=467 height=229
-:src="iosImages.image025"></span></p>
+lang=EN-US><img border=0 width=468 height=229 :src="iosImages.image025"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -718,8 +697,7 @@ style='font-size:12.0pt;line-height:150%'> Đăng xuất để đăng xuất kh�
 khoản hiện tại</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=325 height=312
-:src="iosImages.image026"></span></p>
+lang=EN-US><img border=0 width=325 height=312 :src="iosImages.image026"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc144829671"></a><a name="_Toc187401579"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.1.3.4">4.1.3.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -844,8 +822,7 @@ thông tin Tên đăng nhập và Mật khẩu -&gt; Nhấn nút Đăng nhập -
 Đăng ký, để thực hiện đăng ký thiết bị đăng nhập</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=319
-:src="iosImages.image027"></span></p>
+border=0 width=468 height=318 :src="iosImages.image027"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -856,8 +833,7 @@ Tại màn hình đăng nhập, nhập thông tin hợp lệ và nhấn nút Đ�
 hiển thị thông tin thiết bị chưa được duyệt</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=323
-:src="iosImages.image028"></span></p>
+lang=EN-US><img border=0 width=317 height=323 :src="iosImages.image028"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -868,8 +844,7 @@ hình đăng nhập, nhập thông tin hợp lệ và nhấn nút Đăng nhập,
 thông tin thiết bị đã bị khóa</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=323
-:src="iosImages.image029"></span></p>
+lang=EN-US><img border=0 width=317 height=323 :src="iosImages.image029"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -880,8 +855,7 @@ Trường hợp “Thiết bị đã đăng ký, đăng ký thêm cho tài kho�
 tin trùng thiết bị đăng nhập</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=297
-:src="iosImages.image030"></span></p>
+lang=EN-US><img border=0 width=317 height=297 :src="iosImages.image030"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -892,8 +866,7 @@ nhập, nhập thông tin hợp lệ và nhấn nút Đăng nhập, hệ thống
 thiết bị đã được đăng ký</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=332
-:src="iosImages.image031"></span></p>
+lang=EN-US><img border=0 width=317 height=331 :src="iosImages.image031"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187399845"></a><a name="_Toc187401585"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.1.4.4">4.1.4.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -1002,8 +975,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Danh mục -&gt; Sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=324 height=331
-:src="iosImages.image024"></span></p>
+border=0 width=324 height=331 id="Picture 35" :src="iosImages.image032"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1013,8 +985,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 sách sản phẩm để thay đổi dạng hiển thị danh sách sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=324 height=312
-:src="iosImages.image032"></span></p>
+border=0 width=324 height=312 :src="iosImages.image033"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1024,8 +995,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 hình ảnh trên danh sách sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=324 height=328
-:src="iosImages.image033"></span></p>
+border=0 width=324 height=328 :src="iosImages.image034"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1039,8 +1009,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách sả
 phẩm theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=324 height=299
-:src="iosImages.image034"></span></p>
+border=0 width=324 height=299 id="Picture 34" :src="iosImages.image035"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1050,8 +1019,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 xếp để thực hiện sắp xếp danh sách sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=167 height=332
-:src="iosImages.image035"></span></p>
+border=0 width=167 height=332 :src="iosImages.image036"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1074,8 +1042,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 chi tiết chương trình khuyến mãi</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=470 height=238
-:src="iosImages.image036"></span></p>
+border=0 width=470 height=237 id="Picture 33" :src="iosImages.image037"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187401592"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.2.1.4">4.2.1.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -1164,8 +1131,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 nhấn icon mãi ở tab Trang chủ)</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=310
-:src="iosImages.image037"></span></p>
+lang=EN-US><img border=0 width=468 height=309 :src="iosImages.image038"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1179,8 +1145,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách chư
 trình khuyến mãi theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=331
-:src="iosImages.image038"></span></p>
+lang=EN-US><img border=0 width=330 height=331 :src="iosImages.image039"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1191,8 +1156,7 @@ Chương trình khuyến mãi, nhấn vào 1 chương trình để xem chi tiế
 khuyến mãi</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=323
-:src="iosImages.image039"></span></p>
+lang=EN-US><img border=0 width=330 height=323 :src="iosImages.image040"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187401598"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.2.2.4">4.2.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -1370,8 +1334,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 danh sách hình ảnh theo khung thời gian đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=333 height=324
-:src="iosImages.image040"></span></p>
+lang=EN-US><img border=0 width=333 height=324 :src="iosImages.image041"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1394,8 +1357,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 3.2: Nhấn vào Xem album, để xem hình ảnh của nhân viên theo album</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=333
-:src="iosImages.image041"></span></p>
+lang=EN-US><img border=0 width=330 height=333 :src="iosImages.image042"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1405,8 +1367,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Xem tất cả, để xem danh sách album theo nhân viên/ hoặc theo khách hàng </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=461 height=274
-:src="iosImages.image042"></span></p>
+lang=EN-US><img border=0 width=461 height=275 :src="iosImages.image043"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1420,8 +1381,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách albu
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=329 height=329
-:src="iosImages.image043"></span></p>
+border=0 width=330 height=329 :src="iosImages.image044"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1431,8 +1391,7 @@ Tại màn hình Hình ảnh khách hàng-&gt; Tab Theo nhân viên, nhấn vào
 viên bất kỳ, để xem danh sách hình ảnh khách hàng theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=310
-:src="iosImages.image044"></span></p>
+lang=EN-US><img border=0 width=330 height=309 :src="iosImages.image045"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1442,8 +1401,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 khách hàng bất kỳ, để xem danh sách hình ảnh khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=329 height=314
-:src="iosImages.image045"></span></p>
+lang=EN-US><img border=0 width=329 height=313 :src="iosImages.image046"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1471,8 +1429,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 8.3: Nhấn Xoay trái / Xoay phải, để thực hiện xoay ảnh</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=293
-:src="iosImages.image046"></span></p>
+border=0 width=468 height=293 id="Picture 32" :src="iosImages.image047"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1482,8 +1439,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 chụp</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=329 height=335
-:src="iosImages.image047"></span></p>
+lang=EN-US><img border=0 width=330 height=335 :src="iosImages.image048"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187401604"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.2.3.4">4.2.3.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -1579,8 +1535,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Danh mục -&gt; Chương trình tích lũy trưng bày</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=345 height=353
-:src="iosImages.image048"></span></p>
+border=0 width=345 height=353 :src="iosImages.image049"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1594,8 +1549,7 @@ Nhấn nút Tìm kiếm)</span><span lang=EN-US style='font-size:12.0pt;line-hei
 150%'>, để xem danh sách chương trình theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=353 height=323
-:src="iosImages.image049"></span></p>
+border=0 width=354 height=324 :src="iosImages.image050"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1605,8 +1559,7 @@ Tại màn hình chương trình tích lũy trưng bày, nhấn vào 1 chương 
 chi tiết chương trình</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=343 height=323
-:src="iosImages.image050"></span></p>
+border=0 width=343 height=324 id="Picture 31" :src="iosImages.image051"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1623,7 +1576,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 lũy/ Trưng bày/ Trả thưởng của kỳ đã chọn</span></p>
 
 <p class=MsoNormal><span lang=EN-US><img border=0 width=468 height=287
-:src="iosImages.image051"></span></p>
+:src="iosImages.image052"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187401610"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.2.4.4">4.2.4.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -1787,8 +1740,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 danh sách hình ảnh theo khung thời gian đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=324 height=332
-:src="iosImages.image052"></span></p>
+lang=EN-US><img border=0 width=324 height=331 :src="iosImages.image053"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1798,8 +1750,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Xem tất cả, để xem danh sách album theo nhân viên/ hoặc theo khách hàng </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=320
-:src="iosImages.image053"></span></p>
+lang=EN-US><img border=0 width=468 height=320 :src="iosImages.image054"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1813,8 +1764,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách albu
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=333 height=356
-:src="iosImages.image054"></span></p>
+border=0 width=333 height=356 :src="iosImages.image055"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1824,8 +1774,7 @@ Tại màn hình Hình ảnh chương trình -&gt; Tab Theo nhân viên, nhấn 
 nhân viên bất kỳ, để xem danh sách hình ảnh khách hàng theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=325 height=332
-:src="iosImages.image055"></span></p>
+lang=EN-US><img border=0 width=324 height=331 :src="iosImages.image056"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1835,8 +1784,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 album khách hàng bất kỳ, để xem danh sách hình ảnh khách hàng theo chương trình</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=319 height=332
-:src="iosImages.image056"></span></p>
+lang=EN-US><img border=0 width=319 height=331 :src="iosImages.image057"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1864,8 +1812,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 7.3: Nhấn Xoay trái / Xoay phải, để thực hiện xoay ảnh</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=323
-:src="iosImages.image057"></span></p>
+border=0 width=468 height=323 :src="iosImages.image058"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1875,8 +1822,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 chụp</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=308 height=305
-:src="iosImages.image058"></span></p>
+lang=EN-US><img border=0 width=307 height=305 :src="iosImages.image059"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187401616"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.2.5.4">4.2.5.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -2027,8 +1973,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Khách hàng -&gt; Quản lý khách hàng mới</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=373 height=269
-:src="iosImages.image059"></span></p>
+border=0 width=373 height=270 :src="iosImages.image060"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2042,8 +1987,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách khá
 hàng mới theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=360 height=324
-:src="iosImages.image060"></span></p>
+border=0 width=360 height=324 :src="iosImages.image061"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2053,8 +1997,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 khách hàng mới</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=334 height=313
-:src="iosImages.image061"></span></p>
+lang=EN-US><img border=0 width=334 height=313 :src="iosImages.image062"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2064,8 +2007,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 vào icon vị trí để xem vị trí địa chỉ của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=314
-:src="iosImages.image062"></span></p>
+lang=EN-US><img border=0 width=468 height=314 :src="iosImages.image063"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2075,12 +2017,10 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 cho các trường bắt buộc -&gt; Nhấn nút Lưu để tạo mới khách hàng</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=468 height=310
-:src="iosImages.image063"></span></p>
+border=0 width=468 height=310 :src="iosImages.image064"></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=336 height=334
-:src="iosImages.image064"></span></p>
+border=0 width=336 height=334 :src="iosImages.image065"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -2088,8 +2028,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>: Nhấn link Nhập thêm/
 hoặc Rút gọn để hiển thị thêm/ hoặc ẩn bớt thông tin</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=332 height=334
-:src="iosImages.image065"></span></p>
+border=0 width=332 height=334 :src="iosImages.image066"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2100,8 +2039,7 @@ trên màn hình Chi tiết khách hàng mới -&gt; Nhấn nút Thao tác duy�
 -&gt; Nhấn nút Duyệt, để thực hiện Duyệt khách hàng mới</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=294
-:src="iosImages.image066"></span></p>
+lang=EN-US><img border=0 width=468 height=294 :src="iosImages.image067"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2112,8 +2050,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Nhấn Hủy) -&gt; Nhấn nút Hủy, để thực hiện Hủy duyệt khách hàng mới</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=319
-:src="iosImages.image067"></span></p>
+lang=EN-US><img border=0 width=468 height=320 :src="iosImages.image068"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2125,8 +2062,7 @@ chối (hoặc trên màn hình Chi tiết khách hàng mới -&gt; Nhấn nút 
 hàng mới</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=309
-:src="iosImages.image068"></span></p>
+lang=EN-US><img border=0 width=468 height=309 :src="iosImages.image069"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2137,8 +2073,8 @@ hình chi tiết khách hàng -&gt; Nhấn nút Chỉnh sửa) -&gt; Nhập thô
 chỉnh sửa và nhấn nút Lưu, để lưu thông tin thay đổi của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=235
-:src="iosImages.image069"></span></p>
+lang=EN-US><img border=0 width=468 height=235 id="Picture 30"
+:src="iosImages.image070"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -2372,8 +2308,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Khách hàng -&gt; Danh sách khách hàng</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=332 height=334
-:src="iosImages.image070"></span></p>
+border=0 width=332 height=334 :src="iosImages.image071"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2383,12 +2318,11 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 kiếm -&gt; Nhấn nút Xong (hoặc nhấn icon Lọc -&gt; </span><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>Nhập/ chọn điều kiện cần lọc </span><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>-&gt; Nhấn nút Tìm kiếm)</span><span
-lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách khách
-hàng theo điều kiện tìm kiếm</span></p>
+lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách khách hàng
+theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=335 height=311
-:src="iosImages.image071"></span></p>
+lang=EN-US><img border=0 width=335 height=311 :src="iosImages.image072"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2398,8 +2332,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 kiện sắp xếp để thực hiện sắp xếp danh sách khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=170 height=333
-:src="iosImages.image072"></span></p>
+lang=EN-US><img border=0 width=170 height=333 :src="iosImages.image073"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2429,8 +2362,7 @@ tháng gần đây và Top 3 sản phẩm khách hàng mua nhiều nhất trong 
 của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=243
-:src="iosImages.image073"></span></p>
+lang=EN-US><img border=0 width=468 height=243 :src="iosImages.image074"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2468,8 +2400,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 người chụp</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=464 height=215
-:src="iosImages.image074"></span></p>
+lang=EN-US><img border=0 width=464 height=216 id="Picture 29"
+:src="iosImages.image075"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2479,8 +2411,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 chỉ của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=460 height=310
-:src="iosImages.image075"></span></p>
+lang=EN-US><img border=0 width=460 height=309 :src="iosImages.image076"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2490,8 +2421,7 @@ Tại màn hình Xem vị trí -&gt; Nhấn nút Xóa -&gt; Nhấn Xóa, để x
 địa chỉ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=167 height=333
-:src="iosImages.image076"></span></p>
+lang=EN-US><img border=0 width=166 height=333 :src="iosImages.image077"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2501,8 +2431,7 @@ Tại màn hình Danh sách khách hàng -&gt; Nhấn nút Chấm-&gt; Chấm v�
 nhấn nút Lưu, để lưu vị trí của địa chỉ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=310
-:src="iosImages.image077"></span></p>
+lang=EN-US><img border=0 width=468 height=310 :src="iosImages.image078"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US>&nbsp;</span></p>
 
@@ -2515,8 +2444,7 @@ chi tiết khách hàng -&gt; Nhấn nút Chỉnh sửa) -&gt; Nhập thông tin
 sửa và nhấn nút Lưu, để lưu thông tin thay đổi của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=238
-:src="iosImages.image078"></span></p>
+lang=EN-US><img border=0 width=468 height=238 :src="iosImages.image079"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187401629"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.3.2.4">4.3.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -2627,8 +2555,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Giám sát -&gt; Đi tuyến</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=328 height=319
-:src="iosImages.image079"></span></p>
+lang=EN-US><img border=0 width=328 height=319 :src="iosImages.image080"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2642,8 +2569,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách nhâ
 viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=331 height=331
-:src="iosImages.image080"></span></p>
+lang=EN-US><img border=0 width=331 height=331 :src="iosImages.image081"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2652,8 +2578,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 3: Tại màn hình Đi tuyến, nhấn vào 1 nhân viên để xem Chi tiết đi tuyến</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=331
-:src="iosImages.image081"></span></p>
+lang=EN-US><img border=0 width=330 height=331 :src="iosImages.image082"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2663,8 +2588,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Chi tiết đi tuyến -&gt; Nhấn icon Lộ trình) để xem Lộ trình của nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=473 height=315
-:src="iosImages.image082"></span></p>
+lang=EN-US><img border=0 width=472 height=315 id="Picture 28"
+:src="iosImages.image083"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2674,8 +2599,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 trình dự kiến/ lộ trình thực tế) và Ngày để xem lộ trình của nhân viên</a></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=163 height=332
-:src="iosImages.image083"></span></p>
+lang=EN-US><img border=0 width=163 height=331 :src="iosImages.image084"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2685,8 +2609,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 hiển thị thông tin chi tiết ghé thăm của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=167 height=331
-:src="iosImages.image084"></span></p>
+lang=EN-US><img border=0 width=166 height=332 :src="iosImages.image085"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -2804,8 +2727,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=251
-:src="iosImages.image085"></span></p>
+lang=EN-US><img border=0 width=326 height=250 id="Picture 27"
+:src="iosImages.image086"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -2815,8 +2738,7 @@ letter-spacing:-.2pt'>Bước 3: Tại phần chi tiết vị trí của nhân v
 Lộ trình để xem Lộ trình của nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=325 height=281
-:src="iosImages.image086"></span></p>
+lang=EN-US><img border=0 width=325 height=281 :src="iosImages.image087"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2826,8 +2748,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 tế) và Ngày, để xem lộ trình của nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=163 height=332
-:src="iosImages.image087"></span></p>
+lang=EN-US><img border=0 width=163 height=331 :src="iosImages.image088"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2837,8 +2758,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 hiển thị thông tin chi tiết ghé thăm của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=164 height=332
-:src="iosImages.image088"></span></p>
+lang=EN-US><img border=0 width=164 height=331 :src="iosImages.image089"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -2862,11 +2782,9 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 </span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Khi
 nhấn vào marker khách hàng, marker sẽ được phóng to và hiển thị phần thông tin
 chi tiết ghé thăm của khách hàng. Người dùng có thể nhấn icon <img border=0
-width=15 height=10
-:src="iosImages.image089"> hoặc icon <img
-border=0 width=15 height=10
-:src="iosImages.image090"> để mở rộng
-hoặc thu hẹp phần thông tin chi tiết tương ứng</span></p>
+width=15 height=10 id="Picture 26" :src="iosImages.image090"> hoặc icon <img
+border=0 width=15 height=10 id="Picture 25" :src="iosImages.image091"> để
+mở rộng hoặc thu hẹp phần thông tin chi tiết tương ứng</span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><span lang="EN-US" id="4.4.2.5">4.4.2.5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;
@@ -3043,8 +2961,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 tab Ghé thăm)</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=339 height=332
-:src="iosImages.image091"></span></p>
+lang=EN-US><img border=0 width=339 height=331 :src="iosImages.image092"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -3055,8 +2972,7 @@ thông tin tìm kiếm vào textbox Tìm kiếm -&gt; Nhấn nút Xong, để xe
 hàng ghé thăm theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=155 height=260
-:src="iosImages.image092"></span></p>
+lang=EN-US><img border=0 width=155 height=260 :src="iosImages.image093"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3067,8 +2983,7 @@ thăm/ Ghé thăm không đặt hàng/ Ghé thăm có đặt hàng/ Đóng cửa
 khách hàng ghé thăm theo trạng thái</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=235
-:src="iosImages.image093"></span></p>
+lang=EN-US><img border=0 width=468 height=235 :src="iosImages.image094"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3084,8 +2999,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 3.1: Nhấn icon Ghé thăm để thực hiện ghé thăm khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=316
-:src="iosImages.image094"></span></p>
+lang=EN-US><img border=0 width=468 height=316 :src="iosImages.image095"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3100,8 +3014,7 @@ style='font-size:12.0pt;line-height:150%'>        Trong tài liệu này,
 ghé thăm sẽ được thực hiện theo quy trình đã được cấu hình như hình dưới đây:</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=127
-:src="iosImages.image095"></span></p>
+lang=EN-US><img border=0 width=468 height=127 :src="iosImages.image096"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3112,8 +3025,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Tiếp để sang bước tiếp theo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=332
-:src="iosImages.image096"></span></p>
+lang=EN-US><img border=0 width=326 height=332 :src="iosImages.image097"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3130,8 +3042,7 @@ nhấn vào icon chỉnh sửa của từng sản phẩm -&gt; Nhập thông tin
 Ghi chú -&gt; Nhấn Lưu để lưu thông tin kiểm tồn</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=462 height=311
-:src="iosImages.image097"></span></p>
+border=0 width=462 height=311 id="Picture 24" :src="iosImages.image098"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>        + Kiểm tồn lịch sử theo
@@ -3167,8 +3078,7 @@ vào combobox để chọn Chương trình muốn kiểm tồn -&gt; Nhấn icon
 tồn cho sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=464 height=311
-:src="iosImages.image098"></span></p>
+lang=EN-US><img border=0 width=464 height=311 :src="iosImages.image099"></span></p>
 
 <p class=MsoNormal style='margin-left:31.5pt;text-indent:0cm'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%;font-family:Wingdings'>§<span
@@ -3178,8 +3088,7 @@ sản phẩm, nhấn icon nhập kiểm tồn -&gt; Nhập thông tin cần ch�
 nút Xong -&gt; Nhấn nút Lưu để lưu thông tin kiểm tồn của sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=464 height=315
-:src="iosImages.image099"></span></p>
+border=0 width=464 height=315 :src="iosImages.image100"></span></p>
 
 <p class=MsoNormal style='margin-left:31.5pt;text-indent:0cm'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%;font-family:Wingdings'>§<span
@@ -3188,8 +3097,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>Khi hoàn thành kiểm t�
 nút Tiếp để chuyển sang bước tiếp theo</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=165 height=333
-:src="iosImages.image100"></span></p>
+border=0 width=165 height=333 id="Picture 23" :src="iosImages.image101"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3199,8 +3107,7 @@ Tại màn hình bước Ghi chú, nhập nội dung và nhấn nút Lưu để 
 chú</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=324 height=324
-:src="iosImages.image101"></span></p>
+lang=EN-US><img border=0 width=324 height=324 :src="iosImages.image102"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3210,8 +3117,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 tạo: Tạo đơn presale / hoặc Tạo đơn vansale, để thực hiện tạo đơn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=324 height=323
-:src="iosImages.image102"></span></p>
+lang=EN-US><img border=0 width=324 height=323 :src="iosImages.image103"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><b><u><span lang=EN-US>Luồng tạo đơn
 Presale</span></u></b></p>
@@ -3228,8 +3134,7 @@ Nhấn nút Tìm kiếm)</span><span lang=EN-US style='font-size:12.0pt;line-hei
 150%'>, để xem danh sách sản phẩm theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=317
-:src="iosImages.image103"></span></p>
+lang=EN-US><img border=0 width=468 height=317 :src="iosImages.image104"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3239,8 +3144,7 @@ Tại màn hình Danh sách sản phẩm, chọn kho -&gt; Nhấn vào icon + -&
 lượng sản phẩm để thêm sản phẩm vào giỏ hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=322 height=324
-:src="iosImages.image104"></span></p>
+lang=EN-US><img border=0 width=322 height=324 :src="iosImages.image105"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><b><span lang=EN-US style='font-size:
 12.0pt;line-height:150%'>Hoặc</span></b><span lang=EN-US style='font-size:12.0pt;
@@ -3249,8 +3153,7 @@ style='font-size:12.0pt;line-height:150%'> nhấn vào sản phẩm -&gt; Chọn
 -&gt; Nhập số lượng và nhấn nút Cập nhật, để thêm sản phẩm vào giỏ hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=462 height=314
-:src="iosImages.image105"></span></p>
+lang=EN-US><img border=0 width=462 height=313 :src="iosImages.image106"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><b><span lang=EN-US style='font-size:
 12.0pt;line-height:150%'>Hoặc: </span></b><span lang=EN-US style='font-size:
@@ -3258,8 +3161,7 @@ lang=EN-US><img border=0 width=462 height=314
 Nhấn tab Tất cả, chọn kho và nhập số lượng để thêm sản phẩm vào giỏ hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=162 height=307
-:src="iosImages.image106"></span></p>
+lang=EN-US><img border=0 width=162 height=307 :src="iosImages.image107"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3272,15 +3174,14 @@ check box Trả thưởng trưng bày, tích lũy (nếu muốn trả thưởng 
 đặt hàng</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=311
-:src="iosImages.image107"></span></p>
+border=0 width=468 height=311 :src="iosImages.image108"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=284 height=323
-:src="iosImages.image050"></span></p>
+lang=EN-US><img border=0 width=284 height=323 id="Picture 22"
+:src="iosImages.image109"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3304,8 +3205,7 @@ Tại màn hình Thông báo đơn hàng, nhấn nút Hoàn thành -&gt; Nhấn 
 hệ thống sẽ kết thúc luồng ghé thăm và trở về màn hình Ghé thăm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=327 height=297
-:src="iosImages.image108"></span></p>
+lang=EN-US><img border=0 width=327 height=297 :src="iosImages.image110"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -3335,12 +3235,10 @@ thưởng cho đơn hàng) -&gt; Nhập thông tin cho các trường bắt bu�
 nút Đặt hàng và thanh toán</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=304
-:src="iosImages.image109"></span></p>
+border=0 width=468 height=305 :src="iosImages.image111"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=351 height=331
-:src="iosImages.image110"></span></p>
+lang=EN-US><img border=0 width=351 height=331 :src="iosImages.image112"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3354,8 +3252,7 @@ luồng ghé thăm, quay trở về màn hình Ghé thăm</span></p>
 lang=EN-US>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=324 height=328
-:src="iosImages.image111"></span></p>
+lang=EN-US><img border=0 width=324 height=328 :src="iosImages.image113"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -3368,8 +3265,7 @@ Tại màn hình bước Tạo đơn hàng, nhấn icon Khuyến mãi,</span><sp
 style='font-size:12.0pt;line-height:150%'> để xem danh sách nhóm khuyến mãi</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=327 height=276
-:src="iosImages.image112"></span></p>
+lang=EN-US><img border=0 width=327 height=276 :src="iosImages.image114"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3380,8 +3276,7 @@ chép và nhấn icon sao chép,</span><span lang=EN-US style='font-size:12.0pt;
 line-height:150%'> để sao chép đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=467 height=293
-:src="iosImages.image113"></span></p>
+lang=EN-US><img border=0 width=467 height=293 :src="iosImages.image115"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><u><span lang=EN-US>Lưu ý</span></u><span
 lang=EN-US>: Chỉ thực hiện sao chép đối với đơn hàng presale</span></p>
@@ -3395,8 +3290,7 @@ xem thông tin danh sách sản phẩm bán/ sản phẩm đã mua và các sả
 mãi</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=470 height=309
-:src="iosImages.image114"></span></p>
+lang=EN-US><img border=0 width=470 height=309 :src="iosImages.image116"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3410,15 +3304,14 @@ Tiếp để sang bước tiếp theo</span></p>
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:36.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-18.0pt'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span style='font:7.0pt "Times New Roman"'>
-</span></span><span lang=EN-US><img border=0 width=468 height=239
-:src="iosImages.image115"></span></p>
+</span></span><span lang=EN-US><img border=0 width=468 height=238
+:src="iosImages.image117"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=469 height=314
-:src="iosImages.image116"></span></p>
+lang=EN-US><img border=0 width=468 height=314 :src="iosImages.image118"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><u><span lang=EN-US>Lưu ý</span></u><span
 lang=EN-US>:</span></p>
@@ -3434,8 +3327,7 @@ text-indent:0cm'><span lang=EN-US>-<span style='font:7.0pt "Times New Roman"'>&n
 Chụp ảnh ở phần “Hình ảnh trưng bày hôm nay”</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=158 height=320
-:src="iosImages.image117"></span></p>
+lang=EN-US><img border=0 width=158 height=320 :src="iosImages.image119"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><span lang=EN-US>&nbsp;</span></p>
 
@@ -3451,8 +3343,7 @@ Nhấn nút Tìm kiếm)</span><span lang=EN-US style='font-size:12.0pt;line-hei
 150%'>, để xem danh sách chương trình theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=353 height=325
-:src="iosImages.image118"></span></p>
+border=0 width=353 height=325 :src="iosImages.image120"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3462,19 +3353,17 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 vấn đề</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=469 height=310
-:src="iosImages.image119"></span></p>
+lang=EN-US><img border=0 width=468 height=310 :src="iosImages.image121"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Bước 4.6.1:
-Tại màn hình bước Tạo vấn đề, nhấn icon chỉnh sửa -&gt; Nhập thông tin cần
-chỉnh sửa và nhấn nút Lưu, để cập nhật thông tin thay đổi của vấn đề</span></p>
+</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Bước
+4.6.1: Tại màn hình bước Tạo vấn đề, nhấn icon chỉnh sửa -&gt; Nhập thông tin
+cần chỉnh sửa và nhấn nút Lưu, để cập nhật thông tin thay đổi của vấn đề</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=314
-:src="iosImages.image120"></span></p>
+border=0 width=468 height=314 :src="iosImages.image122"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3484,8 +3373,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 để hủy vấn đề đã khởi tạo</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=312
-:src="iosImages.image121"></span></p>
+border=0 width=468 height=312 :src="iosImages.image123"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -3504,8 +3392,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách vấ
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=352 height=315
-:src="iosImages.image122"></span></p>
+lang=EN-US><img border=0 width=353 height=315 :src="iosImages.image124"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -3520,12 +3407,10 @@ chỉ -&gt; Chọn địa chỉ ghé thăm -&gt; Nhấn nút Thao tác khác và
 luồng ghé thăm đóng cửa và trở về màn hình Ghé thăm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=466 height=308
-:src="iosImages.image123"></span></p>
+lang=EN-US><img border=0 width=466 height=308 :src="iosImages.image125"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=333 height=331
-:src="iosImages.image124"></span></p>
+lang=EN-US><img border=0 width=333 height=331 :src="iosImages.image126"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3536,8 +3421,7 @@ khách hàng, chọn Chấm vị trí -&gt; Thực hiện chấm vị trí khác
 Lưu, để lưu thông tin vị trí địa chỉ của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=332 height=328
-:src="iosImages.image125"></span></p>
+lang=EN-US><img border=0 width=332 height=328 :src="iosImages.image127"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3547,8 +3431,7 @@ Tại màn hình Ghé thăm, nhấn nút Thao tác khác của 1 khách hàng, c
 -&gt; Nhấn nút Xem chi tiết, để xem vị trí địa chỉ của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=463 height=307
-:src="iosImages.image126"></span></p>
+lang=EN-US><img border=0 width=463 height=307 :src="iosImages.image128"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3559,8 +3442,7 @@ chỉ -&gt; Nhập thông tin địa chỉ và nhấn nút Lưu, để lưu thô
 khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=331 height=331
-:src="iosImages.image127"></span></p>
+lang=EN-US><img border=0 width=330 height=331 :src="iosImages.image129"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187401649"><span lang="EN-US" id="4.5.1.4">4.5.1.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -3872,8 +3754,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Bán hàng -&gt; Đơn hàng (hoặc nhấn Đơn hàng)</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=323 height=331
-:src="iosImages.image128"></span></p>
+lang=EN-US><img border=0 width=323 height=331 :src="iosImages.image130"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3887,8 +3768,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách nhâ
 viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=329 height=332
-:src="iosImages.image129"></span></p>
+lang=EN-US><img border=0 width=328 height=332 :src="iosImages.image131"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3898,8 +3778,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 để thực hiện sắp xếp danh sách nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=162 height=331
-:src="iosImages.image130"></span></p>
+lang=EN-US><img border=0 width=162 height=331 :src="iosImages.image132"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3909,8 +3788,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 đơn hàng theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=329 height=332
-:src="iosImages.image131"></span></p>
+lang=EN-US><img border=0 width=329 height=331 :src="iosImages.image133"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3924,8 +3802,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách đơ
 hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=338 height=313
-:src="iosImages.image132"></span></p>
+lang=EN-US><img border=0 width=338 height=313 :src="iosImages.image134"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3936,8 +3813,7 @@ style='font-size:12.0pt;line-height:150%'>, nhấn icon Sắp xếp -&gt; Chọn
 kiện sắp xếp để thực hiện sắp xếp danh sách đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=172 height=331
-:src="iosImages.image133"></span></p>
+lang=EN-US><img border=0 width=173 height=332 :src="iosImages.image135"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3947,8 +3823,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 tiết đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=331 height=332
-:src="iosImages.image134"></span></p>
+lang=EN-US><img border=0 width=332 height=331 :src="iosImages.image136"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -3960,8 +3835,7 @@ chỉnh sửa (Thêm / xóa sản phẩm/ Chương trình khuyến mãi/ Trả t
 tích lũy) -&gt; Nhấn nút Lưu, để lưu thông tin chỉnh sửa đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=466 height=290
-:src="iosImages.image135"></span></p>
+lang=EN-US><img border=0 width=466 height=290 :src="iosImages.image137"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3971,8 +3845,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 hình chi tiết đơn hàng -&gt; Nhấn nút Sao chép), để thực hiện sao chép đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=458 height=310
-:src="iosImages.image136"></span></p>
+lang=EN-US><img border=0 width=458 height=310 :src="iosImages.image138"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3983,8 +3856,7 @@ vansale -&gt; Chọn lý do trả hàng -&gt; Nhấn nút Trả hàng, để th�
 vansale</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=463 height=315
-:src="iosImages.image137"></span></p>
+lang=EN-US><img border=0 width=463 height=315 :src="iosImages.image139"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc144469409"></a><a name="_Toc187401655"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.5.2.4">4.5.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4093,8 +3965,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 kho -&gt; Nhấn nút Chốt kho ở popup, để thực hiện chốt kho vansale</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=469 height=212
-:src="iosImages.image138"></span></p>
+lang=EN-US><img border=0 width=469 height=212 :src="iosImages.image140"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187401661"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.5.3.4">4.5.3.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4184,8 +4055,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Báo cáo -&gt; Báo cáo bán hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=331 height=289
-:src="iosImages.image139"></span></p>
+lang=EN-US><img border=0 width=331 height=289 :src="iosImages.image141"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4200,8 +4070,7 @@ Nhấn nút Lọc)</span><span lang=EN-US style='font-size:12.0pt;line-height:15
 để xem danh sách báo cáo bán hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=333 height=225
-:src="iosImages.image140"></span></p>
+lang=EN-US><img border=0 width=333 height=225 :src="iosImages.image142"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4230,8 +4099,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Nhấn vào 1 đơn hàng để xem chi tiết đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=470 height=226
-:src="iosImages.image141"></span></p>
+lang=EN-US><img border=0 width=469 height=227 :src="iosImages.image143"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187401668"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.1.4">4.6.1.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4335,8 +4203,7 @@ letter-spacing:-.2pt'>Bước 1: Vào màn hình Danh mục -&gt; Báo cáo -&gt
 khách hàng chưa phát sinh doanh số</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=320 height=272
-:src="iosImages.image142"></span></p>
+lang=EN-US><img border=0 width=320 height=272 :src="iosImages.image144"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4346,8 +4213,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 báo cáo theo điều kiện tìm kiếm/ lọc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=162 height=332
-:src="iosImages.image143"></span></p>
+lang=EN-US><img border=0 width=162 height=331 :src="iosImages.image145"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4358,8 +4224,7 @@ xem danh sách khách hàng chưa phát sinh doanh số của nhân viên trong 
 ngày kể từ ngày hiện tại</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=337 height=331
-:src="iosImages.image144"></span></p>
+lang=EN-US><img border=0 width=337 height=331 :src="iosImages.image146"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4375,8 +4240,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Nhấn vào 1 đơn hàng để xem Chi tiết đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=466 height=285
-:src="iosImages.image145"></span></p>
+lang=EN-US><img border=0 width=465 height=285 id="Picture 21"
+:src="iosImages.image147"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187401674"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.2.4">4.6.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4477,8 +4342,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Báo cáo -&gt; Báo cáo ngành hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=313
-:src="iosImages.image146"></span></p>
+lang=EN-US><img border=0 width=326 height=313 id="Picture 20"
+:src="iosImages.image148"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4491,8 +4356,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 nút Áp dụng), để xem danh sách báo cáo theo điều kiện tìm kiếm/ lọc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=467 height=285
-:src="iosImages.image145"></span></p>
+lang=EN-US><img border=0 width=467 height=285 id="Picture 19"
+:src="iosImages.image149"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4509,8 +4374,7 @@ cáo của cấp con cho đến cấp thấp nhất theo cấu hình tại màn 
 &gt;&gt; Thiết lập mô hình tổ chức của web</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=463 height=216
-:src="iosImages.image147"></span></p>
+lang=EN-US><img border=0 width=463 height=216 :src="iosImages.image150"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4519,12 +4383,11 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Tại tab Theo đơn vị, chọn ngành hàng và chọn đơn vị (hoặc nhấn icon Lọc -&gt; </span><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Nhập/ chọn điều kiện cần
 lọc </span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-&gt;
-Nhấn nút Lọc; hoặc nhấn vào Tháng -&gt; Chọn điều kiện lọc và nhấn nút Áp dụng),
-để xem danh sách báo cáo theo điều kiện tìm kiếm/ lọc</span></p>
+Nhấn nút Lọc; hoặc nhấn vào Tháng -&gt; Chọn điều kiện lọc và nhấn nút Áp
+dụng), để xem danh sách báo cáo theo điều kiện tìm kiếm/ lọc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=464 height=314
-:src="iosImages.image148"></span></p>
+lang=EN-US><img border=0 width=463 height=313 :src="iosImages.image151"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4540,8 +4403,7 @@ ngành hàng cha/ sản phẩm cha sẽ hiển thị báo cáo của ngành hàn
 con (biến thể)</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=464 height=217
-:src="iosImages.image149"></span></p>
+lang=EN-US><img border=0 width=464 height=218 :src="iosImages.image152"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187401680"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.3.4">4.6.3.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4630,8 +4492,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Báo cáo -&gt; Báo cáo đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=323 height=323
-:src="iosImages.image150"></span></p>
+lang=EN-US><img border=0 width=322 height=324 :src="iosImages.image153"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4646,8 +4507,7 @@ Nhấn nút Lọc)</span><span lang=EN-US style='font-size:12.0pt;line-height:15
 để xem danh sách báo cáo đơn hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=297 height=323
-:src="iosImages.image151"></span></p>
+lang=EN-US><img border=0 width=297 height=323 :src="iosImages.image154"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4669,8 +4529,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 3.1.1: Nhấn vào 1 đơn hàng để xem chi tiết đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=467 height=239
-:src="iosImages.image152"></span></p>
+lang=EN-US><img border=0 width=468 height=238 :src="iosImages.image155"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187401686"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.4.4">4.6.4.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4760,8 +4619,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=318 height=323
-:src="iosImages.image153"></span></p>
+lang=EN-US><img border=0 width=318 height=323 :src="iosImages.image156"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4777,8 +4635,7 @@ line-height:150%'>, để xem danh sách báo cáo doanh số, sản lượng s�
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=321 height=323
-:src="iosImages.image154"></span></p>
+lang=EN-US><img border=0 width=321 height=323 :src="iosImages.image157"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4801,8 +4658,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 3.1.1: Nhấn vào 1 đơn hàng để xem chi tiết đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=464 height=238
-:src="iosImages.image036"></span></p>
+lang=EN-US><img border=0 width=464 height=238 id="Picture 18"
+:src="iosImages.image158"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187401692"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.5.4">4.6.5.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4903,8 +4760,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Báo cáo -&gt; Báo cáo KPIs</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=319
-:src="iosImages.image155"></span></p>
+lang=EN-US><img border=0 width=317 height=319 :src="iosImages.image159"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -4921,8 +4777,8 @@ lang=EN-US style='font-size:12.0pt;line-height:150%;letter-spacing:-.1pt'>, đ�
 xem danh sách báo cáo KPIs theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=318 height=319
-:src="iosImages.image156"></span></p>
+lang=EN-US><img border=0 width=318 height=319 id="Picture 17"
+:src="iosImages.image160"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -4934,8 +4790,7 @@ letter-spacing:-.2pt'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&n
 -&gt; Chọn điều kiện sắp xếp, để sắp xếp danh sách theo điều kiện đã chọn</span></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=329 height=284
-:src="iosImages.image157"></span></p>
+lang=EN-US><img border=0 width=330 height=283 :src="iosImages.image161"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4945,8 +4800,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 chí KPIs theo nhân viên đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=311 height=311
-:src="iosImages.image158"></span></p>
+lang=EN-US><img border=0 width=310 height=310 :src="iosImages.image162"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc184900804"></a><a name="_Toc187401698"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.6.4">4.6.6.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4975,9 +4829,9 @@ có dữ liệu về KPI trước khi xem báo cáo</span></p>
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Cho phép
-xem báo cáo tiến độ tích lũy trưng bày/ tìm kiếm theo chương trình/ xem chi
-tiết của chương trình/ tiến độ tham gia tích lũy, trưng bày của khách hàng</span></p>
+</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Cho
+phép xem báo cáo tiến độ tích lũy trưng bày/ tìm kiếm theo chương trình/ xem
+chi tiết của chương trình/ tiến độ tham gia tích lũy, trưng bày của khách hàng</span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187159785"></a><a name="_Toc187401702"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.7.2">4.6.7.2.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Chức năng</span></a></h4>
@@ -5078,8 +4932,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 bày</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=323
-:src="iosImages.image159"></span></p>
+lang=EN-US><img border=0 width=317 height=323 :src="iosImages.image163"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -5098,8 +4951,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%;letter-spacing:-.1pt'>, đ�
 xem danh sách chương trình theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=314
-:src="iosImages.image160"></span></p>
+lang=EN-US><img border=0 width=317 height=314 :src="iosImages.image164"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5109,8 +4961,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 tiết, để xem chi tiết chương trình</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=314
-:src="iosImages.image161"></span></p>
+lang=EN-US><img border=0 width=317 height=313 :src="iosImages.image165"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5120,8 +4971,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 độ, để xem báo cáo tiến độ tích lũy, trưng bày theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=313
-:src="iosImages.image162"></span></p>
+lang=EN-US><img border=0 width=468 height=313 :src="iosImages.image166"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5138,8 +4988,7 @@ letter-spacing:-.1pt'>, để xem danh sách báo cáo tiến độ tích lũy, 
 theo nhân viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=305
-:src="iosImages.image163"></span></p>
+lang=EN-US><img border=0 width=317 height=304 :src="iosImages.image167"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5150,12 +4999,10 @@ tab: Tích lũy/ hoặc tab Trưng bày -&gt; Nhấn vào nhân viên bất kỳ
 cáo tiến độ tích lũy, trưng bày theo khách hàng tương ứng với nhân viên đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=321
-:src="iosImages.image164"></span></p>
+lang=EN-US><img border=0 width=317 height=321 :src="iosImages.image168"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=310
-:src="iosImages.image165"></span></p>
+lang=EN-US><img border=0 width=317 height=310 :src="iosImages.image169"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5172,8 +5019,7 @@ letter-spacing:-.1pt'>, để xem danh sách báo cáo tiến độ tích lũy, 
 theo khách hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=322
-:src="iosImages.image166"></span></p>
+lang=EN-US><img border=0 width=317 height=322 :src="iosImages.image170"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5184,12 +5030,10 @@ tab: Tích lũy/ hoặc tab Trưng bày -&gt; Nhấn vào nhân viên bất kỳ
 độ tham gia tích lũy, trưng bày của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=298
-:src="iosImages.image167"></span></p>
+lang=EN-US><img border=0 width=317 height=299 :src="iosImages.image171"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=330
-:src="iosImages.image168"></span></p>
+lang=EN-US><img border=0 width=317 height=330 :src="iosImages.image172"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187159787"></a><a name="_Toc187401704"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.7.4">4.6.7.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -5320,8 +5164,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Công việc -&gt; Quản lý công việc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=329
-:src="iosImages.image169"></span></p>
+lang=EN-US><img border=0 width=326 height=329 :src="iosImages.image173"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5331,8 +5174,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ghé thăm, để xem danh sách ghi chú theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=349
-:src="iosImages.image170"></span></p>
+lang=EN-US><img border=0 width=326 height=349 :src="iosImages.image174"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5348,8 +5190,8 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách ghi chú theo n
 viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=329
-:src="iosImages.image171"></span></p>
+lang=EN-US><img border=0 width=326 height=329 id="Picture 16"
+:src="iosImages.image175"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5359,8 +5201,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ghi chú của khách hàng theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=262
-:src="iosImages.image172"></span></p>
+lang=EN-US><img border=0 width=326 height=261 :src="iosImages.image176"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5376,8 +5217,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách ghi 
 của khách hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=317
-:src="iosImages.image173"></span></p>
+lang=EN-US><img border=0 width=326 height=316 :src="iosImages.image177"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5387,8 +5227,7 @@ Tại màn hình Quản lý ghi chú theo khách hàng, nhấn vào khách hàng
 vào ghi chú, để xem chi tiết ghi chú</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=463 height=245
-:src="iosImages.image174"></span></p>
+lang=EN-US><img border=0 width=464 height=244 :src="iosImages.image178"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187401711"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.7.1.4">4.7.1.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -5559,8 +5398,7 @@ tôi (hoặc nhấn trên biểu đồ công việc: Xem công việc), để xe
 việc cần thực hiện theo từng trạng thái</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=316
-:src="iosImages.image175"></span></p>
+lang=EN-US><img border=0 width=468 height=316 :src="iosImages.image179"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -5579,8 +5417,7 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách cần thực hi
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=328 height=331
-:src="iosImages.image176"></span></p>
+lang=EN-US><img border=0 width=328 height=332 :src="iosImages.image180"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5590,8 +5427,7 @@ Tại màn hình cần thực hiện, nhấn vào icon + (thêm) -&gt; Nhập/ c
 cho các trường bắt buộc -&gt; Nhấn nút Lưu, để tạo mới công việc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=322
-:src="iosImages.image177"></span></p>
+lang=EN-US><img border=0 width=468 height=322 :src="iosImages.image181"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5602,8 +5438,7 @@ Tại màn hình Cần thực hiện, nhấn Thao tác: Tiếp nhận (hoặc �
 việc thực hiện</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=238
-:src="iosImages.image178"></span></p>
+border=0 width=468 height=238 :src="iosImages.image182"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5614,8 +5449,8 @@ Tại màn hình Cần thực hiện, nhấn Thao tác: Từ chối (hoặc ở 
 thực hiện</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=239
-:src="iosImages.image179"></span></p>
+lang=EN-US><img border=0 width=468 height=239 id="Picture 15"
+:src="iosImages.image183"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5626,8 +5461,7 @@ chi tiết -&gt; Nhấn nút Cập nhật tiến độ) -&gt; Nhập tiến đ�
 để cập nhật tiến độ công việc cần thực hiện</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=242
-:src="iosImages.image180"></span></p>
+lang=EN-US><img border=0 width=468 height=241 :src="iosImages.image184"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5638,8 +5472,7 @@ Tại màn hình Cần thực hiện, nhấn Thao tác: Hoàn thành (hoặc ở
 thành thực hiện công việc</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=239
-:src="iosImages.image181"></span></p>
+border=0 width=468 height=238 :src="iosImages.image185"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5649,8 +5482,7 @@ Tại màn hình Cần thực hiện, nhấn vào 1 công việc bất kỳ đ�
 việc cần thực hiện</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=323 height=331
-:src="iosImages.image182"></span></p>
+lang=EN-US><img border=0 width=323 height=331 :src="iosImages.image186"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc182879156"></a><a name="_Toc187401717"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.7.2.4">4.7.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -5797,8 +5629,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 việc, để xem danh sách công việc theo từng trạng thái</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=493 height=308
-:src="iosImages.image183"></span></p>
+lang=EN-US><img border=0 width=494 height=307 id="Picture 14"
+:src="iosImages.image187"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5814,8 +5646,7 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách công việc th
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=324 height=287
-:src="iosImages.image184"></span></p>
+lang=EN-US><img border=0 width=324 height=287 :src="iosImages.image188"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5826,8 +5657,7 @@ tin cho các trường bắt buộc -&gt; Nhấn nút Lưu, để tạo công vi
 chức năng “Cần thực hiện -&gt; Tạo công việc mới”</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=317
-:src="iosImages.image185"></span></p>
+lang=EN-US><img border=0 width=468 height=317 :src="iosImages.image189"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5838,8 +5668,7 @@ tiết -&gt; Nhấn nút Hủy công việc) -&gt; Nhấn nút Hủy công việ
 hiện hủy công việc</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=321
-:src="iosImages.image186"></span></p>
+border=0 width=468 height=321 :src="iosImages.image190"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5850,8 +5679,8 @@ tiết -&gt; Nhấn nút Duyệt công việc) -&gt; Nhập kết quả đánh g
 Lưu -&gt; Nhấn nút Lưu ở popup, để duyệt công việc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=242
-:src="iosImages.image187"></span></p>
+lang=EN-US><img border=0 width=468 height=242 id="Picture 13"
+:src="iosImages.image191"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5861,8 +5690,7 @@ Tại màn hình Quản lý giao việc, nhấn vào 1 công việc bất kỳ �
 công việc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=245
-:src="iosImages.image188"></span></p>
+lang=EN-US><img border=0 width=468 height=245 :src="iosImages.image192"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc182879162"></a><a name="_Toc187401723"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.7.3.4">4.7.3.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -5880,8 +5708,8 @@ khi thực hiện thao tác</span></p>
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Các trường
-có dấu * là bắt buộc nhập</span></p>
+</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Các
+trường có dấu * là bắt buộc nhập</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>-      Chỉ được hủy công việc do
@@ -6043,8 +5871,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 icon Quản lý vấn đề, để xem danh sách vấn đề theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=469 height=317
-:src="iosImages.image189"></span></p>
+lang=EN-US><img border=0 width=468 height=318 :src="iosImages.image193"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6060,8 +5887,7 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách vấn đề the
 viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=322 height=324
-:src="iosImages.image190"></span></p>
+lang=EN-US><img border=0 width=323 height=324 :src="iosImages.image194"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6071,8 +5897,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 đề của nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=323 height=324
-:src="iosImages.image191"></span></p>
+lang=EN-US><img border=0 width=323 height=324 :src="iosImages.image195"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6088,8 +5913,7 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách vấn đề the
 kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=324
-:src="iosImages.image192"></span></p>
+lang=EN-US><img border=0 width=317 height=324 :src="iosImages.image196"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6099,8 +5923,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 tin cho các trường bắt buộc -&gt; Nhấn nút Lưu, để tạo vấn đề mới mới</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=313
-:src="iosImages.image193"></span></p>
+lang=EN-US><img border=0 width=468 height=314 :src="iosImages.image197"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6110,8 +5933,7 @@ Tại màn hình Quản lý vấn đề, nhấn nút Hủy vấn đề -&gt; Nh�
 thực hiện hủy vấn đề</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=469 height=314
-:src="iosImages.image194"></span></p>
+border=0 width=468 height=314 :src="iosImages.image198"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6121,8 +5943,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 cần chỉnh sửa -&gt; Nhấn nút Lưu, để cập nhật thông tin vấn đề</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=316
-:src="iosImages.image195"></span></p>
+lang=EN-US><img border=0 width=468 height=316 :src="iosImages.image199"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6131,8 +5952,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Tại màn hình Quản lý vấn đề, nhấn vào 1 vấn đề bất kỳ để xem chi tiết vấn đề</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=228
-:src="iosImages.image196"></span></p>
+lang=EN-US><img border=0 width=317 height=228 :src="iosImages.image200"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187401729"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.7.4.4">4.7.4.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -6265,8 +6085,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 tạo, để xem danh sách thông báo đã khởi tạo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=328 height=338
-:src="iosImages.image197"></span></p>
+lang=EN-US><img border=0 width=328 height=338 :src="iosImages.image201"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -6285,8 +6104,7 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách thông báo the
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=328 height=329
-:src="iosImages.image198"></span></p>
+lang=EN-US><img border=0 width=329 height=329 :src="iosImages.image202"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6296,8 +6114,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 thông tin cho các trường bắt buộc -&gt; Nhấn nút Lưu, để tạo mới thông báo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=445 height=312
-:src="iosImages.image199"></span></p>
+lang=EN-US><img border=0 width=445 height=312 id="Picture 12"
+:src="iosImages.image203"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6307,8 +6125,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 thông báo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=322 height=332
-:src="iosImages.image200"></span></p>
+lang=EN-US><img border=0 width=321 height=331 :src="iosImages.image204"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6319,8 +6136,7 @@ chi tiết -&gt; Nhấn nút Chỉnh sửa) -&gt; Nhập/ chọn thông tin cầ
 -&gt; Nhấn nút Lưu, để lưu thông tin chỉnh sửa</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=241
-:src="iosImages.image201"></span></p>
+border=0 width=468 height=240 :src="iosImages.image205"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6331,8 +6147,7 @@ hình chi tiết -&gt; Nhấn nút Hủy thông báo) -&gt; Nhấn nút Hủy, �
 báo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=240
-:src="iosImages.image202"></span></p>
+lang=EN-US><img border=0 width=468 height=240 :src="iosImages.image206"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6342,8 +6157,7 @@ Tại màn hình Quản lý thông báo, nhấn tab Thông báo hệ thống, đ
 thông báo hệ thống</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=325 height=331
-:src="iosImages.image203"></span></p>
+lang=EN-US><img border=0 width=325 height=331 :src="iosImages.image207"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -6362,8 +6176,7 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách thông báo the
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=331
-:src="iosImages.image204"></span></p>
+lang=EN-US><img border=0 width=327 height=331 :src="iosImages.image208"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6373,8 +6186,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 tiết thông báo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=324 height=331
-:src="iosImages.image205"></span></p>
+lang=EN-US><img border=0 width=324 height=331 :src="iosImages.image209"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><span lang=EN-US style='font-size:
 12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -6475,8 +6287,9 @@ phép xem chương trình khảo sát theo khách hàng / theo nhân viên</span
   <p class=MsoNormal style='margin-top:0cm'><span lang=EN-US style='font-size:
   12.0pt;line-height:150%'>- Xem thống kê</span></p>
   <p class=MsoNormal style='margin-top:0cm'><span lang=EN-US style='font-size:
-  12.0pt;line-height:150%'>- Xem kết quả (Xem danh sách khách hàng tham gia khảo
-  sát/ Tìm kiếm khách hàng/  Sắp xếp danh sách/ Xem chi tiết kết quả khảo sát)</span></p>
+  12.0pt;line-height:150%'>- Xem kết quả (Xem danh sách khách hàng tham gia
+  khảo sát/ Tìm kiếm khách hàng/  Sắp xếp danh sách/ Xem chi tiết kết quả khảo
+  sát)</span></p>
   </td>
   <td width=294 style='width:220.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6501,8 +6314,7 @@ hình Danh mục -&gt; </span><span lang=EN-US style='font-size:12.0pt;line-heig
 trình khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=307 height=319
-:src="iosImages.image206"></span></p>
+lang=EN-GB><img border=0 width=307 height=319 :src="iosImages.image210"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6514,8 +6326,7 @@ chọn điều kiện cần lọc -&gt; Nhấn nút Tìm kiếm), để xem danh
 khảo sát theo khách hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=310 height=319
-:src="iosImages.image207"></span></p>
+lang=EN-GB><img border=0 width=310 height=319 :src="iosImages.image211"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6526,8 +6337,7 @@ theo -&gt; Chọn điều kiện sắp xếp, để sắp xếp danh sách chư�
 theo khách hàng theo điều kiện đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=318 height=319
-:src="iosImages.image208"></span></p>
+lang=EN-GB><img border=0 width=318 height=319 :src="iosImages.image212"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6538,8 +6348,8 @@ hình Chương trình khảo sát -&gt; Tab khách hàng, nhấn vào 1 chương
 sát để xem chi tiết Chương trình khảo sát theo khách hang</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=462 height=319
-:src="iosImages.image209"></span></p>
+lang=EN-US><img border=0 width=463 height=319 id="Picture 11"
+:src="iosImages.image213"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6550,8 +6360,7 @@ hình Chương trình khảo sát -&gt; Tab khách hàng, nhấn vào Xem thốn
 thống kê khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=310 height=318
-:src="iosImages.image210"></span></p>
+lang=EN-GB><img border=0 width=310 height=319 :src="iosImages.image214"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6562,8 +6371,7 @@ hình Chương trình khảo sát -&gt; Tab khách hàng, nhấn vào Xem kết 
 danh sách khách hàng tham gia khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=312 height=319
-:src="iosImages.image211"></span></p>
+lang=EN-GB><img border=0 width=312 height=319 :src="iosImages.image215"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6575,8 +6383,7 @@ lọc -&gt; Nhấn nút Tìm kiếm), để xem danh sách khách hàng tham kh�
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=319 height=319
-:src="iosImages.image212"></span></p>
+lang=EN-GB><img border=0 width=319 height=319 :src="iosImages.image216"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6587,8 +6394,7 @@ kiện sắp xếp, để sắp xếp danh sách khách hàng tham gia khảo s�
 đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=311 height=320
-:src="iosImages.image213"></span></p>
+lang=EN-GB><img border=0 width=311 height=319 :src="iosImages.image217"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6598,8 +6404,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 kết quả khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=320 height=320
-:src="iosImages.image214"></span></p>
+lang=EN-GB><img border=0 width=320 height=319 :src="iosImages.image218"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -6611,8 +6416,7 @@ nhấn icon Lọc -&gt; Nhập/ chọn điều kiện cần lọc -&gt; Nhấn n
 xem danh sách chương trình khảo sát theo nhân viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=314 height=319
-:src="iosImages.image215"></span></p>
+lang=EN-GB><img border=0 width=314 height=319 :src="iosImages.image219"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6623,8 +6427,8 @@ theo -&gt; Chọn điều kiện sắp xếp, để sắp xếp danh sách chư�
 theo nhân viên theo điều kiện đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=311 height=319
-:src="iosImages.image156"></span></p>
+lang=EN-US><img border=0 width=310 height=319 id="Picture 10"
+:src="iosImages.image220"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6635,8 +6439,7 @@ hình Chương trình khảo sát -&gt; Tab nhân viên, nhấn vào 1 chương 
 sát để xem chi tiết Chương trình khảo sát theo nhân viên</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=471 height=319
-:src="iosImages.image209"></span></p>
+border=0 width=471 height=319 id="Picture 9" :src="iosImages.image221"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6647,8 +6450,7 @@ hình Chương trình khảo sát -&gt; Tab nhân viên, nhấn vào Xem thống
 thống kê khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=310 height=319
-:src="iosImages.image216"></span></p>
+lang=EN-GB><img border=0 width=309 height=319 :src="iosImages.image222"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6659,8 +6461,7 @@ hình Chương trình khảo sát -&gt; Tab nhân viên, nhấn vào Xem kết q
 danh sách nhân viên tham gia khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=312 height=319
-:src="iosImages.image217"></span></p>
+lang=EN-GB><img border=0 width=312 height=319 :src="iosImages.image223"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6672,8 +6473,8 @@ kiếm -&gt; Nhấn nút Xong (hoặc nhấn icon Lọc -&gt; Nhập/ chọn đi
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=319
-:src="iosImages.image156"></span></p>
+lang=EN-US><img border=0 width=316 height=319 id="Picture 8"
+:src="iosImages.image224"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6684,16 +6485,14 @@ kiện sắp xếp, để sắp xếp danh sách nhân viên tham gia khảo sá
 đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=313 height=319
-:src="iosImages.image218"></span></p>
+lang=EN-GB><img border=0 width=313 height=319 :src="iosImages.image225"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><span lang=EN-US style='font-size:
 12.0pt;line-height:150%'>-      Bước 3.4.3: Tại màn hình Khảo sát nhân
 viên-&gt; Nhấn Xem kết quả, để xem chi tiết kết quả khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=314 height=319
-:src="iosImages.image219"></span></p>
+lang=EN-GB><img border=0 width=315 height=319 :src="iosImages.image226"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015258"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.9.1.4">4.9.1.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%"> </span></a><a name="_Toc184655160"></a><a name="_Toc184655446"></a><a name="_Toc187401743"><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -6834,8 +6633,7 @@ line-height:150%'>Khảo sát</span><span lang=EN-US style='font-size:12.0pt;
 line-height:150%'> -&gt; Thực hiện khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=308 height=303
-:src="iosImages.image220"></span></p>
+lang=EN-GB><img border=0 width=308 height=303 :src="iosImages.image227"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6847,8 +6645,7 @@ Nhấn nút Xong (hoặc nhấn icon Lọc -&gt; Nhập/ chọn điều kiện c
 nút Tìm kiếm), để xem danh sách chương trình khảo sát theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=312 height=312
-:src="iosImages.image221"></span></p>
+lang=EN-GB><img border=0 width=313 height=312 :src="iosImages.image228"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6858,8 +6655,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 kiện sắp xếp, để sắp xếp danh sách chương trình khảo sát theo điều kiện đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=328 height=319
-:src="iosImages.image222"></span></p>
+lang=EN-GB><img border=0 width=328 height=319 :src="iosImages.image229"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -6872,8 +6668,8 @@ style='font-size:12.0pt;line-height:150%'> nhấn vào 1 chương trình khảo 
 xem chi tiết chương trình</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=322 height=319
-:src="iosImages.image209"></span></p>
+lang=EN-US><img border=0 width=322 height=319 id="Picture 7"
+:src="iosImages.image230"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -6891,8 +6687,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%;letter-spacing:-.2pt'>Nhấn
 nút Hoàn thành -&gt; Nhấn nút Hoàn thành ở popup, để hoàn thành khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=468 height=236
-:src="iosImages.image223"></span></p>
+lang=EN-GB><img border=0 width=468 height=236 :src="iosImages.image231"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -6907,8 +6702,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%;letter-spacing:-.2pt'> nhấ
 icon Xem kết quả, để xem chi tiết kết quả khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=317 height=319
-:src="iosImages.image224"></span></p>
+lang=EN-GB><img border=0 width=317 height=319 :src="iosImages.image232"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -6919,8 +6713,8 @@ icon chỉnh sửa -&gt; Nhập thông tin cần chỉnh sửa và nhấn nút L
 nút Hoàn thành ở popup, để lưu kết quả chỉnh sửa </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=478 height=319
-:src="iosImages.image209"></span></p>
+lang=EN-US><img border=0 width=478 height=319 id="Picture 6"
+:src="iosImages.image233"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015264"></a><a name="_Toc184655166"></a><a name="_Toc184655452"></a><a name="_Toc187401749"><span lang="EN-US" id="4.9.2.4">4.9.2.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span lang="VI" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -7066,8 +6860,7 @@ hình Chương trình khảo sát sẽ hiển thị danh sách các chương tr�
 khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=182 height=319
-:src="iosImages.image225"></span></p>
+lang=EN-GB><img border=0 width=182 height=319 :src="iosImages.image234"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7079,8 +6872,7 @@ Nhấn nút Xong (hoặc nhấn icon Lọc -&gt; Nhập/ chọn điều kiện c
 nút Tìm kiếm), để xem danh sách chương trình khảo sát theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=317 height=318
-:src="iosImages.image226"></span></p>
+lang=EN-GB><img border=0 width=317 height=319 :src="iosImages.image235"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7090,8 +6882,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 kiện sắp xếp, để sắp xếp danh sách chương trình khảo sát theo điều kiện đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=323 height=319
-:src="iosImages.image227"></span></p>
+lang=EN-GB><img border=0 width=323 height=319 :src="iosImages.image236"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -7104,8 +6895,7 @@ style='font-size:12.0pt;line-height:150%'> nhấn vào 1 chương trình khảo 
 xem chi tiết chương trình</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=468 height=276
-:src="iosImages.image228"></span></p>
+lang=EN-GB><img border=0 width=468 height=276 :src="iosImages.image237"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -7123,8 +6913,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%;letter-spacing:-.2pt'>Nhấn
 nút Hoàn thành -&gt; Nhấn nút Hoàn thành ở popup, để hoàn thành khảo sát</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=236
-:src="iosImages.image229"></span></p>
+border=0 width=468 height=236 id="Picture 5" :src="iosImages.image238"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -7139,8 +6928,8 @@ lang=EN-US style='font-size:12.0pt;line-height:150%;letter-spacing:-.2pt'> nhấ
 icon Xem kết quả, để xem chi tiết kết quả khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=318 height=319
-:src="iosImages.image209"></span></p>
+lang=EN-US><img border=0 width=318 height=319 id="Picture 4"
+:src="iosImages.image239"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -7151,8 +6940,8 @@ icon chỉnh sửa -&gt; Nhập thông tin cần chỉnh sửa và nhấn nút L
 nút Hoàn thành ở popup, để lưu kết quả chỉnh sửa </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=478 height=319
-:src="iosImages.image209"></span></p>
+lang=EN-US><img border=0 width=478 height=319 id="Picture 3"
+:src="iosImages.image233"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><span lang="VI" style="font-size:12.0pt;line-height:
@@ -7264,8 +7053,7 @@ hình Danh mục -&gt; </span><span lang=EN-US style='font-size:12.0pt;line-heig
 -&gt; Danh sách công nợ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=314 height=319
-:src="iosImages.image230"></span></p>
+lang=EN-GB><img border=0 width=314 height=319 :src="iosImages.image240"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7277,8 +7065,7 @@ chọn điều kiện cần lọc -&gt; Nhấn nút Tìm kiếm), để xem danh
 khách hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=315 height=281
-:src="iosImages.image231"></span></p>
+lang=EN-GB><img border=0 width=315 height=281 :src="iosImages.image241"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7289,8 +7076,7 @@ khách hàng, nhấn icon xắp xếp theo -&gt; Chọn điều kiện sắp x�
 danh sách công nợ theo khách hàng theo điều kiện đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=310 height=319
-:src="iosImages.image232"></span></p>
+lang=EN-GB><img border=0 width=311 height=319 :src="iosImages.image242"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7301,8 +7087,7 @@ hình Danh sách công nợ -&gt; Tab theo khách hàng, nhấn vào 1 khách h�
 chi tiết công nợ khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=310 height=319
-:src="iosImages.image233"></span></p>
+lang=EN-GB><img border=0 width=311 height=319 :src="iosImages.image243"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7314,8 +7099,8 @@ kiện cần lọc -&gt; Nhấn nút Tìm kiếm), để xem danh sách chứng 
 tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=311 height=319
-:src="iosImages.image209"></span></p>
+lang=EN-US><img border=0 width=311 height=319 id="Picture 2"
+:src="iosImages.image244"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7325,8 +7110,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Chọn điều kiện sắp xếp, để sắp xếp danh sách chứng từ theo điều kiện đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=315 height=319
-:src="iosImages.image234"></span></p>
+lang=EN-GB><img border=0 width=315 height=319 :src="iosImages.image245"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7336,8 +7120,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 chi tiết chứng từ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=311 height=319
-:src="iosImages.image235"></span></p>
+lang=EN-GB><img border=0 width=311 height=319 :src="iosImages.image246"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7349,8 +7132,7 @@ chọn điều kiện cần lọc -&gt; Nhấn nút Tìm kiếm), để xem danh
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=317 height=319
-:src="iosImages.image236"></span></p>
+lang=EN-GB><img border=0 width=316 height=319 :src="iosImages.image247"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7361,8 +7143,7 @@ theo -&gt; Chọn điều kiện sắp xếp, để sắp xếp danh sách chứ
 đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=312 height=319
-:src="iosImages.image209"></span></p>
+lang=EN-US><img border=0 width=312 height=319 :src="iosImages.image248"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7374,8 +7155,7 @@ sách chứng từ -&gt; Tab theo chứng từ</span><span lang=EN-US style='fon
 12.0pt;line-height:150%'>, nhấn vào 1 chứng từ để xem chi tiết chứng từ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=310 height=319
-:src="iosImages.image237"></span></p>
+lang=EN-GB><img border=0 width=310 height=319 :src="iosImages.image249"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc184655179"></a><a name="_Toc184655465"></a><a name="_Toc187401762"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.10.1.4">4.10.1.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -7401,9 +7181,9 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Cho phép
-tìm kiếm/ sắp xếp/ tạo phiếu thu/ phiếu chi và xem danh sách phiếu thu/ phiếu
-chi đã bị từ chối</span></p>
+</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Cho
+phép tìm kiếm/ sắp xếp/ tạo phiếu thu/ phiếu chi và xem danh sách phiếu thu/
+phiếu chi đã bị từ chối</span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc184655183"></a><a name="_Toc184655469"></a><a name="_Toc187401766"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.10.2.2">4.10.2.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Chức năng</span></a></h4>
@@ -7494,8 +7274,7 @@ hình Danh mục -&gt; </span><span lang=EN-US style='font-size:12.0pt;line-heig
 -&gt; Quản lý thanh toán</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=307 height=305
-:src="iosImages.image238"></span></p>
+lang=EN-US><img border=0 width=308 height=305 :src="iosImages.image250"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7507,8 +7286,7 @@ vào textbox Tìm kiếm -&gt; Nhấn nút Xong (hoặc nhấn icon Lọc -&gt; 
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=320 height=319
-:src="iosImages.image239"></span></p>
+lang=EN-US><img border=0 width=321 height=319 :src="iosImages.image251"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7520,8 +7298,7 @@ thu<span style='letter-spacing:-.2pt'>, nhấn icon xắp xếp theo -&gt; Chọ
 kiện sắp xếp, để sắp xếp danh sách phiếu thu theo điều kiện đã chọn</span></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=319
-:src="iosImages.image240"></span></p>
+lang=EN-US><img border=0 width=316 height=319 :src="iosImages.image252"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7532,8 +7309,7 @@ hình Quản lý thanh toán -&gt; Tab phiếu thu, nhấn nút Thêm, để xem
 chứng từ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=320
-:src="iosImages.image241"></span></p>
+lang=EN-US><img border=0 width=316 height=320 :src="iosImages.image253"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7545,8 +7321,7 @@ Nhấn nút Xong (hoặc nhấn icon Lọc -&gt; Nhập/ chọn điều kiện c
 nút Tìm kiếm), để xem danh sách chứng từ theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=319 height=319
-:src="iosImages.image242"></span></p>
+lang=EN-US><img border=0 width=319 height=319 :src="iosImages.image254"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7557,8 +7332,7 @@ chứng từ cần thanh toán -&gt; Nhập Số tiền/ hình thức thanh toá
 nút Thanh toán -&gt; Nhấn nút Xác nhận, để thêm mới phiếu thu</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=239
-:src="iosImages.image243"></span></p>
+lang=EN-US><img border=0 width=468 height=238 :src="iosImages.image255"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7570,8 +7344,7 @@ vào textbox Tìm kiếm -&gt; Nhấn nút Xong (hoặc nhấn icon Lọc -&gt; 
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=320 height=319
-:src="iosImages.image244"></span></p>
+lang=EN-US><img border=0 width=320 height=319 :src="iosImages.image256"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7583,8 +7356,7 @@ chi<span style='letter-spacing:-.2pt'>, nhấn icon xắp xếp theo -&gt; Chọ
 kiện sắp xếp, để sắp xếp danh sách phiếu chi theo điều kiện đã chọn</span></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=320
-:src="iosImages.image245"></span></p>
+lang=EN-US><img border=0 width=317 height=319 :src="iosImages.image257"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7595,8 +7367,7 @@ hình Quản lý thanh toán -&gt; Tab phiếu chi, nhấn nút Thêm, để xem
 chứng từ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=314 height=319
-:src="iosImages.image246"></span></p>
+lang=EN-US><img border=0 width=314 height=319 :src="iosImages.image258"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7608,8 +7379,7 @@ Xong (hoặc nhấn icon Lọc -&gt; Nhập/ chọn điều kiện cần lọc -
 kiếm), để xem danh sách chứng từ theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=314 height=319
-:src="iosImages.image247"></span></p>
+lang=EN-US><img border=0 width=313 height=319 :src="iosImages.image259"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7620,8 +7390,7 @@ chứng từ cần thanh toán -&gt; Nhập Số tiền/ hình thức thanh toá
 nút Thanh toán -&gt; Nhấn nút Xác nhận, để thêm mới phiếu chi</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=239
-:src="iosImages.image248"></span></p>
+lang=EN-US><img border=0 width=468 height=238 :src="iosImages.image260"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7633,8 +7402,7 @@ chọn điều kiện cần lọc -&gt; Nhấn nút Tìm kiếm), để xem danh
 phiếu chi đã từ chối theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=313 height=319
-:src="iosImages.image249"></span></p>
+lang=EN-US><img border=0 width=313 height=319 :src="iosImages.image261"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7647,8 +7415,8 @@ kiện sắp xếp, để sắp xếp danh sách phiếu thu/ phiếu chi đã t
 kiện đã chọn</span></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=319
-:src="iosImages.image250"></span></p>
+lang=EN-US><img border=0 width=330 height=319 id="Picture 1"
+:src="iosImages.image262"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc184655185"></a><a name="_Toc184655471"></a><a name="_Toc187401768"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.10.2.4">4.10.2.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>

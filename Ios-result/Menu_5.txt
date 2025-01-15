@@ -105,6 +105,8 @@ cách nhấn phím “Quay lại” thay vì nhấn phím “Home”.</span></p>
 12.0pt;line-height:150%'>Trường hợp máy bị treo hoàn toàn cần khởi động lại máy
 và bật lại ứng dụng DMS</span></p>
 
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
 </div>
 
 </body>

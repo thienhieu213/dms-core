@@ -916,8 +916,8 @@
   padding:0cm 5.4pt 0cm 5.4pt;height:122.55pt'>
   <p class=MsoNormal style='margin-top:0cm;text-align:justify;line-height:normal;
   page-break-after:auto'><span lang=EN-US style='font-size:12.0pt;color:black'>1.
-  Xem báo cáo ngành hàng theo Danh mục (Theo nhân viên/ Theo khách hàng/ Chi tiết
-  sản phẩm đã mua của khách hàng)</span></p>
+  Xem báo cáo ngành hàng theo Danh mục (Theo nhân viên/ Theo khách hàng/ Chi
+  tiết sản phẩm đã mua của khách hàng)</span></p>
   <p class=MsoNormal style='margin-top:0cm;text-align:justify;line-height:normal;
   page-break-after:auto'><span lang=EN-US style='font-size:12.0pt;color:black'>2.
   Xem báo cáo ngành hàng theo Đơn vị (Theo ngành hàng/ Theo sản phẩm/ Danh sách
@@ -1157,8 +1157,8 @@
   page-break-after:auto'><span lang=EN-US style='font-size:12.0pt'>5. Xem chi
   tiết</span></p>
   <p class=MsoNormal style='margin-top:0cm;text-align:justify;line-height:normal;
-  page-break-after:auto'><span lang=EN-US style='font-size:12.0pt'>6. Hoàn thành
-  công việc</span></p>
+  page-break-after:auto'><span lang=EN-US style='font-size:12.0pt'>6. Hoàn
+  thành công việc</span></p>
   </td>
   <td width=161 style='width:121.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;

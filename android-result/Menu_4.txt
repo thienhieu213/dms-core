@@ -76,8 +76,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 2: Nhập Mã định danh công ty -&gt; Nhấn nút Đăng nhập</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=163 height=334
-:src="androidImages.image003"></span></p>
+lang=EN-US><img border=0 width=163 height=334 :src="androidImages.image003"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -87,8 +86,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 chọn Chức vụ và Đơn vị (nếu có) -&gt; Nhấn nút Áp dụng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=334
-:src="androidImages.image004"></span></p>
+lang=EN-US><img border=0 width=330 height=334 :src="androidImages.image004"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -99,8 +97,7 @@ hiện thao tác quét vân tay hoặc quét FaceID -&gt; Chọn Chức vụ và
 Nhấn nút Áp dụng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=320
-:src="androidImages.image005"></span></p>
+lang=EN-US><img border=0 width=330 height=321 :src="androidImages.image005"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -117,8 +114,7 @@ có muốn thiết lập sinh trắc học làm phương thức đăng nhập m�
 Thiết lập</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=163 height=333
-:src="androidImages.image006"></span></p>
+lang=EN-US><img border=0 width=163 height=333 :src="androidImages.image006"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -128,8 +124,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 -&gt; Bật tính năng Đăng nhập sinh trắc học</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=318
-:src="androidImages.image007"></span></p>
+lang=EN-US><img border=0 width=468 height=318 :src="androidImages.image007"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -140,15 +135,13 @@ nút Tiếp. Khi đó hệ thống sẽ gửi mã xác nhận gồm 6 ký tự s
 dùng đăng ký trên hệ thống</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=347 height=334
-:src="androidImages.image008"></span></p>
+lang=EN-US><img border=0 width=347 height=334 :src="androidImages.image008"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=289 height=181
-:src="androidImages.image009"></span></p>
+lang=EN-US><img border=0 width=290 height=181 :src="androidImages.image009"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -157,8 +150,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 3.1 Điền Mã và nhấn nút Tiếp</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=182 height=301
-:src="androidImages.image010"></span></p>
+lang=EN-US><img border=0 width=182 height=301 :src="androidImages.image010"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -185,8 +177,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 3.2: Điền thông tin mật khẩu mới -&gt; Nhấn nút Hoàn thành</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=182 height=322
-:src="androidImages.image011"></span></p>
+lang=EN-US><img border=0 width=182 height=322 :src="androidImages.image011"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc179961573"></a><a name="_Toc180015258"></a><a name="_Toc187399827"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.1.1.4">4.1.1.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -378,19 +369,17 @@ trình khuyến mãi, trượt banner sang trái/ phải để xem danh sách ch
 khuyến mãi.  Nhấn nút Tìm hiểu ngay để xem chi tiết chương trình khuyến mãi</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=360 height=334
-:src="androidImages.image012"></span></p>
+lang=EN-US><img border=0 width=360 height=333 :src="androidImages.image012"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Bước
-2: Tại phần Khách hàng trong tuyến, nhấn link Xem tất cả, để xem danh sách khách
-hàng trong tuyến. Nhấn nút Ghé thăm để thực hiện ghé thăm khách hàng</span></p>
+2: Tại phần Khách hàng trong tuyến, nhấn link Xem tất cả, để xem danh sách
+khách hàng trong tuyến. Nhấn nút Ghé thăm để thực hiện ghé thăm khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=360 height=279
-:src="androidImages.image013"></span></p>
+lang=EN-US><img border=0 width=360 height=279 :src="androidImages.image013"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -402,8 +391,7 @@ line-height:150%'> Nhấn link Xem tất cả, để xem danh sách khách hàng
 khởi tạo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=353 height=321
-:src="androidImages.image014"></span></p>
+lang=EN-US><img border=0 width=353 height=321 :src="androidImages.image014"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -421,8 +409,7 @@ line-height:150%'>hấn icon Lọc -&gt; Nhập/ chọn điều kiện cần l�
 nút Lọc, để xem tình hình bán hàng theo điều kiện lọc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=354 height=265
-:src="androidImages.image015"></span></p>
+lang=EN-US><img border=0 width=354 height=265 :src="androidImages.image015"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -432,8 +419,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 xem giá trị chính xác</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=153 height=308
-:src="androidImages.image016"></span></p>
+lang=EN-US><img border=0 width=153 height=308 :src="androidImages.image016"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -443,8 +429,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 nhập ứng dụng với chức vụ khác</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=325 height=333
-:src="androidImages.image017"></span></p>
+lang=EN-US><img border=0 width=325 height=333 :src="androidImages.image017"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc144469379"></a><a name="_Toc180015264"></a><a name="_Toc187399833"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.1.2.4">4.1.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -619,8 +604,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Tên nhân viên, Mã nhân viên, Số điện thoại, Email)</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=323 height=250
-:src="androidImages.image018"></span></p>
+lang=EN-US><img border=0 width=323 height=250 :src="androidImages.image018"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -630,8 +614,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 diện để xem chi tiết ảnh đại diện</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=320 height=332
-:src="androidImages.image019"></span></p>
+lang=EN-US><img border=0 width=320 height=331 :src="androidImages.image019"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -642,7 +625,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 thay đổi ảnh đại diện</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=461 height=310
+lang=EN-US><img border=0 width=460 height=310 id="Picture 37"
 :src="androidImages.image020"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
@@ -656,8 +639,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 bằng sinh trắc học để bật tính năng đăng nhập bằng sinh trắc học trên ứng dụng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=327 height=332
-:src="androidImages.image021"></span></p>
+lang=EN-US><img border=0 width=327 height=331 :src="androidImages.image021"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -668,8 +650,7 @@ style='font-size:12.0pt;line-height:150%'> Nhập thông tin Mật khẩu cũ, M
 mới, Nhập lại mật khẩu mới -&gt; Nhấn Đổi mật khẩu để đổi mật khẩu</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=332 height=331
-:src="androidImages.image022"></span></p>
+lang=EN-US><img border=0 width=332 height=331 :src="androidImages.image022"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -680,8 +661,7 @@ style='font-size:12.0pt;line-height:150%'>6: Tại màn hình Thông tin của t
 nhấn Ngôn ngữ để thực hiện chuyển đổi ngôn ngữ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=161 height=332
-:src="androidImages.image023"></span></p>
+lang=EN-US><img border=0 width=161 height=331 :src="androidImages.image023"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -689,10 +669,10 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 </span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Bước
 7: Tại màn hình Thông tin của tôi, nhấn </span><span lang=VI style='font-size:
 12.0pt;line-height:150%'>Thông tin ứng dụng để xem thông tin của ứng dụng đang
-sử dụng</span><span lang=VI style='font-size:12.0pt;line-height:150%'> </span></p>
+sử dụng</span><span lang=EN-US style='font-size:12.0pt;line-height:150%'> </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=319 height=331
+lang=EN-US><img border=0 width=319 height=331 id="Picture 36"
 :src="androidImages.image024"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
@@ -703,8 +683,7 @@ Tại màn hình Thông tin của tôi, nhấn Trung tâm trợ giúp để liê
 tâm trợ giúp khi cần hỗ trợ, hoặc khi có nhu cầu gửi góp ý về ứng dụng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=467 height=229
-:src="androidImages.image025"></span></p>
+lang=EN-US><img border=0 width=468 height=229 :src="androidImages.image025"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -717,8 +696,7 @@ style='font-size:12.0pt;line-height:150%'> Đăng xuất để đăng xuất kh�
 khoản hiện tại</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=325 height=312
-:src="androidImages.image026"></span></p>
+lang=EN-US><img border=0 width=325 height=312 :src="androidImages.image026"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc144829671"></a><a name="_Toc180015270"></a><a name="_Toc187399839"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.1.3.4">4.1.3.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -843,8 +821,7 @@ thông tin Tên đăng nhập và Mật khẩu -&gt; Nhấn nút Đăng nhập -
 Đăng ký, để thực hiện đăng ký thiết bị đăng nhập</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=319
-:src="androidImages.image027"></span></p>
+border=0 width=468 height=318 :src="androidImages.image027"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -855,8 +832,7 @@ màn hình đăng nhập, nhập thông tin hợp lệ và nhấn nút Đăng nh
 thị thông tin thiết bị chưa được duyệt</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=323
-:src="androidImages.image028"></span></p>
+lang=EN-US><img border=0 width=317 height=323 :src="androidImages.image028"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -867,8 +843,7 @@ hình đăng nhập, nhập thông tin hợp lệ và nhấn nút Đăng nhập,
 thông tin thiết bị đã bị khóa</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=323
-:src="androidImages.image029"></span></p>
+lang=EN-US><img border=0 width=317 height=323 :src="androidImages.image029"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -879,8 +854,7 @@ Trường hợp “Thiết bị đã đăng ký, đăng ký thêm cho tài kho�
 tin trùng thiết bị đăng nhập</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=297
-:src="androidImages.image030"></span></p>
+lang=EN-US><img border=0 width=317 height=297 :src="androidImages.image030"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -891,8 +865,7 @@ nhập, nhập thông tin hợp lệ và nhấn nút Đăng nhập, hệ thống
 bị đã được đăng ký</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=332
-:src="androidImages.image031"></span></p>
+lang=EN-US><img border=0 width=317 height=331 :src="androidImages.image031"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187399845"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.1.4.4">4.1.4.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -1000,8 +973,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Danh mục -&gt; Sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=324 height=331
-:src="androidImages.image024"></span></p>
+border=0 width=324 height=331 id="Picture 35" :src="androidImages.image032"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1011,8 +983,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 sách sản phẩm để thay đổi dạng hiển thị danh sách sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=324 height=312
-:src="androidImages.image032"></span></p>
+border=0 width=324 height=312 :src="androidImages.image033"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1022,8 +993,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 hình ảnh trên danh sách sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=324 height=328
-:src="androidImages.image033"></span></p>
+border=0 width=324 height=328 :src="androidImages.image034"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1037,8 +1007,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách sả
 phẩm theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=324 height=299
-:src="androidImages.image034"></span></p>
+border=0 width=324 height=299 id="Picture 34" :src="androidImages.image035"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1048,8 +1017,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 xếp để thực hiện sắp xếp danh sách sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=167 height=332
-:src="androidImages.image035"></span></p>
+border=0 width=167 height=332 :src="androidImages.image036"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1061,8 +1029,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Bước
-4.1: Tại phần hình ảnh, trượt qua trái hoặc qua phải để xem toàn bộ danh sách hình
-ảnh sản phẩm</span></p>
+4.1: Tại phần hình ảnh, trượt qua trái hoặc qua phải để xem toàn bộ danh sách
+hình ảnh sản phẩm</span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1072,8 +1040,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 chi tiết chương trình khuyến mãi</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=470 height=238
-:src="androidImages.image036"></span></p>
+border=0 width=470 height=237 id="Picture 33" :src="androidImages.image037"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015277"></a><a name="_Toc187399852"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.2.1.4">4.2.1.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -1162,8 +1129,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 nhấn icon mãi ở tab Trang chủ)</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=310
-:src="androidImages.image037"></span></p>
+lang=EN-US><img border=0 width=468 height=309 :src="androidImages.image038"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1177,8 +1143,7 @@ Nhấn nút Tìm kiếm)</span><span lang=EN-US style='font-size:12.0pt;line-hei
 150%'>, để xem danh sách chương trình khuyến mãi theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=331
-:src="androidImages.image038"></span></p>
+lang=EN-US><img border=0 width=330 height=331 :src="androidImages.image039"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1189,8 +1154,7 @@ Chương trình khuyến mãi, nhấn vào 1 chương trình để xem chi tiế
 khuyến mãi</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=323
-:src="androidImages.image039"></span></p>
+lang=EN-US><img border=0 width=330 height=323 :src="androidImages.image040"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015283"></a><a name="_Toc187399858"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.2.2.4">4.2.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -1368,8 +1332,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 danh sách hình ảnh theo khung thời gian đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=333 height=324
-:src="androidImages.image040"></span></p>
+lang=EN-US><img border=0 width=333 height=324 :src="androidImages.image041"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1392,8 +1355,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 3.2: Nhấn vào Xem album, để xem hình ảnh của nhân viên theo album</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=333
-:src="androidImages.image041"></span></p>
+lang=EN-US><img border=0 width=330 height=333 :src="androidImages.image042"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1403,8 +1365,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Xem tất cả, để xem danh sách album theo nhân viên/ hoặc theo khách hàng </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=461 height=274
-:src="androidImages.image042"></span></p>
+lang=EN-US><img border=0 width=461 height=275 :src="androidImages.image043"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1418,8 +1379,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách albu
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=329 height=329
-:src="androidImages.image043"></span></p>
+border=0 width=330 height=329 :src="androidImages.image044"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1429,8 +1389,7 @@ Tại màn hình Hình ảnh khách hàng-&gt; Tab Theo nhân viên, nhấn vào
 viên bất kỳ, để xem danh sách hình ảnh khách hàng theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=310
-:src="androidImages.image044"></span></p>
+lang=EN-US><img border=0 width=330 height=309 :src="androidImages.image045"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1440,8 +1399,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 khách hàng bất kỳ, để xem danh sách hình ảnh khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=329 height=314
-:src="androidImages.image045"></span></p>
+lang=EN-US><img border=0 width=329 height=313 :src="androidImages.image046"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1469,8 +1427,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 8.3: Nhấn Xoay trái / Xoay phải, để thực hiện xoay ảnh</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=293
-:src="androidImages.image046"></span></p>
+border=0 width=468 height=293 id="Picture 32" :src="androidImages.image047"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1480,8 +1437,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 chụp</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=329 height=335
-:src="androidImages.image047"></span></p>
+lang=EN-US><img border=0 width=330 height=335 :src="androidImages.image048"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015289"></a><a name="_Toc187399864"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.2.3.4">4.2.3.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -1577,8 +1533,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Danh mục -&gt; Chương trình tích lũy trưng bày</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=345 height=353
-:src="androidImages.image048"></span></p>
+border=0 width=345 height=353 :src="androidImages.image049"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1592,8 +1547,7 @@ Nhấn nút Tìm kiếm)</span><span lang=EN-US style='font-size:12.0pt;line-hei
 150%'>, để xem danh sách chương trình theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=353 height=323
-:src="androidImages.image049"></span></p>
+border=0 width=354 height=324 :src="androidImages.image050"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1603,8 +1557,7 @@ Tại màn hình chương trình tích lũy trưng bày, nhấn vào 1 chương 
 chi tiết chương trình</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=343 height=323
-:src="androidImages.image050"></span></p>
+border=0 width=343 height=324 id="Picture 31" :src="androidImages.image051"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1621,8 +1574,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 lũy/ Trưng bày/ Trả thưởng của kỳ đã chọn</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=287
-:src="androidImages.image051"></span></p>
+border=0 width=468 height=287 :src="androidImages.image052"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc181627109"></a><a name="_Toc187399870"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.2.4.4">4.2.4.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -1786,8 +1738,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 danh sách hình ảnh theo khung thời gian đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=324 height=332
-:src="androidImages.image052"></span></p>
+lang=EN-US><img border=0 width=324 height=331 :src="androidImages.image053"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1797,8 +1748,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Xem tất cả, để xem danh sách album theo nhân viên/ hoặc theo khách hàng </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=320
-:src="androidImages.image053"></span></p>
+lang=EN-US><img border=0 width=468 height=320 :src="androidImages.image054"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1812,8 +1762,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách albu
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=333 height=356
-:src="androidImages.image054"></span></p>
+border=0 width=333 height=356 :src="androidImages.image055"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1823,8 +1772,7 @@ Tại màn hình Hình ảnh chương trình -&gt; Tab Theo nhân viên, nhấn 
 nhân viên bất kỳ, để xem danh sách hình ảnh khách hàng theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=325 height=332
-:src="androidImages.image055"></span></p>
+lang=EN-US><img border=0 width=324 height=331 :src="androidImages.image056"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1834,8 +1782,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 album khách hàng bất kỳ, để xem danh sách hình ảnh khách hàng theo chương trình</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=319 height=332
-:src="androidImages.image056"></span></p>
+lang=EN-US><img border=0 width=319 height=331 :src="androidImages.image057"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1863,8 +1810,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 7.3: Nhấn Xoay trái / Xoay phải, để thực hiện xoay ảnh</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=323
-:src="androidImages.image057"></span></p>
+border=0 width=468 height=323 :src="androidImages.image058"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -1874,8 +1820,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 chụp</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=308 height=305
-:src="androidImages.image058"></span></p>
+lang=EN-US><img border=0 width=307 height=305 :src="androidImages.image059"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187399876"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.2.5.4">4.2.5.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -2025,8 +1970,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Khách hàng -&gt; Quản lý khách hàng mới</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=373 height=292
-:src="androidImages.image059"></span></p>
+border=0 width=373 height=292 :src="androidImages.image060"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2040,8 +1984,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách khá
 hàng mới theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=360 height=324
-:src="androidImages.image060"></span></p>
+border=0 width=360 height=324 :src="androidImages.image061"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2051,8 +1994,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 khách hàng mới</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=334 height=331
-:src="androidImages.image061"></span></p>
+lang=EN-US><img border=0 width=334 height=331 :src="androidImages.image062"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2062,8 +2004,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 vào icon vị trí để xem vị trí địa chỉ của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=314
-:src="androidImages.image062"></span></p>
+lang=EN-US><img border=0 width=468 height=314 :src="androidImages.image063"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2073,12 +2014,10 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 cho các trường bắt buộc -&gt; Nhấn nút Lưu để tạo mới khách hàng</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=468 height=310
-:src="androidImages.image063"></span></p>
+border=0 width=468 height=310 :src="androidImages.image064"></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=336 height=334
-:src="androidImages.image064"></span></p>
+border=0 width=336 height=334 :src="androidImages.image065"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -2086,8 +2025,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>: Nhấn link Nhập thêm/
 hoặc Rút gọn để hiển thị thêm/ hoặc ẩn bớt thông tin</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=332 height=334
-:src="androidImages.image065"></span></p>
+border=0 width=332 height=334 :src="androidImages.image066"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2098,8 +2036,7 @@ Duyệt (hoặc trên màn hình Chi tiết khách hàng mới -&gt; Nhấn nút
 -&gt; Nhấn Duyệt) -&gt; Nhấn nút Duyệt, để thực hiện Duyệt khách hàng mới</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=294
-:src="androidImages.image066"></span></p>
+lang=EN-US><img border=0 width=468 height=294 :src="androidImages.image067"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2110,8 +2047,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Nhấn Hủy) -&gt; Nhấn nút Hủy, để thực hiện Hủy duyệt khách hàng mới</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=319
-:src="androidImages.image067"></span></p>
+lang=EN-US><img border=0 width=468 height=320 :src="androidImages.image068"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2123,8 +2059,7 @@ chối (hoặc trên màn hình Chi tiết khách hàng mới -&gt; Nhấn nút 
 hàng mới</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=309
-:src="androidImages.image068"></span></p>
+lang=EN-US><img border=0 width=468 height=309 :src="androidImages.image069"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2135,8 +2070,8 @@ hình chi tiết khách hàng -&gt; Nhấn nút Chỉnh sửa) -&gt; Nhập thô
 chỉnh sửa và nhấn nút Lưu, để lưu thông tin thay đổi của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=235
-:src="androidImages.image069"></span></p>
+lang=EN-US><img border=0 width=468 height=235 id="Picture 30"
+:src="androidImages.image070"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><span lang=EN-US style='font-size:
 12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -2370,8 +2305,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Khách hàng -&gt; Danh sách khách hàng</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=332 height=334
-:src="androidImages.image070"></span></p>
+border=0 width=332 height=334 :src="androidImages.image071"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2385,8 +2319,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách khá
 hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=335 height=311
-:src="androidImages.image071"></span></p>
+lang=EN-US><img border=0 width=335 height=311 :src="androidImages.image072"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2396,8 +2329,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 kiện sắp xếp để thực hiện sắp xếp danh sách khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=170 height=333
-:src="androidImages.image072"></span></p>
+lang=EN-US><img border=0 width=170 height=333 :src="androidImages.image073"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2427,8 +2359,7 @@ tháng gần đây và Top 3 sản phẩm khách hàng mua nhiều nhất trong 
 của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=243
-:src="androidImages.image073"></span></p>
+lang=EN-US><img border=0 width=468 height=243 :src="androidImages.image074"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2466,8 +2397,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 người chụp</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=464 height=215
-:src="androidImages.image074"></span></p>
+lang=EN-US><img border=0 width=464 height=216 id="Picture 29"
+:src="androidImages.image075"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2477,8 +2408,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 chỉ của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=460 height=310
-:src="androidImages.image075"></span></p>
+lang=EN-US><img border=0 width=460 height=309 :src="androidImages.image076"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2488,8 +2418,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 của địa chỉ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=167 height=333
-:src="androidImages.image076"></span></p>
+lang=EN-US><img border=0 width=166 height=333 :src="androidImages.image077"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2499,8 +2428,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 và nhấn nút Lưu, để lưu vị trí của địa chỉ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=310
-:src="androidImages.image077"></span></p>
+lang=EN-US><img border=0 width=468 height=310 :src="androidImages.image078"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US>&nbsp;</span></p>
 
@@ -2513,8 +2441,7 @@ hình chi tiết khách hàng -&gt; Nhấn nút Chỉnh sửa) -&gt; Nhập thô
 chỉnh sửa và nhấn nút Lưu, để lưu thông tin thay đổi của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=238
-:src="androidImages.image078"></span></p>
+lang=EN-US><img border=0 width=468 height=238 :src="androidImages.image079"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015302"></a><a name="_Toc187399889"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.3.2.4">4.3.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -2624,8 +2551,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Giám sát -&gt; Đi tuyến</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=328 height=319
-:src="androidImages.image079"></span></p>
+lang=EN-US><img border=0 width=328 height=319 :src="androidImages.image080"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2639,8 +2565,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách nhâ
 viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=331 height=331
-:src="androidImages.image080"></span></p>
+lang=EN-US><img border=0 width=331 height=331 :src="androidImages.image081"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2649,8 +2574,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 3: Tại màn hình Đi tuyến, nhấn vào 1 nhân viên để xem Chi tiết đi tuyến</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=331
-:src="androidImages.image081"></span></p>
+lang=EN-US><img border=0 width=330 height=331 :src="androidImages.image082"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2660,8 +2584,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Chi tiết đi tuyến -&gt; Nhấn icon Lộ trình) để xem Lộ trình của nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=473 height=315
-:src="androidImages.image082"></span></p>
+lang=EN-US><img border=0 width=472 height=315 id="Picture 28"
+:src="androidImages.image083"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2671,8 +2595,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 trình dự kiến/ lộ trình thực tế) và Ngày để xem lộ trình của nhân viên</a></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=163 height=332
-:src="androidImages.image083"></span></p>
+lang=EN-US><img border=0 width=163 height=331 :src="androidImages.image084"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2682,8 +2605,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 hiển thị thông tin chi tiết ghé thăm của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=167 height=331
-:src="androidImages.image084"></span></p>
+lang=EN-US><img border=0 width=166 height=332 :src="androidImages.image085"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -2729,8 +2651,9 @@ viên</a></span></h3>
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Cho phép
-tìm kiếm nhân viên / xem vị trí nhân viên / xem lộ trình bán hàng của nhân viên</span></p>
+</span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Cho
+phép tìm kiếm nhân viên / xem vị trí nhân viên / xem lộ trình bán hàng của nhân
+viên</span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015313"></a><a name="_Toc187399900"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.4.2.2">4.4.2.2.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Chức năng</span></a></h4>
@@ -2800,8 +2723,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=251
-:src="androidImages.image085"></span></p>
+lang=EN-US><img border=0 width=326 height=250 id="Picture 27"
+:src="androidImages.image086"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -2811,8 +2734,7 @@ letter-spacing:-.2pt'>Bước 3: Tại phần chi tiết vị trí của nhân v
 Lộ trình để xem Lộ trình của nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=325 height=281
-:src="androidImages.image086"></span></p>
+lang=EN-US><img border=0 width=325 height=281 :src="androidImages.image087"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2822,8 +2744,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 tế) và Ngày, để xem lộ trình của nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=163 height=332
-:src="androidImages.image087"></span></p>
+lang=EN-US><img border=0 width=163 height=331 :src="androidImages.image088"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -2833,8 +2754,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 hiển thị thông tin chi tiết ghé thăm của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=164 height=332
-:src="androidImages.image088"></span></p>
+lang=EN-US><img border=0 width=164 height=331 :src="androidImages.image089"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -2858,11 +2778,9 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 </span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Khi
 nhấn vào marker khách hàng, marker sẽ được phóng to và hiển thị phần thông tin
 chi tiết ghé thăm của khách hàng. Người dùng có thể nhấn icon <img border=0
-width=15 height=10
-:src="androidImages.image089"> hoặc
-icon <img border=0 width=15 height=10
-:src="androidImages.image090"> để mở
-rộng hoặc thu hẹp phần thông tin chi tiết tương ứng</span></p>
+width=15 height=10 id="Picture 26" :src="androidImages.image090"> hoặc icon <img
+border=0 width=15 height=10 id="Picture 25" :src="androidImages.image091"> để
+mở rộng hoặc thu hẹp phần thông tin chi tiết tương ứng</span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><span lang="EN-US" id="4.4.2.5">4.4.2.5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;
@@ -3039,8 +2957,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 tab Ghé thăm)</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=339 height=266
-:src="androidImages.image091"></span></p>
+lang=EN-US><img border=0 width=339 height=266 :src="androidImages.image092"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -3051,8 +2968,7 @@ nhập thông tin tìm kiếm vào textbox Tìm kiếm -&gt; Nhấn nút Hoàn t
 danh sách khách hàng ghé thăm theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=155 height=260
-:src="androidImages.image092"></span></p>
+lang=EN-US><img border=0 width=155 height=260 :src="androidImages.image093"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3063,8 +2979,7 @@ thăm/ Ghé thăm không đặt hàng/ Ghé thăm có đặt hàng/ Đóng cửa
 khách hàng ghé thăm theo trạng thái</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=235
-:src="androidImages.image093"></span></p>
+lang=EN-US><img border=0 width=468 height=235 :src="androidImages.image094"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3080,8 +2995,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 3.1: Nhấn icon Ghé thăm để thực hiện ghé thăm khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=316
-:src="androidImages.image094"></span></p>
+lang=EN-US><img border=0 width=468 height=316 :src="androidImages.image095"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3096,8 +3010,7 @@ style='font-size:12.0pt;line-height:150%'>Trong tài liệu này, quy trình gh�
 thăm sẽ được thực hiện theo quy trình đã được cấu hình như hình dưới đây:</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=127
-:src="androidImages.image095"></span></p>
+lang=EN-US><img border=0 width=468 height=127 :src="androidImages.image096"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3108,8 +3021,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Tiếp để sang bước tiếp theo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=332
-:src="androidImages.image096"></span></p>
+lang=EN-US><img border=0 width=326 height=332 :src="androidImages.image097"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3126,8 +3038,7 @@ nhấn vào icon chỉnh sửa của từng sản phẩm -&gt; Nhập thông tin
 Ghi chú -&gt; Nhấn Lưu để lưu thông tin kiểm tồn</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=462 height=311
-:src="androidImages.image097"></span></p>
+border=0 width=462 height=311 id="Picture 24" :src="androidImages.image098"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>        + Kiểm tồn lịch sử theo
@@ -3163,8 +3074,7 @@ vào combobox để chọn Chương trình muốn kiểm tồn -&gt; Nhấn icon
 tồn cho sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=464 height=311
-:src="androidImages.image098"></span></p>
+lang=EN-US><img border=0 width=464 height=311 :src="androidImages.image099"></span></p>
 
 <p class=MsoNormal style='margin-left:31.5pt;text-indent:0cm'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%;font-family:Wingdings'>§<span
@@ -3174,8 +3084,7 @@ Chọn sản phẩm, nhấn icon nhập kiểm tồn -&gt; Nhập thông tin c�
 nhấn nút Xong -&gt; Nhấn nút Lưu để lưu thông tin kiểm tồn của sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=464 height=315
-:src="androidImages.image099"></span></p>
+border=0 width=464 height=315 :src="androidImages.image100"></span></p>
 
 <p class=MsoNormal style='margin-left:31.5pt;text-indent:0cm'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%;font-family:Wingdings'>§<span
@@ -3184,8 +3093,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>Khi hoàn thành kiểm t�
 nhấn nút Tiếp để chuyển sang bước tiếp theo</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=165 height=333
-:src="androidImages.image100"></span></p>
+border=0 width=165 height=333 id="Picture 23" :src="androidImages.image101"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3195,8 +3103,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ghi chú</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=324 height=324
-:src="androidImages.image101"></span></p>
+lang=EN-US><img border=0 width=324 height=324 :src="androidImages.image102"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3206,8 +3113,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 tạo: Tạo đơn presale / hoặc Tạo đơn vansale, để thực hiện tạo đơn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=324 height=323
-:src="androidImages.image102"></span></p>
+lang=EN-US><img border=0 width=324 height=323 :src="androidImages.image103"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><b><u><span lang=EN-US>Luồng tạo đơn
 Presale</span></u></b></p>
@@ -3224,8 +3130,7 @@ tìm kiếm vào textbox Tìm kiếm -&gt; Nhấn nút Hoàn tất (hoặc nhấ
 line-height:150%'>, để xem danh sách sản phẩm theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=317
-:src="androidImages.image103"></span></p>
+lang=EN-US><img border=0 width=468 height=317 :src="androidImages.image104"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3235,8 +3140,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Nhập số lượng sản phẩm để thêm sản phẩm vào giỏ hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=322 height=324
-:src="androidImages.image104"></span></p>
+lang=EN-US><img border=0 width=322 height=324 :src="androidImages.image105"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><b><span lang=EN-US style='font-size:
 12.0pt;line-height:150%'>Hoặc</span></b><span lang=EN-US style='font-size:12.0pt;
@@ -3245,8 +3149,7 @@ style='font-size:12.0pt;line-height:150%'> nhấn vào sản phẩm -&gt; Chọn
 -&gt; Nhập số lượng và nhấn nút Cập nhật, để thêm sản phẩm vào giỏ hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=462 height=314
-:src="androidImages.image105"></span></p>
+lang=EN-US><img border=0 width=462 height=313 :src="androidImages.image106"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><b><span lang=EN-US style='font-size:
 12.0pt;line-height:150%'>Hoặc: </span></b><span lang=EN-US style='font-size:
@@ -3254,8 +3157,7 @@ lang=EN-US><img border=0 width=462 height=314
 Nhấn tab Tất cả, chọn kho và nhập số lượng để thêm sản phẩm vào giỏ hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=162 height=307
-:src="androidImages.image106"></span></p>
+lang=EN-US><img border=0 width=162 height=307 :src="androidImages.image107"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3268,15 +3170,14 @@ hàng) -&gt; Nhập thông tin giao hàng -&gt; Nhấn nút Đặt hàng, để 
 đơn đặt hàng</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=311
-:src="androidImages.image107"></span></p>
+border=0 width=468 height=311 :src="androidImages.image108"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=284 height=323
-:src="androidImages.image050"></span></p>
+lang=EN-US><img border=0 width=284 height=323 id="Picture 22"
+:src="androidImages.image109"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3300,8 +3201,7 @@ Tại màn hình Thông báo đơn hàng, nhấn nút Hoàn thành -&gt; Nhấn 
 hệ thống sẽ kết thúc luồng ghé thăm và trở về màn hình Ghé thăm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=327 height=297
-:src="androidImages.image108"></span></p>
+lang=EN-US><img border=0 width=327 height=297 :src="androidImages.image110"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -3331,12 +3231,10 @@ thưởng cho đơn hàng) -&gt; Nhập thông tin cho các trường bắt bu�
 Đặt hàng và thanh toán</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=304
-:src="androidImages.image109"></span></p>
+border=0 width=468 height=305 :src="androidImages.image111"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=351 height=331
-:src="androidImages.image110"></span></p>
+lang=EN-US><img border=0 width=351 height=331 :src="androidImages.image112"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3350,8 +3248,7 @@ luồng ghé thăm, quay trở về màn hình Ghé thăm</span></p>
 lang=EN-US>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=324 height=328
-:src="androidImages.image111"></span></p>
+lang=EN-US><img border=0 width=324 height=328 :src="androidImages.image113"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -3364,8 +3261,7 @@ Tại màn hình bước Tạo đơn hàng, nhấn icon Khuyến mãi,</span><sp
 style='font-size:12.0pt;line-height:150%'> để xem danh sách nhóm khuyến mãi</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=327 height=276
-:src="androidImages.image112"></span></p>
+lang=EN-US><img border=0 width=327 height=276 :src="androidImages.image114"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3376,8 +3272,7 @@ chép và nhấn icon sao chép,</span><span lang=EN-US style='font-size:12.0pt;
 line-height:150%'> để sao chép đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=467 height=293
-:src="androidImages.image113"></span></p>
+lang=EN-US><img border=0 width=467 height=293 :src="androidImages.image115"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><u><span lang=EN-US>Lưu ý</span></u><span
 lang=EN-US>: Chỉ thực hiện sao chép đối với đơn hàng presale</span></p>
@@ -3391,8 +3286,7 @@ xem thông tin danh sách sản phẩm bán/ sản phẩm đã mua và các sả
 mãi</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=470 height=309
-:src="androidImages.image114"></span></p>
+lang=EN-US><img border=0 width=470 height=309 :src="androidImages.image116"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3404,12 +3298,10 @@ chụp (hoặc nhấn trực tiếp vào icon chụp hình), thực hiện chụ
 Tiếp để sang bước tiếp theo</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=239
-:src="androidImages.image115"></span></p>
+border=0 width=468 height=238 :src="androidImages.image117"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=469 height=314
-:src="androidImages.image116"></span></p>
+lang=EN-US><img border=0 width=468 height=314 :src="androidImages.image118"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><u><span lang=EN-US>Lưu ý</span></u><span
 lang=EN-US>:</span></p>
@@ -3425,8 +3317,7 @@ text-indent:0cm'><span lang=EN-US>-<span style='font:7.0pt "Times New Roman"'>&n
 Chụp ảnh ở phần “Hình ảnh trưng bày hôm nay”</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=158 height=320
-:src="androidImages.image117"></span></p>
+lang=EN-US><img border=0 width=158 height=320 :src="androidImages.image119"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3440,8 +3331,7 @@ Nhấn nút Tìm kiếm)</span><span lang=EN-US style='font-size:12.0pt;line-hei
 150%'>, để xem danh sách chương trình theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-border=0 width=353 height=325
-:src="androidImages.image118"></span></p>
+border=0 width=353 height=325 :src="androidImages.image120"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -3454,8 +3344,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 vấn đề</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=469 height=310
-:src="androidImages.image119"></span></p>
+lang=EN-US><img border=0 width=468 height=310 :src="androidImages.image121"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3465,8 +3354,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 cần chỉnh sửa và nhấn nút Lưu, để cập nhật thông tin thay đổi của vấn đề</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=314
-:src="androidImages.image120"></span></p>
+border=0 width=468 height=314 :src="androidImages.image122"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3476,8 +3364,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 để hủy vấn đề đã khởi tạo</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=312
-:src="androidImages.image121"></span></p>
+border=0 width=468 height=312 :src="androidImages.image123"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><u><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>Lưu ý</span></u><span
@@ -3496,8 +3383,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách vấ
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=352 height=315
-:src="androidImages.image122"></span></p>
+lang=EN-US><img border=0 width=353 height=315 :src="androidImages.image124"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3509,12 +3395,10 @@ chỉ -&gt; Chọn địa chỉ ghé thăm -&gt; Nhấn nút Thao tác khác và
 luồng ghé thăm đóng cửa và trở về màn hình Ghé thăm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=466 height=308
-:src="androidImages.image123"></span></p>
+lang=EN-US><img border=0 width=466 height=308 :src="androidImages.image125"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=333 height=331
-:src="androidImages.image124"></span></p>
+lang=EN-US><img border=0 width=333 height=331 :src="androidImages.image126"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3525,8 +3409,7 @@ khách hàng, chọn Chấm vị trí -&gt; Thực hiện chấm vị trí khác
 Lưu, để lưu thông tin vị trí địa chỉ của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=332 height=328
-:src="androidImages.image125"></span></p>
+lang=EN-US><img border=0 width=332 height=328 :src="androidImages.image127"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3536,8 +3419,7 @@ Tại màn hình Ghé thăm, nhấn nút Thao tác khác của 1 khách hàng, c
 -&gt; Nhấn nút Xem chi tiết, để xem vị trí địa chỉ của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=463 height=307
-:src="androidImages.image126"></span></p>
+lang=EN-US><img border=0 width=463 height=307 :src="androidImages.image128"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3548,8 +3430,7 @@ chỉ -&gt; Nhập thông tin địa chỉ và nhấn nút Lưu, để lưu thô
 khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=331 height=331
-:src="androidImages.image127"></span></p>
+lang=EN-US><img border=0 width=330 height=331 :src="androidImages.image129"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 31.5pt;text-indent:-36.0pt"><span lang="EN-US" id="4.5.1.4">4.5.1.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;
@@ -3862,8 +3743,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Bán hàng -&gt; Đơn hàng (hoặc nhấn Đơn hàng)</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=323 height=331
-:src="androidImages.image128"></span></p>
+lang=EN-US><img border=0 width=323 height=331 :src="androidImages.image130"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3877,8 +3757,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách nhâ
 viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=329 height=332
-:src="androidImages.image129"></span></p>
+lang=EN-US><img border=0 width=328 height=332 :src="androidImages.image131"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3888,8 +3767,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 để thực hiện sắp xếp danh sách nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=162 height=331
-:src="androidImages.image130"></span></p>
+lang=EN-US><img border=0 width=162 height=331 :src="androidImages.image132"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3899,8 +3777,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 đơn hàng theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=329 height=332
-:src="androidImages.image131"></span></p>
+lang=EN-US><img border=0 width=329 height=331 :src="androidImages.image133"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3914,8 +3791,7 @@ Nhấn nút Tìm kiếm)</span><span lang=EN-US style='font-size:12.0pt;line-hei
 150%'>, để xem danh sách đơn hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=338 height=313
-:src="androidImages.image132"></span></p>
+lang=EN-US><img border=0 width=338 height=313 :src="androidImages.image134"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3926,8 +3802,7 @@ style='font-size:12.0pt;line-height:150%'>, nhấn icon Sắp xếp -&gt; Chọn
 kiện sắp xếp để thực hiện sắp xếp danh sách đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=172 height=331
-:src="androidImages.image133"></span></p>
+lang=EN-US><img border=0 width=173 height=332 :src="androidImages.image135"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3937,8 +3812,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 tiết đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=331 height=332
-:src="androidImages.image134"></span></p>
+lang=EN-US><img border=0 width=332 height=331 :src="androidImages.image136"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -3950,8 +3824,7 @@ chỉnh sửa (Thêm / xóa sản phẩm/ Chương trình khuyến mãi/ Trả t
 tích lũy) -&gt; Nhấn nút Lưu, để lưu thông tin chỉnh sửa đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=466 height=290
-:src="androidImages.image135"></span></p>
+lang=EN-US><img border=0 width=466 height=290 :src="androidImages.image137"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3961,8 +3834,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 hình chi tiết đơn hàng -&gt; Nhấn nút Sao chép), để thực hiện sao chép đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=458 height=310
-:src="androidImages.image136"></span></p>
+lang=EN-US><img border=0 width=458 height=310 :src="androidImages.image138"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -3973,8 +3845,7 @@ hàng vansale -&gt; Chọn lý do trả hàng -&gt; Nhấn nút Trả hàng, đ�
 trả đơn vansale</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=463 height=315
-:src="androidImages.image137"></span></p>
+lang=EN-US><img border=0 width=463 height=315 :src="androidImages.image139"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc144469409"></a><a name="_Toc180015328"></a><a name="_Toc187399915"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.5.2.4">4.5.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4084,8 +3955,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 kho -&gt; Nhấn nút Chốt kho ở popup, để thực hiện chốt kho vansale</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=469 height=212
-:src="androidImages.image138"></span></p>
+lang=EN-US><img border=0 width=469 height=212 :src="androidImages.image140"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015334"></a><a name="_Toc187399921"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.5.3.4">4.5.3.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4175,8 +4045,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Báo cáo -&gt; Báo cáo bán hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=331 height=289
-:src="androidImages.image139"></span></p>
+lang=EN-US><img border=0 width=331 height=289 :src="androidImages.image141"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4191,8 +4060,7 @@ Nhấn nút Lọc)</span><span lang=EN-US style='font-size:12.0pt;line-height:15
 để xem danh sách báo cáo bán hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=333 height=225
-:src="androidImages.image140"></span></p>
+lang=EN-US><img border=0 width=333 height=225 :src="androidImages.image142"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4221,8 +4089,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 3.1.1: Nhấn vào 1 đơn hàng để xem chi tiết đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=470 height=226
-:src="androidImages.image141"></span></p>
+lang=EN-US><img border=0 width=469 height=227 :src="androidImages.image143"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015341"></a><a name="_Toc187399928"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.1.4">4.6.1.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4326,8 +4193,7 @@ letter-spacing:-.2pt'>Bước 1: Vào màn hình Danh mục -&gt; Báo cáo -&gt
 khách hàng chưa phát sinh doanh số</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=320 height=272
-:src="androidImages.image142"></span></p>
+lang=EN-US><img border=0 width=320 height=272 :src="androidImages.image144"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4337,8 +4203,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 báo cáo theo điều kiện tìm kiếm/ lọc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=162 height=332
-:src="androidImages.image143"></span></p>
+lang=EN-US><img border=0 width=162 height=331 :src="androidImages.image145"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4349,8 +4214,7 @@ viên để xem danh sách khách hàng chưa phát sinh doanh số của nhân 
 vòng 30 ngày kể từ ngày hiện tại</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=337 height=331
-:src="androidImages.image144"></span></p>
+lang=EN-US><img border=0 width=337 height=331 :src="androidImages.image146"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4366,8 +4230,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 4.1: Nhấn vào 1 đơn hàng để xem Chi tiết đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=466 height=285
-:src="androidImages.image145"></span></p>
+lang=EN-US><img border=0 width=465 height=285 id="Picture 21"
+:src="androidImages.image147"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015347"></a><a name="_Toc187399934"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.2.4">4.6.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4468,8 +4332,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Báo cáo -&gt; Báo cáo ngành hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=313
-:src="androidImages.image146"></span></p>
+lang=EN-US><img border=0 width=326 height=313 id="Picture 20"
+:src="androidImages.image148"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4482,8 +4346,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 nút Áp dụng), để xem danh sách báo cáo theo điều kiện tìm kiếm/ lọc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=467 height=285
-:src="androidImages.image145"></span></p>
+lang=EN-US><img border=0 width=467 height=285 id="Picture 19"
+:src="androidImages.image149"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4500,8 +4364,7 @@ cáo của cấp con cho đến cấp thấp nhất theo cấu hình tại màn 
 &gt;&gt; Thiết lập mô hình tổ chức của web</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=463 height=216
-:src="androidImages.image147"></span></p>
+lang=EN-US><img border=0 width=463 height=216 :src="androidImages.image150"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4514,8 +4377,7 @@ Nhấn nút Lọc; hoặc nhấn vào Tháng -&gt; Chọn điều kiện lọc v
 dụng), để xem danh sách báo cáo theo điều kiện tìm kiếm/ lọc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=464 height=314
-:src="androidImages.image148"></span></p>
+lang=EN-US><img border=0 width=463 height=313 :src="androidImages.image151"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4531,8 +4393,7 @@ ngành hàng cha/ sản phẩm cha sẽ hiển thị báo cáo của ngành hàn
 con (biến thể)</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=464 height=217
-:src="androidImages.image149"></span></p>
+lang=EN-US><img border=0 width=464 height=218 :src="androidImages.image152"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015353"></a><a name="_Toc187399940"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.3.4">4.6.3.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4621,8 +4482,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Báo cáo -&gt; Báo cáo đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=323 height=323
-:src="androidImages.image150"></span></p>
+lang=EN-US><img border=0 width=322 height=324 :src="androidImages.image153"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4637,8 +4497,7 @@ Nhấn nút Lọc)</span><span lang=EN-US style='font-size:12.0pt;line-height:15
 để xem danh sách báo cáo đơn hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=297 height=323
-:src="androidImages.image151"></span></p>
+lang=EN-US><img border=0 width=297 height=323 :src="androidImages.image154"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4660,8 +4519,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 3.1.1: Nhấn vào 1 đơn hàng để xem chi tiết đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=467 height=239
-:src="androidImages.image152"></span></p>
+lang=EN-US><img border=0 width=468 height=238 :src="androidImages.image155"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc181627179"></a><a name="_Toc187399946"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.4.4">4.6.4.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4751,8 +4609,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 sản phẩm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=318 height=323
-:src="androidImages.image153"></span></p>
+lang=EN-US><img border=0 width=318 height=323 :src="androidImages.image156"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4768,8 +4625,7 @@ line-height:150%'>, để xem danh sách báo cáo doanh số, sản lượng s�
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=321 height=323
-:src="androidImages.image154"></span></p>
+lang=EN-US><img border=0 width=321 height=323 :src="androidImages.image157"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4792,8 +4648,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 3.1.1: Nhấn vào 1 đơn hàng để xem chi tiết đơn hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=464 height=238
-:src="androidImages.image036"></span></p>
+lang=EN-US><img border=0 width=464 height=238 id="Picture 18"
+:src="androidImages.image158"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc181627185"></a><a name="_Toc187399952"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.5.4">4.6.5.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -4895,8 +4751,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Báo cáo -&gt; Báo cáo KPIs</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=319
-:src="androidImages.image155"></span></p>
+lang=EN-US><img border=0 width=317 height=319 :src="androidImages.image159"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -4913,8 +4768,8 @@ lang=EN-US style='font-size:12.0pt;line-height:150%;letter-spacing:-.1pt'>, đ�
 xem danh sách báo cáo KPIs theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=318 height=319
-:src="androidImages.image156"></span></p>
+lang=EN-US><img border=0 width=318 height=319 id="Picture 17"
+:src="androidImages.image160"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -4926,8 +4781,7 @@ letter-spacing:-.2pt'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&n
 -&gt; Chọn điều kiện sắp xếp, để sắp xếp danh sách theo điều kiện đã chọn</span></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=329 height=284
-:src="androidImages.image157"></span></p>
+lang=EN-US><img border=0 width=330 height=283 :src="androidImages.image161"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -4937,8 +4791,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 chí KPIs theo nhân viên đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=311 height=311
-:src="androidImages.image158"></span></p>
+lang=EN-US><img border=0 width=310 height=310 :src="androidImages.image162"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc184900804"></a><a name="_Toc187399958"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.6.4">4.6.6.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -5070,8 +4923,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 bày</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=323
-:src="androidImages.image159"></span></p>
+lang=EN-US><img border=0 width=317 height=323 :src="androidImages.image163"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -5090,8 +4942,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%;letter-spacing:-.1pt'>, đ�
 xem danh sách chương trình theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=314
-:src="androidImages.image160"></span></p>
+lang=EN-US><img border=0 width=317 height=314 :src="androidImages.image164"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5101,8 +4952,7 @@ Tại màn hình Báo cáo tiến độ tích lũy trưng bày -&gt; Nhấn vào
 tiết, để xem chi tiết chương trình</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=314
-:src="androidImages.image161"></span></p>
+lang=EN-US><img border=0 width=317 height=313 :src="androidImages.image165"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5112,8 +4962,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 độ, để xem báo cáo tiến độ tích lũy, trưng bày theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=313
-:src="androidImages.image162"></span></p>
+lang=EN-US><img border=0 width=468 height=313 :src="androidImages.image166"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5130,8 +4979,7 @@ letter-spacing:-.1pt'>, để xem danh sách báo cáo tiến độ tích lũy, 
 theo nhân viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=305
-:src="androidImages.image163"></span></p>
+lang=EN-US><img border=0 width=317 height=304 :src="androidImages.image167"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5142,12 +4990,10 @@ tab: Tích lũy/ hoặc tab Trưng bày -&gt; Nhấn vào nhân viên bất kỳ
 cáo tiến độ tích lũy, trưng bày theo khách hàng tương ứng với nhân viên đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=321
-:src="androidImages.image164"></span></p>
+lang=EN-US><img border=0 width=317 height=321 :src="androidImages.image168"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=310
-:src="androidImages.image165"></span></p>
+lang=EN-US><img border=0 width=317 height=310 :src="androidImages.image169"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5164,8 +5010,7 @@ letter-spacing:-.1pt'>, để xem danh sách báo cáo tiến độ tích lũy, 
 theo khách hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=322
-:src="androidImages.image166"></span></p>
+lang=EN-US><img border=0 width=317 height=322 :src="androidImages.image170"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5176,12 +5021,10 @@ tab: Tích lũy/ hoặc tab Trưng bày -&gt; Nhấn vào nhân viên bất kỳ
 độ tham gia tích lũy, trưng bày của khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=298
-:src="androidImages.image167"></span></p>
+lang=EN-US><img border=0 width=317 height=299 :src="androidImages.image171"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=330
-:src="androidImages.image168"></span></p>
+lang=EN-US><img border=0 width=317 height=330 :src="androidImages.image172"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187399964"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.6.7.4">4.6.7.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -5311,8 +5154,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 1: Vào màn hình Danh mục -&gt; Công việc -&gt; Quản lý công việc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=329
-:src="androidImages.image169"></span></p>
+lang=EN-US><img border=0 width=326 height=329 :src="androidImages.image173"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5322,8 +5164,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ghé thăm, để xem danh sách ghi chú theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=297
-:src="androidImages.image170"></span></p>
+lang=EN-US><img border=0 width=326 height=297 :src="androidImages.image174"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5339,8 +5180,8 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách ghi chú theo n
 viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=329
-:src="androidImages.image171"></span></p>
+lang=EN-US><img border=0 width=326 height=329 id="Picture 16"
+:src="androidImages.image175"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5350,8 +5191,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ghi chú của khách hàng theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=262
-:src="androidImages.image172"></span></p>
+lang=EN-US><img border=0 width=326 height=261 :src="androidImages.image176"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5367,8 +5207,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách ghi 
 của khách hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=317
-:src="androidImages.image173"></span></p>
+lang=EN-US><img border=0 width=326 height=316 :src="androidImages.image177"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5378,8 +5217,7 @@ Tại màn hình Quản lý ghi chú theo khách hàng, nhấn vào khách hàng
 vào ghi chú, để xem chi tiết ghi chú</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=463 height=245
-:src="androidImages.image174"></span></p>
+lang=EN-US><img border=0 width=464 height=244 :src="androidImages.image178"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc180015360"></a><a name="_Toc187399971"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.7.1.4">4.7.1.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -5550,8 +5388,7 @@ tôi (hoặc nhấn trên biểu đồ công việc: Xem công việc), để xe
 việc cần thực hiện theo từng trạng thái</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=316
-:src="androidImages.image175"></span></p>
+lang=EN-US><img border=0 width=468 height=316 :src="androidImages.image179"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -5570,8 +5407,7 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách cần thực hi
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=328 height=331
-:src="androidImages.image176"></span></p>
+lang=EN-US><img border=0 width=328 height=332 :src="androidImages.image180"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5581,8 +5417,7 @@ Tại màn hình cần thực hiện, nhấn vào icon + (thêm) -&gt; Nhập/ c
 cho các trường bắt buộc -&gt; Nhấn nút Lưu, để tạo mới công việc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=322
-:src="androidImages.image177"></span></p>
+lang=EN-US><img border=0 width=468 height=322 :src="androidImages.image181"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5593,8 +5428,7 @@ Tại màn hình Cần thực hiện, nhấn Thao tác: Tiếp nhận (hoặc �
 việc thực hiện</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=238
-:src="androidImages.image178"></span></p>
+border=0 width=468 height=238 :src="androidImages.image182"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5605,8 +5439,8 @@ Tại màn hình Cần thực hiện, nhấn Thao tác: Từ chối (hoặc ở 
 thực hiện</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=239
-:src="androidImages.image179"></span></p>
+lang=EN-US><img border=0 width=468 height=239 id="Picture 15"
+:src="androidImages.image183"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5617,8 +5451,7 @@ chi tiết -&gt; Nhấn nút Cập nhật tiến độ) -&gt; Nhập tiến đ�
 để cập nhật tiến độ công việc cần thực hiện</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=242
-:src="androidImages.image180"></span></p>
+lang=EN-US><img border=0 width=468 height=241 :src="androidImages.image184"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5629,8 +5462,7 @@ Tại màn hình Cần thực hiện, nhấn Thao tác: Hoàn thành (hoặc ở
 thành thực hiện công việc</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=239
-:src="androidImages.image181"></span></p>
+border=0 width=468 height=238 :src="androidImages.image185"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5640,8 +5472,7 @@ Tại màn hình Cần thực hiện, nhấn vào 1 công việc bất kỳ đ�
 việc cần thực hiện</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=323 height=331
-:src="androidImages.image182"></span></p>
+lang=EN-US><img border=0 width=323 height=331 :src="androidImages.image186"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187399977"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.7.2.4">4.7.2.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -5788,8 +5619,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 việc, để xem danh sách công việc theo từng trạng thái</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=493 height=331
-:src="androidImages.image024"></span></p>
+lang=EN-US><img border=0 width=494 height=331 id="Picture 14"
+:src="androidImages.image187"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -5808,8 +5639,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%'>, để xem danh sách côn
 việc theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=324 height=332
-:src="androidImages.image183"></span></p>
+lang=EN-US><img border=0 width=324 height=331 :src="androidImages.image188"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5819,8 +5649,7 @@ Tại màn hình Quản lý giao việc, nhấn vào icon + (thêm) -&gt; Nhập
 tin cho các trường bắt buộc -&gt; Nhấn nút Lưu, để tạo công việc mới</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=275
-:src="androidImages.image184"></span></p>
+lang=EN-US><img border=0 width=468 height=274 :src="androidImages.image189"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5831,8 +5660,7 @@ tiết -&gt; Nhấn nút Hủy công việc) -&gt; Nhấn nút Hủy công việ
 hiện hủy công việc</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=321
-:src="androidImages.image185"></span></p>
+border=0 width=468 height=321 :src="androidImages.image190"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5843,8 +5671,8 @@ tiết -&gt; Nhấn nút Duyệt công việc) -&gt; Nhập kết quả đánh g
 Lưu -&gt; Nhấn nút Lưu ở popup, để duyệt công việc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=242
-:src="androidImages.image186"></span></p>
+lang=EN-US><img border=0 width=468 height=242 id="Picture 13"
+:src="androidImages.image191"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -5854,8 +5682,7 @@ Tại màn hình Quản lý giao việc, nhấn vào 1 công việc bất kỳ �
 công việc</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=245
-:src="androidImages.image187"></span></p>
+lang=EN-US><img border=0 width=468 height=245 :src="androidImages.image192"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187399983"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.7.3.4">4.7.3.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -6034,8 +5861,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 icon Quản lý vấn đề, để xem danh sách vấn đề theo nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=469 height=317
-:src="androidImages.image188"></span></p>
+lang=EN-US><img border=0 width=468 height=318 :src="androidImages.image193"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6051,8 +5877,7 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách vấn đề the
 viên theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=322 height=324
-:src="androidImages.image189"></span></p>
+lang=EN-US><img border=0 width=323 height=324 :src="androidImages.image194"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6062,8 +5887,7 @@ Tại màn hình Quản lý vấn đề, nhấn vào nhân viên bất kỳ, đ�
 của nhân viên</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=323 height=324
-:src="androidImages.image190"></span></p>
+lang=EN-US><img border=0 width=323 height=324 :src="androidImages.image195"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6079,8 +5903,7 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách vấn đề the
 kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=324
-:src="androidImages.image191"></span></p>
+lang=EN-US><img border=0 width=317 height=324 :src="androidImages.image196"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6090,8 +5913,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 tin cho các trường bắt buộc -&gt; Nhấn nút Lưu, để tạo vấn đề mới mới</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=313
-:src="androidImages.image192"></span></p>
+lang=EN-US><img border=0 width=468 height=314 :src="androidImages.image197"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6101,8 +5923,7 @@ Tại màn hình Quản lý vấn đề, nhấn nút Hủy vấn đề -&gt; Nh�
 thực hiện hủy vấn đề</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=469 height=314
-:src="androidImages.image193"></span></p>
+border=0 width=468 height=314 :src="androidImages.image198"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6112,8 +5933,7 @@ Tại màn hình Quản lý vấn đề, nhấn nút Chỉnh sửa -&gt; Nhập/
 chỉnh sửa -&gt; Nhấn nút Lưu, để cập nhật thông tin vấn đề</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=316
-:src="androidImages.image194"></span></p>
+lang=EN-US><img border=0 width=468 height=316 :src="androidImages.image199"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6122,8 +5942,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Tại màn hình Quản lý vấn đề, nhấn vào 1 vấn đề bất kỳ để xem chi tiết vấn đề</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=228
-:src="androidImages.image195"></span></p>
+lang=EN-US><img border=0 width=317 height=228 :src="androidImages.image200"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc187399989"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.7.4.4">4.7.4.4.</span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -6256,8 +6075,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 tạo, để xem danh sách thông báo đã khởi tạo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=328 height=338
-:src="androidImages.image196"></span></p>
+lang=EN-US><img border=0 width=328 height=338 :src="androidImages.image201"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -6276,8 +6094,7 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách thông báo the
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=328 height=329
-:src="androidImages.image197"></span></p>
+lang=EN-US><img border=0 width=329 height=329 :src="androidImages.image202"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6287,8 +6104,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 thông tin cho các trường bắt buộc -&gt; Nhấn nút Lưu, để tạo mới thông báo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=445 height=312
-:src="androidImages.image198"></span></p>
+lang=EN-US><img border=0 width=445 height=312 id="Picture 12"
+:src="androidImages.image203"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6298,8 +6115,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 thông báo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=322 height=332
-:src="androidImages.image199"></span></p>
+lang=EN-US><img border=0 width=321 height=331 :src="androidImages.image204"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6310,8 +6126,7 @@ chi tiết -&gt; Nhấn nút Chỉnh sửa) -&gt; Nhập/ chọn thông tin cầ
 -&gt; Nhấn nút Lưu, để lưu thông tin chỉnh sửa</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=241
-:src="androidImages.image200"></span></p>
+border=0 width=468 height=240 :src="androidImages.image205"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6322,8 +6137,7 @@ hình chi tiết -&gt; Nhấn nút Hủy thông báo) -&gt; Nhấn nút Hủy, �
 báo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=240
-:src="androidImages.image201"></span></p>
+lang=EN-US><img border=0 width=468 height=240 :src="androidImages.image206"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6333,8 +6147,7 @@ Tại màn hình Quản lý thông báo, nhấn tab Thông báo hệ thống, đ
 thông báo hệ thống</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=325 height=331
-:src="androidImages.image202"></span></p>
+lang=EN-US><img border=0 width=325 height=331 :src="androidImages.image207"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
 lang=EN-US style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -6353,8 +6166,7 @@ style='font-size:12.0pt;line-height:150%'>, để xem danh sách thông báo the
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=326 height=331
-:src="androidImages.image203"></span></p>
+lang=EN-US><img border=0 width=327 height=331 :src="androidImages.image208"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6364,8 +6176,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 tiết thông báo</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=324 height=331
-:src="androidImages.image204"></span></p>
+lang=EN-US><img border=0 width=324 height=331 :src="androidImages.image209"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><span lang=EN-US style='font-size:
 12.0pt;line-height:150%'>&nbsp;</span></p>
@@ -6465,8 +6276,9 @@ phép xem chương trình khảo sát theo khách hàng / theo nhân viên</span
   <p class=MsoNormal style='margin-top:0cm'><span lang=EN-US style='font-size:
   12.0pt;line-height:150%'>- Xem thống kê</span></p>
   <p class=MsoNormal style='margin-top:0cm'><span lang=EN-US style='font-size:
-  12.0pt;line-height:150%'>- Xem kết quả (Xem danh sách khách hàng tham gia khảo
-  sát/ Tìm kiếm khách hàng/  Sắp xếp danh sách/ Xem chi tiết kết quả khảo sát)</span></p>
+  12.0pt;line-height:150%'>- Xem kết quả (Xem danh sách khách hàng tham gia
+  khảo sát/ Tìm kiếm khách hàng/  Sắp xếp danh sách/ Xem chi tiết kết quả khảo
+  sát)</span></p>
   </td>
   <td width=294 style='width:220.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6491,8 +6303,7 @@ hình Danh mục -&gt; </span><span lang=EN-US style='font-size:12.0pt;line-heig
 trình khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=307 height=319
-:src="androidImages.image205"></span></p>
+lang=EN-GB><img border=0 width=307 height=319 :src="androidImages.image210"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6504,8 +6315,7 @@ Nhập/ chọn điều kiện cần lọc -&gt; Nhấn nút Tìm kiếm), để 
 trình khảo sát theo khách hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=310 height=319
-:src="androidImages.image206"></span></p>
+lang=EN-GB><img border=0 width=310 height=319 :src="androidImages.image211"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6516,8 +6326,7 @@ theo -&gt; Chọn điều kiện sắp xếp, để sắp xếp danh sách chư�
 theo khách hàng theo điều kiện đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=318 height=319
-:src="androidImages.image207"></span></p>
+lang=EN-GB><img border=0 width=318 height=319 :src="androidImages.image212"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6528,8 +6337,8 @@ hình Chương trình khảo sát -&gt; Tab khách hàng, nhấn vào 1 chương
 sát để xem chi tiết Chương trình khảo sát theo khách hang</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=462 height=319
-:src="androidImages.image208"></span></p>
+lang=EN-US><img border=0 width=463 height=319 id="Picture 11"
+:src="androidImages.image213"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6540,8 +6349,7 @@ hình Chương trình khảo sát -&gt; Tab khách hàng, nhấn vào Xem thốn
 thống kê khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=310 height=318
-:src="androidImages.image209"></span></p>
+lang=EN-GB><img border=0 width=310 height=319 :src="androidImages.image214"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6552,8 +6360,7 @@ hình Chương trình khảo sát -&gt; Tab khách hàng, nhấn vào Xem kết 
 danh sách khách hàng tham gia khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=312 height=319
-:src="androidImages.image210"></span></p>
+lang=EN-GB><img border=0 width=312 height=319 :src="androidImages.image215"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6565,8 +6372,7 @@ cần lọc -&gt; Nhấn nút Tìm kiếm), để xem danh sách khách hàng th
 theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=319 height=319
-:src="androidImages.image211"></span></p>
+lang=EN-GB><img border=0 width=319 height=319 :src="androidImages.image216"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6577,8 +6383,7 @@ kiện sắp xếp, để sắp xếp danh sách khách hàng tham gia khảo s�
 đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=311 height=320
-:src="androidImages.image212"></span></p>
+lang=EN-GB><img border=0 width=311 height=319 :src="androidImages.image217"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6588,8 +6393,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 kết quả khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=320 height=320
-:src="androidImages.image213"></span></p>
+lang=EN-GB><img border=0 width=320 height=319 :src="androidImages.image218"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -6602,8 +6406,7 @@ kiếm), để xem danh sách chương trình khảo sát theo nhân viên theo 
 kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=314 height=319
-:src="androidImages.image214"></span></p>
+lang=EN-GB><img border=0 width=314 height=319 :src="androidImages.image219"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6614,8 +6417,8 @@ theo -&gt; Chọn điều kiện sắp xếp, để sắp xếp danh sách chư�
 theo nhân viên theo điều kiện đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=311 height=319
-:src="androidImages.image156"></span></p>
+lang=EN-US><img border=0 width=310 height=319 id="Picture 10"
+:src="androidImages.image220"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6626,8 +6429,7 @@ hình Chương trình khảo sát -&gt; Tab nhân viên, nhấn vào 1 chương 
 sát để xem chi tiết Chương trình khảo sát theo nhân viên</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=471 height=319
-:src="androidImages.image208"></span></p>
+border=0 width=471 height=319 id="Picture 9" :src="androidImages.image221"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6638,8 +6440,7 @@ hình Chương trình khảo sát -&gt; Tab nhân viên, nhấn vào Xem thống
 thống kê khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=310 height=319
-:src="androidImages.image215"></span></p>
+lang=EN-GB><img border=0 width=309 height=319 :src="androidImages.image222"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6650,8 +6451,7 @@ hình Chương trình khảo sát -&gt; Tab nhân viên, nhấn vào Xem kết q
 danh sách nhân viên tham gia khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=312 height=319
-:src="androidImages.image216"></span></p>
+lang=EN-GB><img border=0 width=312 height=319 :src="androidImages.image223"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6663,8 +6463,8 @@ lọc -&gt; Nhấn nút Tìm kiếm), để xem danh sách nhân viên tjam gia 
 điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=319
-:src="androidImages.image156"></span></p>
+lang=EN-US><img border=0 width=316 height=319 id="Picture 8"
+:src="androidImages.image224"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6675,16 +6475,14 @@ kiện sắp xếp, để sắp xếp danh sách nhân viên tham gia khảo sá
 đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=313 height=319
-:src="androidImages.image217"></span></p>
+lang=EN-GB><img border=0 width=313 height=319 :src="androidImages.image225"></span></p>
 
 <p class=MsoNormal style='margin-top:0cm'><span lang=EN-US style='font-size:
 12.0pt;line-height:150%'>-      Bước 3.4.3: Tại màn hình Khảo sát nhân
 viên-&gt; Nhấn Xem kết quả, để xem chi tiết kết quả khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=314 height=319
-:src="androidImages.image218"></span></p>
+lang=EN-GB><img border=0 width=315 height=319 :src="androidImages.image226"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><span lang="EN-US" style="font-size:12.0pt;
@@ -6828,8 +6626,7 @@ line-height:150%'>Khảo sát</span><span lang=EN-US style='font-size:12.0pt;
 line-height:150%'> -&gt; Thực hiện khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=308 height=303
-:src="androidImages.image219"></span></p>
+lang=EN-GB><img border=0 width=308 height=303 :src="androidImages.image227"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6842,8 +6639,7 @@ Nhấn nút Tìm kiếm), để xem danh sách chương trình khảo sát theo 
 kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=312 height=312
-:src="androidImages.image220"></span></p>
+lang=EN-GB><img border=0 width=313 height=312 :src="androidImages.image228"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -6853,8 +6649,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 kiện sắp xếp, để sắp xếp danh sách chương trình khảo sát theo điều kiện đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=328 height=319
-:src="androidImages.image221"></span></p>
+lang=EN-GB><img border=0 width=328 height=319 :src="androidImages.image229"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -6867,8 +6662,8 @@ style='font-size:12.0pt;line-height:150%'> nhấn vào 1 chương trình khảo 
 xem chi tiết chương trình</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=322 height=319
-:src="androidImages.image208"></span></p>
+lang=EN-US><img border=0 width=322 height=319 id="Picture 7"
+:src="androidImages.image230"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -6886,8 +6681,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%;letter-spacing:-.2pt'>Nhấn
 nút Hoàn thành -&gt; Nhấn nút Hoàn thành ở popup, để hoàn thành khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=468 height=236
-:src="androidImages.image222"></span></p>
+lang=EN-GB><img border=0 width=468 height=236 :src="androidImages.image231"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -6902,8 +6696,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%;letter-spacing:-.2pt'> nhấ
 icon Xem kết quả, để xem chi tiết kết quả khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=317 height=319
-:src="androidImages.image223"></span></p>
+lang=EN-GB><img border=0 width=317 height=319 :src="androidImages.image232"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -6914,8 +6707,8 @@ icon chỉnh sửa -&gt; Nhập thông tin cần chỉnh sửa và nhấn nút L
 nút Hoàn thành ở popup, để lưu kết quả chỉnh sửa </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=478 height=319
-:src="androidImages.image208"></span></p>
+lang=EN-US><img border=0 width=478 height=319 id="Picture 6"
+:src="androidImages.image233"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc184655166"></a><a name="_Toc187400009"><span lang="EN-US" id="4.9.2.4">4.9.2.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span lang="VI" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -7061,8 +6854,7 @@ hình Chương trình khảo sát sẽ hiển thị danh sách các chương tr�
 khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=182 height=319
-:src="androidImages.image224"></span></p>
+lang=EN-GB><img border=0 width=182 height=319 :src="androidImages.image234"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7075,8 +6867,7 @@ Nhấn nút Tìm kiếm), để xem danh sách chương trình khảo sát theo 
 kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=317 height=318
-:src="androidImages.image225"></span></p>
+lang=EN-GB><img border=0 width=317 height=319 :src="androidImages.image235"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7086,8 +6877,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 kiện sắp xếp, để sắp xếp danh sách chương trình khảo sát theo điều kiện đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=323 height=319
-:src="androidImages.image226"></span></p>
+lang=EN-GB><img border=0 width=323 height=319 :src="androidImages.image236"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -7100,8 +6890,7 @@ style='font-size:12.0pt;line-height:150%'> nhấn vào 1 chương trình khảo 
 xem chi tiết chương trình</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=468 height=276
-:src="androidImages.image227"></span></p>
+lang=EN-GB><img border=0 width=468 height=276 :src="androidImages.image237"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -7119,8 +6908,7 @@ lang=EN-US style='font-size:12.0pt;line-height:150%;letter-spacing:-.2pt'>Nhấn
 nút Hoàn thành -&gt; Nhấn nút Hoàn thành ở popup, để hoàn thành khảo sát</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;text-align:justify'><span lang=EN-US><img
-border=0 width=468 height=236
-:src="androidImages.image228"></span></p>
+border=0 width=468 height=236 id="Picture 5" :src="androidImages.image238"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -7135,8 +6923,8 @@ lang=EN-US style='font-size:12.0pt;line-height:150%;letter-spacing:-.2pt'> nhấ
 icon Xem kết quả, để xem chi tiết kết quả khảo sát</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=318 height=319
-:src="androidImages.image208"></span></p>
+lang=EN-US><img border=0 width=318 height=319 id="Picture 4"
+:src="androidImages.image239"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=VI style='font-size:12.0pt;line-height:150%'>-<span
@@ -7147,8 +6935,8 @@ icon chỉnh sửa -&gt; Nhập thông tin cần chỉnh sửa và nhấn nút L
 nút Hoàn thành ở popup, để lưu kết quả chỉnh sửa </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=478 height=319
-:src="androidImages.image208"></span></p>
+lang=EN-US><img border=0 width=478 height=319 id="Picture 3"
+:src="androidImages.image233"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><span lang="VI" style="font-size:12.0pt;line-height:
@@ -7258,8 +7046,7 @@ hình Danh mục -&gt; </span><span lang=EN-US style='font-size:12.0pt;line-heig
 -&gt; Danh sách công nợ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=314 height=274
-:src="androidImages.image229"></span></p>
+lang=EN-GB><img border=0 width=314 height=273 :src="androidImages.image240"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7271,8 +7058,7 @@ Nhập/ chọn điều kiện cần lọc -&gt; Nhấn nút Tìm kiếm), để 
 theo khách hàng theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=315 height=281
-:src="androidImages.image230"></span></p>
+lang=EN-GB><img border=0 width=315 height=281 :src="androidImages.image241"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7283,8 +7069,7 @@ khách hàng, nhấn icon xắp xếp theo -&gt; Chọn điều kiện sắp x�
 danh sách công nợ theo khách hàng theo điều kiện đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=310 height=319
-:src="androidImages.image231"></span></p>
+lang=EN-GB><img border=0 width=311 height=319 :src="androidImages.image242"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7295,8 +7080,7 @@ hình Danh sách công nợ -&gt; Tab theo khách hàng, nhấn vào 1 khách h�
 chi tiết công nợ khách hàng</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=310 height=319
-:src="androidImages.image232"></span></p>
+lang=EN-GB><img border=0 width=311 height=319 :src="androidImages.image243"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7308,8 +7092,8 @@ textbox Tìm kiếm -&gt; Nhấn nút Hoàn tất (hoặc nhấn icon Lọc -&gt
 kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=311 height=319
-:src="androidImages.image208"></span></p>
+lang=EN-US><img border=0 width=311 height=319 id="Picture 2"
+:src="androidImages.image244"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7319,8 +7103,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Chọn điều kiện sắp xếp, để sắp xếp danh sách chứng từ theo điều kiện đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=315 height=319
-:src="androidImages.image233"></span></p>
+lang=EN-GB><img border=0 width=315 height=319 :src="androidImages.image245"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7330,8 +7113,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 chi tiết chứng từ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=311 height=319
-:src="androidImages.image234"></span></p>
+lang=EN-GB><img border=0 width=311 height=319 :src="androidImages.image246"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7343,8 +7125,7 @@ Nhập/ chọn điều kiện cần lọc -&gt; Nhấn nút Tìm kiếm), để 
 từ theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=317 height=319
-:src="androidImages.image235"></span></p>
+lang=EN-GB><img border=0 width=316 height=319 :src="androidImages.image247"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7355,8 +7136,7 @@ theo -&gt; Chọn điều kiện sắp xếp, để sắp xếp danh sách chứ
 đã chọn</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=312 height=319
-:src="androidImages.image208"></span></p>
+lang=EN-US><img border=0 width=312 height=319 :src="androidImages.image248"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7368,8 +7148,7 @@ sách chứng từ -&gt; Tab theo chứng từ</span><span lang=EN-US style='fon
 12.0pt;line-height:150%'>, nhấn vào 1 chứng từ để xem chi tiết chứng từ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-GB><img border=0 width=310 height=319
-:src="androidImages.image236"></span></p>
+lang=EN-GB><img border=0 width=310 height=319 :src="androidImages.image249"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc184655179"></a><a name="_Toc187400022"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.10.1.4">4.10.1.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
@@ -7488,8 +7267,7 @@ hình Danh mục -&gt; </span><span lang=EN-US style='font-size:12.0pt;line-heig
 -&gt; Quản lý thanh toán</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=307 height=305
-:src="androidImages.image237"></span></p>
+lang=EN-US><img border=0 width=308 height=305 :src="androidImages.image250"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7501,8 +7279,7 @@ chọn điều kiện cần lọc -&gt; Nhấn nút Tìm kiếm), để xem danh
 theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=320 height=319
-:src="androidImages.image238"></span></p>
+lang=EN-US><img border=0 width=321 height=319 :src="androidImages.image251"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7514,8 +7291,7 @@ thu<span style='letter-spacing:-.2pt'>, nhấn icon xắp xếp theo -&gt; Chọ
 kiện sắp xếp, để sắp xếp danh sách phiếu thu theo điều kiện đã chọn</span></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=319
-:src="androidImages.image239"></span></p>
+lang=EN-US><img border=0 width=316 height=319 :src="androidImages.image252"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7526,8 +7302,7 @@ hình Quản lý thanh toán -&gt; Tab phiếu thu, nhấn nút Thêm, để xem
 chứng từ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=316 height=320
-:src="androidImages.image240"></span></p>
+lang=EN-US><img border=0 width=316 height=320 :src="androidImages.image253"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7539,8 +7314,7 @@ Nhấn nút Hoàn tất (hoặc nhấn icon Lọc -&gt; Nhập/ chọn điều k
 Nhấn nút Tìm kiếm), để xem danh sách chứng từ theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=319 height=319
-:src="androidImages.image241"></span></p>
+lang=EN-US><img border=0 width=319 height=319 :src="androidImages.image254"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7551,8 +7325,7 @@ chứng từ cần thanh toán -&gt; Nhập Số tiền/ hình thức thanh toá
 nút Thanh toán -&gt; Nhấn nút Xác nhận, để thêm mới phiếu thu</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=239
-:src="androidImages.image242"></span></p>
+lang=EN-US><img border=0 width=468 height=238 :src="androidImages.image255"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7564,8 +7337,7 @@ chọn điều kiện cần lọc -&gt; Nhấn nút Tìm kiếm), để xem danh
 theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=320 height=319
-:src="androidImages.image243"></span></p>
+lang=EN-US><img border=0 width=320 height=319 :src="androidImages.image256"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7577,8 +7349,7 @@ chi<span style='letter-spacing:-.2pt'>, nhấn icon xắp xếp theo -&gt; Chọ
 kiện sắp xếp, để sắp xếp danh sách phiếu chi theo điều kiện đã chọn</span></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=317 height=320
-:src="androidImages.image244"></span></p>
+lang=EN-US><img border=0 width=317 height=319 :src="androidImages.image257"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7589,8 +7360,7 @@ hình Quản lý thanh toán -&gt; Tab phiếu chi, nhấn nút Thêm, để xem
 chứng từ</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=314 height=319
-:src="androidImages.image245"></span></p>
+lang=EN-US><img border=0 width=314 height=319 :src="androidImages.image258"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7602,8 +7372,7 @@ Hoàn tất (hoặc nhấn icon Lọc -&gt; Nhập/ chọn điều kiện cần 
 Tìm kiếm), để xem danh sách chứng từ theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=314 height=319
-:src="androidImages.image246"></span></p>
+lang=EN-US><img border=0 width=313 height=319 :src="androidImages.image259"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7614,8 +7383,7 @@ chứng từ cần thanh toán -&gt; Nhập Số tiền/ hình thức thanh toá
 nút Thanh toán -&gt; Nhấn nút Xác nhận, để thêm mới phiếu chi</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=468 height=239
-:src="androidImages.image247"></span></p>
+lang=EN-US><img border=0 width=468 height=238 :src="androidImages.image260"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%'>-<span
@@ -7627,8 +7395,7 @@ Nhập/ chọn điều kiện cần lọc -&gt; Nhấn nút Tìm kiếm), để 
 thu/ phiếu chi đã từ chối theo điều kiện tìm kiếm</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=313 height=319
-:src="androidImages.image248"></span></p>
+lang=EN-US><img border=0 width=313 height=319 :src="androidImages.image261"></span></p>
 
 <p class=MsoNormal style='margin:0cm;margin-bottom:.0001pt;text-align:justify;
 text-indent:0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
@@ -7641,8 +7408,8 @@ kiện sắp xếp, để sắp xếp danh sách phiếu thu/ phiếu chi đã t
 kiện đã chọn</span></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;text-align:center'><span
-lang=EN-US><img border=0 width=330 height=319
-:src="androidImages.image249"></span></p>
+lang=EN-US><img border=0 width=330 height=319 id="Picture 1"
+:src="androidImages.image262"></span></p>
 
 <h4 style="margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 36.0pt;text-indent:-36.0pt"><a name="_Toc184655185"></a><a name="_Toc187400028"><span lang="EN-US" style="font-size:12.0pt;line-height:150%" id="4.10.2.4">4.10.2.4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span lang="EN-US" style="font-size:12.0pt;line-height:150%">Các trường hợp ngoại lệ</span></a></h4>
