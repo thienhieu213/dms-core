@@ -1,5 +1,4 @@
-<h1><a name="_Toc187243426"><span lang="EN-US" id="5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span lang="EN-US">PHỤ LỤC</span></a></h1>
+<h1 style="margin-left:36.0pt"><a name="_Toc187243426"><span lang="EN-US" id="5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span lang="EN-US">PHỤ LỤC</span></a></h1>
 
 <h2><a name="_Toc187243427"><span lang="EN-US" id="5.1">5.1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Bảng mã lỗi và hướng dẫn khắc phục</span></a><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></h2>
@@ -106,6 +105,8 @@ dụng không?</span></p>
 
 <p class=MsoNormalIndent><span lang=EN-US>Trường hợp vấn đề chưa được khắc phục
 thì cần liên hệ tới đầu mối hỗ trợ để được hỗ trợ</span></p>
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
 </div>
 

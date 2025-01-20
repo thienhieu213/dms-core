@@ -792,8 +792,8 @@
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:18.65pt'>
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
-  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Chương trình khuyến
-  mãi</span></p>
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>Chương trình
+  khuyến mãi</span></p>
   </td>
   <td width=257 style='width:192.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2141,7 +2141,8 @@ chức năng trong Mô-đun Báo cáo</span></a><span lang="EN-US">&nbsp;&nbsp;&
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.1pt'>
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
-  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>1. Danh sách đơn hàng</span></p>
+  auto'><span lang=EN-US style='font-size:12.0pt;color:black'>1. Danh sách đơn
+  hàng</span></p>
   <p class=MsoNormal style='margin-top:0cm;line-height:normal;page-break-after:
   auto'><span lang=EN-US style='font-size:12.0pt;color:black'>2. Tỷ lệ chuyển
   đổi đơn hàng</span></p>

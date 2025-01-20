@@ -41,8 +41,7 @@ thoại: 18008000-nhánh 6</span></p>
 margin-left:22.5pt;margin-bottom:.0001pt;text-indent:-22.5pt'><span lang=EN-US
 style='font-size:12.0pt;line-height:150%'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang=EN-US style='font-size:12.0pt;line-height:150%'>Email:
-</span><a href="mailto:cskh@viettel.com.vn"><span lang=EN-US style='font-size:
-12.0pt;line-height:150%'>cskh@viettel.com.vn</span></a></p>
+<a href="mailto:cskh@viettel.com.vn">cskh@viettel.com.vn</a></span></p>
 
 <h2><a name="_Toc187242969"><span lang="EN-US" id="2.2">2.2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span lang="EN-US">Các nội dung khác</span></a></h2>
